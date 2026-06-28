@@ -11,6 +11,11 @@ function hasRemovedChargeProject(value) {
   return /@charge_xyz/i.test(JSON.stringify(value));
 }
 
+function introForPost(post) {
+  const titleIndex = post.text.indexOf(post.title);
+  return titleIndex < 0 ? "" : post.text.slice(0, titleIndex).trim();
+}
+
 if (posts.length !== prompts.length) {
   errors.push(`Post/prompt count mismatch: ${posts.length} posts, ${prompts.length} image prompts`);
 }
@@ -29,6 +34,14 @@ for (const post of posts) {
   }
   if (post.text && /not financial advice/i.test(post.text)) {
     errors.push(`Day ${post.day}: NFA text still present`);
+  }
+  const intro = introForPost(post);
+  const introLines = intro.split("\n");
+  const handleLine = introLines.findIndex((line) => /@[A-Za-z0-9_]+/.test(line)) + 1;
+  if (post.day >= 2) {
+    if (intro.length > 260) errors.push(`Day ${post.day}: intro exceeds 260 chars`);
+    if (intro.trim().startsWith("@")) errors.push(`Day ${post.day}: intro starts with a tag`);
+    if (handleLine < 2) errors.push(`Day ${post.day}: tag should be integrated on line 2 or later`);
   }
   if (!Array.isArray(post.sections) || post.sections.length !== 5) {
     errors.push(`Day ${post.day}: expected 5 sections`);

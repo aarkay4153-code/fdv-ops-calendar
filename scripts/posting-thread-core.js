@@ -63,6 +63,61 @@ const COMPACT_OPENINGS_BY_TITLE = {
     "@peaqnetwork argues machine apps need more than a generic smart contract chain. Native identity and coordination may be the edge. Read on.",
 };
 
+Object.assign(COMPACT_OPENINGS_BY_TITLE, {
+  "NATIX VX360 Turns Tesla Cameras into a Physical AI Data Product":
+    "Tesla cameras are already collecting useful road context.\nWith VX360, @NATIXNetwork turns that footage into a product for owners and Physical AI. Read on.",
+  "How NATIX Converts Raw Dashcam Footage into Autonomous-Driving Intelligence":
+    "Raw dashcam footage is only the starting point.\n@NATIXNetwork still has to turn video into trusted driving intelligence buyers can use. Read on.",
+  "Anyone Protocol’s 3-Hop Encrypted Relay Network for Decentralized Privacy":
+    "Privacy breaks when one provider can see too much.\n@AnyoneFDN splits that trust across three encrypted hops, so no relay sees the full path. Read on.",
+  "Community-Driven Node Supply and Bandwidth Capacity in Anyone’s Privacy Network":
+    "Encryption alone does not make a privacy network scale.\n@AnyoneFDN also needs community-run bandwidth that stays fast and reliable. Read on.",
+  "Privacy Infrastructure for Agents, Devices, and Users Versus Centralized VPN Tools":
+    "VPNs were built for people, not always for agents and devices.\n@AnyoneFDN points to privacy rails for machine activity at scale. Read on.",
+  "AI-Native Asset Sourcing and Diligence in Penomo’s Infrastructure Finance Platform":
+    "Infrastructure finance often slows down inside messy diligence.\n@penomoprotocol uses AI to turn documents into faster asset decisions. Read on.",
+  "Reducing Manual Reporting and Workflow Friction in Renewable Energy Infrastructure":
+    "Renewable assets produce reports, but not always clarity.\n@penomoprotocol targets the manual work that slows real infrastructure decisions. Read on.",
+  "AI-Native Capital Formation for Energy Infrastructure Projects":
+    "Clean-energy projects can struggle even when capital exists.\n@penomoprotocol is focused on the workflow friction between assets and funding. Read on.",
+  "Prize Incentives for Embodied AI Development on BitRobot Network":
+    "Robotics progress needs more than impressive demos.\n@BitRobotNetwork uses prize incentives to push builders toward useful embodied AI missions. Read on.",
+  "Active Missions, Task Design, and Builder Incentives on BitRobot Network":
+    "The right mission can change what robotics builders attempt.\n@BitRobotNetwork tests whether active tasks can reward useful machine performance. Read on.",
+  "Open Challenge Model Versus Closed Robotics Lab Approaches for Embodied AI":
+    "Closed labs cannot be the only path for embodied AI.\n@BitRobotNetwork explores open challenges for hard robotics problems. Read on.",
+  "Dashcam Contributors as the Mapping Supply Layer in Hivemapper’s DePIN":
+    "Everyday drives can become map supply if the network is useful.\n@Hivemapper turns dashcam contributors into a road-data layer. Read on.",
+  "Road Coverage Expansion and Map Update Processes in Hivemapper DePIN":
+    "Maps start aging the moment roads change.\n@Hivemapper bets repeated community coverage can keep road data fresher than fleet visits. Read on.",
+  "Logistics and Autonomous Driving Use Cases Enabled by Hivemapper Versus Centralized Mapping":
+    "Logistics and autonomy need fresher maps than normal drivers notice.\n@Hivemapper could make road updates more continuous. Read on.",
+  "Centimeter-Level Positioning Accuracy Through ROVR’s LiDAR and RTK Layer":
+    "Knowing the street is not enough when machines need the centimeter.\n@ROVR_Network is building for that precision gap. Read on.",
+  "Precision Spatial Data Supporting Machine Navigation and Robotics Applications":
+    "Robots need spatial data they can act on, not just directions.\n@ROVR_Network focuses on precision for machine navigation. Read on.",
+  "ROVR’s Precision Spatial Data Layer Versus Consumer-Grade Mapping Approaches":
+    "Consumer maps can tolerate errors that Physical AI cannot.\n@ROVR_Network shows why a few centimeters can matter for real machines. Read on.",
+  "Community-Deployed Hotspots as Decentralized Wireless Infrastructure":
+    "Wireless coverage does not always have to start with telecom giants.\n@helium tests whether communities can deploy useful networks. Read on.",
+  "Coverage Visibility and Verification Through the Helium Explorer":
+    "Decentralized coverage needs public proof, not just claims.\n@helium makes network growth visible through its explorer. Read on.",
+  "Coverage Economics and Deployment Model Compared to Traditional Telecom Infrastructure":
+    "Traditional telecom plans coverage from the center.\n@helium flips the model by rewarding deployed supply from the edge. Read on.",
+  "DAO Ownership Model for Access to Humanoid Robotics Investments":
+    "Humanoid robotics exposure is usually kept inside private capital.\n@xmaquinanetwork brings community ownership into that conversation. Read on.",
+  "Treasury Transparency and Governance-Driven Capital Allocation in XMAQUINA":
+    "A robotics DAO has to prove how capital is handled.\n@xmaquinanetwork makes treasury transparency part of the governance model. Read on.",
+  "Community DAO Exposure Versus Private Venture Capital for Humanoid Robotics":
+    "Private funds bring expertise, but access is limited.\n@xmaquinanetwork tests a different path for community robotics exposure. Read on.",
+  "Machine Identities as the Coordination Layer for DePIN and Autonomous Devices":
+    "Machines need identity before they can join an economy.\n@peaqnetwork is building coordination rails for devices that earn and transact. Read on.",
+  "DePIN Application Ecosystem and Machine Onboarding Rails on peaq":
+    "DePIN builders should not rebuild machine onboarding every time.\n@peaqnetwork gives projects shared rails for identity and coordination. Read on.",
+  "peaq’s Specialization for the Machine Economy Versus General-Purpose Smart Contract Chains":
+    "Generic chains can run machine apps, but design still matters.\n@peaqnetwork argues native identity and coordination are the edge. Read on.",
+});
+
 const PROJECT_FRAMES = {
   "NATIX Network": {
     opening:
@@ -273,7 +328,7 @@ function openingBlockForPost(post) {
   const compactOpening = COMPACT_OPENINGS_BY_TITLE[post.title];
 
   if (compactOpening) {
-    return [ensurePeriod(compactOpening)];
+    return [normalizeText(compactOpening)];
   }
 
   return [
