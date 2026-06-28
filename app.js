@@ -315,8 +315,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 8: Community-Driven Node Supply and Bandwidth Capacity in Anyone’s Privacy Network.\nScene/backdrop: Project: Anyone (@AnyoneFDN). Article title: Community-Driven Node Supply and Bandwidth Capacity in Anyone’s Privacy Network. Core ideas to visualize: Relay Node Supply Model; Bandwidth Capacity and Performance; Incentive Alignment for Sustained Supply; Comparison to Centralized Bandwidth Provisioning.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-08-anyone.png",
-    "imageLocalPath": "images/day-08-anyone.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.anyone.io/",
       "https://docs.anyone.io/relay",
@@ -379,8 +379,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 9: Privacy Infrastructure for Agents, Devices, and Users Versus Centralized VPN Tools.\nScene/backdrop: Project: Anyone (@AnyoneFDN). Article title: Privacy Infrastructure for Agents, Devices, and Users Versus Centralized VPN Tools. Core ideas to visualize: Privacy for Autonomous Agents and Devices; Decentralized Trust Model; Comparison to Centralized VPN and Privacy Services; Use Cases in the Machine Economy.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-09-anyone.png",
-    "imageLocalPath": "images/day-09-anyone.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.anyone.io/",
       "https://docs.anyone.io/",
@@ -443,8 +443,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 10: AI-Native Asset Sourcing and Diligence in Penomo’s Infrastructure Finance Platform.\nScene/backdrop: Project: Penomo Protocol (@penomoprotocol). Article title: AI-Native Asset Sourcing and Diligence in Penomo’s Infrastructure Finance Platform. Core ideas to visualize: AI-Driven Asset Intake and Normalization; Due Diligence Automation and Risk Detection; Comparison to Traditional Spreadsheet-Based Workflows; Relevance to Renewable Energy Infrastructure.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-10-penomo-protocol.png",
-    "imageLocalPath": "images/day-10-penomo-protocol.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://penomo.com/",
       "https://penomo.com/blog",
@@ -507,8 +507,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 11: Reducing Manual Reporting and Workflow Friction in Renewable Energy Infrastructure.\nScene/backdrop: Project: Penomo Protocol (@penomoprotocol). Article title: Reducing Manual Reporting and Workflow Friction in Renewable Energy Infrastructure. Core ideas to visualize: Automated Reporting and Data Management; Impact on Manual Workload; Workflow Integration and Oversight; Comparison to Traditional Infrastructure Finance Operations.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-11-penomo-protocol.png",
-    "imageLocalPath": "images/day-11-penomo-protocol.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://penomo.com/",
       "https://penomo.com/about",
@@ -571,8 +571,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 12: AI-Native Capital Formation for Energy Infrastructure Projects.\nScene/backdrop: Project: Penomo Protocol (@penomoprotocol). Article title: AI-Native Capital Formation for Energy Infrastructure Projects. Core ideas to visualize: End-to-End Workflow Automation; Capital Velocity and Scaling Potential; Relevance to Energy Transition Finance; Comparison to Traditional Infrastructure Finance Processes.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-12-penomo-protocol.png",
-    "imageLocalPath": "images/day-12-penomo-protocol.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://penomo.com/",
       "https://penomo.com/blog",
@@ -635,8 +635,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 13: Prize Incentives for Embodied AI Development on BitRobot Network.\nScene/backdrop: Project: BitRobot Network (@BitRobotNetwork). Article title: Prize Incentives for Embodied AI Development on BitRobot Network. Core ideas to visualize: Prize Structure and Challenge Design; Incentives for Builders and Researchers; Embodied AI Task Categories; Comparison to Closed Robotics Lab Models.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-13-bitrobot-network.png",
-    "imageLocalPath": "images/day-13-bitrobot-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://bitrobot.ai/",
       "https://x.com/BitRobotNetwork"
@@ -698,8 +698,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 14: Active Missions, Task Design, and Builder Incentives on BitRobot Network.\nScene/backdrop: Project: BitRobot Network (@BitRobotNetwork). Article title: Active Missions, Task Design, and Builder Incentives on BitRobot Network. Core ideas to visualize: Active Mission Categories; Task Design Principles; Builder Participation and Incentives; Data and Model Outputs.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-14-bitrobot-network.png",
-    "imageLocalPath": "images/day-14-bitrobot-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://bitrobot.ai/",
       "https://x.com/BitRobotNetwork"
@@ -761,8 +761,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 15: Open Challenge Model Versus Closed Robotics Lab Approaches for Embodied AI.\nScene/backdrop: Project: BitRobot Network (@BitRobotNetwork). Article title: Open Challenge Model Versus Closed Robotics Lab Approaches for Embodied AI. Core ideas to visualize: Open Participation Structure; Comparison to Closed Lab Models; Incentive and Output Differences; Limitations and Trade-offs.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-15-bitrobot-network.png",
-    "imageLocalPath": "images/day-15-bitrobot-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://bitrobot.ai/",
       "https://x.com/BitRobotNetwork"
@@ -824,8 +824,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 16: Dashcam Contributors as the Mapping Supply Layer in Hivemapper’s DePIN.\nScene/backdrop: Project: Hivemapper (@Hivemapper). Article title: Dashcam Contributors as the Mapping Supply Layer in Hivemapper’s DePIN. Core ideas to visualize: Contributor-Driven Data Collection; Quality and Validation Mechanisms; Scale and Coverage Characteristics; Comparison to Traditional Centralized Mapping.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-16-hivemapper.png",
-    "imageLocalPath": "images/day-16-hivemapper.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://hivemapper.com/",
       "https://docs.hivemapper.com/",
@@ -888,8 +888,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 17: Road Coverage Expansion and Map Update Processes in Hivemapper DePIN.\nScene/backdrop: Project: Hivemapper (@Hivemapper). Article title: Road Coverage Expansion and Map Update Processes in Hivemapper DePIN. Core ideas to visualize: Continuous Imagery Ingestion; Map Update Mechanisms; Coverage Expansion Dynamics; Comparison to Centralized Mapping Update Cycles.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-17-hivemapper.png",
-    "imageLocalPath": "images/day-17-hivemapper.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://hivemapper.com/",
       "https://docs.hivemapper.com/",
@@ -952,8 +952,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 18: Logistics and Autonomous Driving Use Cases Enabled by Hivemapper Versus Centralized Mapping.\nScene/backdrop: Project: Hivemapper (@Hivemapper). Article title: Logistics and Autonomous Driving Use Cases Enabled by Hivemapper Versus Centralized Mapping. Core ideas to visualize: Logistics Routing Applications; Autonomous and Assisted Driving Data Needs; Data Characteristics and Trade-offs; Comparison to Centralized Mapping Providers.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-18-hivemapper.png",
-    "imageLocalPath": "images/day-18-hivemapper.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://hivemapper.com/",
       "https://docs.hivemapper.com/",
@@ -1016,8 +1016,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 19: Centimeter-Level Positioning Accuracy Through ROVR’s LiDAR and RTK Layer.\nScene/backdrop: Project: ROVR Network (@ROVR_Network). Article title: Centimeter-Level Positioning Accuracy Through ROVR’s LiDAR and RTK Layer. Core ideas to visualize: Hardware and Sensor Fusion; Achieving Centimeter-Level Accuracy; Data Collection Process; Comparison to Consumer-Grade Positioning.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-19-rovr-network.png",
-    "imageLocalPath": "images/day-19-rovr-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://rovr.network/",
       "https://rovr-network.gitbook.io/rovr-docs",
@@ -1080,8 +1080,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 20: Precision Spatial Data Supporting Machine Navigation and Robotics Applications.\nScene/backdrop: Project: ROVR Network (@ROVR_Network). Article title: Precision Spatial Data Supporting Machine Navigation and Robotics Applications. Core ideas to visualize: HD Map and Spatial Dataset Generation; Applications in Machine Navigation; Robotics and Embodied AI Use Cases; Comparison to Lower-Precision Spatial Data.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-20-rovr-network.png",
-    "imageLocalPath": "images/day-20-rovr-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://rovr.network/",
       "https://rovr-network.gitbook.io/rovr-docs",
@@ -1144,8 +1144,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 21: ROVR’s Precision Spatial Data Layer Versus Consumer-Grade Mapping Approaches.\nScene/backdrop: Project: ROVR Network (@ROVR_Network). Article title: ROVR’s Precision Spatial Data Layer Versus Consumer-Grade Mapping Approaches. Core ideas to visualize: Accuracy and Sensor Specifications; Limitations of Consumer-Grade Mapping; When Precision Matters; Decentralized Collection Economics.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-21-rovr-network.png",
-    "imageLocalPath": "images/day-21-rovr-network.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://rovr.network/",
       "https://rovr-network.gitbook.io/rovr-docs",
@@ -1208,8 +1208,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 22: Community-Deployed Hotspots as Decentralized Wireless Infrastructure.\nScene/backdrop: Project: Helium (@helium). Article title: Community-Deployed Hotspots as Decentralized Wireless Infrastructure. Core ideas to visualize: Hotspot Deployment Model; Wireless Technologies Supported; Incentives and Network Growth; Comparison to Traditional Telecom Buildouts.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-22-helium.png",
-    "imageLocalPath": "images/day-22-helium.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.helium.com/",
       "https://docs.helium.com/",
@@ -1272,8 +1272,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 23: Coverage Visibility and Verification Through the Helium Explorer.\nScene/backdrop: Project: Helium (@helium). Article title: Coverage Visibility and Verification Through the Helium Explorer. Core ideas to visualize: Explorer Functionality; Proof-of-Coverage Verification; Use Cases for Visibility; Comparison to Traditional Telecom Coverage Tools.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-23-helium.png",
-    "imageLocalPath": "images/day-23-helium.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://explorer.helium.com/",
       "https://www.helium.com/",
@@ -1336,8 +1336,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 24: Coverage Economics and Deployment Model Compared to Traditional Telecom Infrastructure.\nScene/backdrop: Project: Helium (@helium). Article title: Coverage Economics and Deployment Model Compared to Traditional Telecom Infrastructure. Core ideas to visualize: Capital and Deployment Economics; Incentive Alignment; Coverage Characteristics; Comparison to Traditional Telecom Economics.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-24-helium.png",
-    "imageLocalPath": "images/day-24-helium.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.helium.com/",
       "https://docs.helium.com/",
@@ -1400,8 +1400,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 25: DAO Ownership Model for Access to Humanoid Robotics Investments.\nScene/backdrop: Project: XMAQUINA (@xmaquinanetwork). Article title: DAO Ownership Model for Access to Humanoid Robotics Investments. Core ideas to visualize: DAO Structure and Ownership; Access to Robotics Investments; Governance and Decision-Making; Comparison to Traditional Investment Vehicles.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-25-xmaquina.png",
-    "imageLocalPath": "images/day-25-xmaquina.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.xmaquina.io/",
       "https://www.xmaquina.io/blog/robotics-treasury-report-may-2026",
@@ -1464,8 +1464,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 26: Treasury Transparency and Governance-Driven Capital Allocation in XMAQUINA.\nScene/backdrop: Project: XMAQUINA (@xmaquinanetwork). Article title: Treasury Transparency and Governance-Driven Capital Allocation in XMAQUINA. Core ideas to visualize: Treasury Transparency Practices; Capital Allocation Process; Governance Participation; Comparison to Private Robotics Funds.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-26-xmaquina.png",
-    "imageLocalPath": "images/day-26-xmaquina.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.xmaquina.io/",
       "https://www.xmaquina.io/blog/robotics-treasury-report-may-2026",
@@ -1528,8 +1528,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 27: Community DAO Exposure Versus Private Venture Capital for Humanoid Robotics.\nScene/backdrop: Project: XMAQUINA (@xmaquinanetwork). Article title: Community DAO Exposure Versus Private Venture Capital for Humanoid Robotics. Core ideas to visualize: Access Characteristics; Transparency and Reporting; Decision-Making and Control; Risk and Return Profile Considerations.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-27-xmaquina.png",
-    "imageLocalPath": "images/day-27-xmaquina.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.xmaquina.io/",
       "https://x.com/xmaquinanetwork"
@@ -1591,8 +1591,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 28: Machine Identities as the Coordination Layer for DePIN and Autonomous Devices.\nScene/backdrop: Project: peaq (@peaqnetwork). Article title: Machine Identities as the Coordination Layer for DePIN and Autonomous Devices. Core ideas to visualize: Machine Identity Architecture; Role in DePIN Coordination; Autonomous Economic Participation; Comparison to Generic Smart Contract Identity Solutions.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-28-peaq.png",
-    "imageLocalPath": "images/day-28-peaq.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.peaq.xyz/",
       "https://docs.peaq.network/",
@@ -1655,8 +1655,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 29: DePIN Application Ecosystem and Machine Onboarding Rails on peaq.\nScene/backdrop: Project: peaq (@peaqnetwork). Article title: DePIN Application Ecosystem and Machine Onboarding Rails on peaq. Core ideas to visualize: Application Ecosystem Breadth; Machine Onboarding Infrastructure; DePIN-Specific Features; Comparison to General-Purpose Blockchains.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-29-peaq.png",
-    "imageLocalPath": "images/day-29-peaq.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.peaq.xyz/",
       "https://docs.peaq.network/",
@@ -1719,8 +1719,8 @@ window.POSTING_THREADS = [
       }
     ],
     "imagePrompt": "Use case: stylized-concept\nAsset type: X long-post image attachment and GitHub Pages public image\nPrimary request: Create one 16-bit pixel art editorial image for Day 30: peaq’s Specialization for the Machine Economy Versus General-Purpose Smart Contract Chains.\nScene/backdrop: Project: peaq (@peaqnetwork). Article title: peaq’s Specialization for the Machine Economy Versus General-Purpose Smart Contract Chains. Core ideas to visualize: Machine Economy Specialization; DePIN Coordination Focus; Comparison to General-Purpose L1s; Ecosystem and Adoption Implications.\nSubject: a single clear visual metaphor for the article's infrastructure thesis, using real-world machines, networks, data flows, maps, sensors, vehicles, robots, chargers, cameras, or connectivity elements only when relevant to the article.\nStyle/medium: premium 16-bit pixel art, crisp pixel clusters, limited but rich palette, isometric/editorial game-art detail, subtle dithering, no photorealism.\nComposition/framing: exact 5:2 ultrawide social banner composition, one strong central focal idea, readable at small social-media size, balanced foreground and background.\nLighting/mood: cinematic but clean, optimistic infrastructure-analysis mood, high contrast without heavy darkness.\nColor palette: varied by project, avoid a one-note palette; use saturated accents on a controlled dark-neutral or sky-neutral base.\nText (verbatim): no text.\nConstraints: no words, no letters, no numbers, no captions, no logos, no brand marks, no watermarks, no UI panels, no charts with labels, no readable signage.\nAvoid: blurry pixels, fake typography, distorted text-like marks, meme style, photorealistic rendering, generic stock imagery.",
-    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/day-30-peaq.png",
-    "imageLocalPath": "images/day-30-peaq.png",
+    "imageUrl": null,
+    "imageLocalPath": null,
     "sourceLinks": [
       "https://www.peaq.xyz/",
       "https://docs.peaq.network/",

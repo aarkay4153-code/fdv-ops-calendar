@@ -366,11 +366,14 @@ function buildPostingThreads(calendarData) {
 
   return posts.map((post) => {
     const image = imagePromptByDay.get(post.day);
+    const imageLocalPath = image && image.localPath;
+    const imageExists =
+      imageLocalPath && fs.existsSync(path.join(process.cwd(), imageLocalPath));
     return buildPostForCalendarItem({
       ...post,
       date: getPostDate(startDate, post.day),
-      imageUrl: image && image.publicUrl,
-      imageLocalPath: image && image.localPath,
+      imageUrl: imageExists ? image.publicUrl : null,
+      imageLocalPath: imageExists ? imageLocalPath : null,
       imagePrompt: image ? image.prompt : post.imagePrompt,
     });
   });
