@@ -12,6 +12,7 @@
     "buffer:channels": "node scripts/list-buffer-channels.js",
     "schedule:dry-run": "node scripts/schedule-buffer-thread.js --dry-run",
     "schedule:live": "node scripts/schedule-buffer-thread.js",
-    "test": "node --test scripts/posting-thread-core.test.js"
+    "test": "node --test scripts/posting-thread-core.test.js",
+    "generate:dashboard": "node scripts/generate-active-dashboard.js"
   }
 }
