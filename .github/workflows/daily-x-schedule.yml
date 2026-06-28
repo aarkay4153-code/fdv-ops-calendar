@@ -1,0 +1,58 @@
+name: Daily X Long Post Scheduler
+
+on:
+  schedule:
+    # 18:10 IST is 12:40 UTC.
+    - cron: "40 12 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Optional posting date to schedule, in YYYY-MM-DD."
+        required: false
+        type: string
+      dry_run:
+        description: "Validate and print the Buffer payload without scheduling."
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Generate long-form posting articles
+        run: node scripts/generate-posting-threads.js
+
+      - name: Validate scheduler
+        run: node --test scripts/posting-thread-core.test.js
+
+      - name: Schedule X long post
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] && { [ -z "$BUFFER_API_KEY" ] || [ -z "$BUFFER_CHANNEL_ID" ]; }; then
+            echo "Buffer secrets are not configured yet, so the scheduled run is validation-only."
+            exit 0
+          fi
+
+          args=()
+
+          if [ -n "${{ inputs.date }}" ]; then
+            args+=(--date "${{ inputs.date }}")
+          fi
+
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            args+=(--dry-run)
+          fi
+
+          node scripts/schedule-buffer-thread.js "${args[@]}"

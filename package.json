@@ -1,0 +1,17 @@
+{
+  "name": "fdv-ops-x-posting-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "generate:posts": "node scripts/generate-posting-threads.js",
+    "generate:image-prompts": "node scripts/generate-image-prompts.js",
+    "generate:threads": "node scripts/generate-posting-threads.js",
+    "audit:assets": "node scripts/audit-posting-assets.js",
+    "buffer:check": "node scripts/check-buffer-connection.js",
+    "buffer:channels": "node scripts/list-buffer-channels.js",
+    "schedule:dry-run": "node scripts/schedule-buffer-thread.js --dry-run",
+    "schedule:live": "node scripts/schedule-buffer-thread.js",
+    "test": "node --test scripts/posting-thread-core.test.js"
+  }
+}
