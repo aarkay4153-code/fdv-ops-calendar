@@ -1,6 +1,9 @@
 name: Daily X Long Post Scheduler
 
 on:
+  schedule:
+    # 18:10 IST is 12:40 UTC. Runs after the day's 18:00 post publishes.
+    - cron: "40 12 * * *"
   workflow_dispatch:
     inputs:
       date:
@@ -27,9 +30,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "24"
-
-      - name: Generate long-form posting articles
-        run: node scripts/generate-posting-threads.js
 
       - name: Validate scheduler
         run: node --test scripts/posting-thread-core.test.js
