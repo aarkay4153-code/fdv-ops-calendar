@@ -1,9 +1,6 @@
 name: Daily X Long Post Scheduler
 
 on:
-  schedule:
-    # 18:10 IST is 12:40 UTC.
-    - cron: "40 12 * * *"
   workflow_dispatch:
     inputs:
       date:

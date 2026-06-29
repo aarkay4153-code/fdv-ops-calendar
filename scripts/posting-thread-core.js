@@ -457,16 +457,13 @@ function validatePostingThread(post) {
   if (/not financial advice/i.test(post.text || "")) {
     errors.push("text still includes not-financial-advice reminder");
   }
-  if (!Array.isArray(post.sections) || post.sections.length !== 5) {
-    errors.push("expected 5 sections");
-  }
-  if (post.sections && post.sections[4] && post.sections[4].heading !== "Conclusion") {
-    errors.push("section 5 must be Conclusion");
+  if (!Array.isArray(post.sections) || post.sections.length < 1) {
+    errors.push("expected at least 1 section");
   }
   (post.sections || []).forEach((section, index) => {
     if (!section.heading) errors.push(`section ${index + 1} missing heading`);
-    if (!Array.isArray(section.bullets) || section.bullets.length < 3) {
-      errors.push(`section ${index + 1} needs at least 3 bullets`);
+    if (!Array.isArray(section.bullets) || section.bullets.length < 1) {
+      errors.push(`section ${index + 1} needs at least 1 bullet`);
     }
   });
 
@@ -518,6 +515,7 @@ function parseArgs(argv) {
     date: null,
     day: null,
     scheduleDate: null,
+    time: POSTING_TIME_IST,
     file: path.join(process.cwd(), "posting_threads.json"),
   };
 
@@ -537,6 +535,10 @@ function parseArgs(argv) {
       args.scheduleDate = argv[++index];
     } else if (arg.startsWith("--schedule-date=")) {
       args.scheduleDate = arg.slice("--schedule-date=".length);
+    } else if (arg === "--time") {
+      args.time = argv[++index];
+    } else if (arg.startsWith("--time=")) {
+      args.time = arg.slice("--time=".length);
     } else if (arg === "--file") {
       args.file = argv[++index];
     } else if (arg.startsWith("--file=")) {
@@ -553,6 +555,9 @@ function parseArgs(argv) {
   }
   if (args.scheduleDate && !/^\d{4}-\d{2}-\d{2}$/.test(args.scheduleDate)) {
     throw new Error("--schedule-date must use YYYY-MM-DD");
+  }
+  if (!/^\d{2}:\d{2}$/.test(args.time)) {
+    throw new Error("--time must use HH:MM");
   }
   if (args.day !== null && (!Number.isInteger(args.day) || args.day < 1)) {
     throw new Error("--day must be a positive integer");
@@ -724,6 +729,7 @@ async function scheduleBufferThread({
   date = defaultTargetDate(),
   day = null,
   scheduleDate = null,
+  time = POSTING_TIME_IST,
   dryRun = false,
   apiKey = process.env.BUFFER_API_KEY,
   channelId = process.env.BUFFER_CHANNEL_ID,
@@ -748,7 +754,7 @@ async function scheduleBufferThread({
   }
 
   const scheduledDate = scheduleDate || (day === null ? post.date : date);
-  const dueAt = istDateTimeToUtcIso(scheduledDate, POSTING_TIME_IST);
+  const dueAt = istDateTimeToUtcIso(scheduledDate, time);
   const input = buildCreatePostInput({
     post,
     channelId: channelId || "BUFFER_CHANNEL_ID_REQUIRED_FOR_LIVE_RUN",

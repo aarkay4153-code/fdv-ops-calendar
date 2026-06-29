@@ -19,6 +19,7 @@ Options:
   --date YYYY-MM-DD Schedule the long post for a specific calendar date.
   --day N            Select an article by day number instead of calendar date.
   --schedule-date    Schedule the selected day on this YYYY-MM-DD date.
+  --time HH:MM       Schedule time in Asia/Kolkata. Default: 18:00.
   --file PATH       Read a custom posting_threads.json file.
 
 Environment for live scheduling:
@@ -47,6 +48,7 @@ async function main() {
     date,
     day: args.day,
     scheduleDate: args.scheduleDate,
+    time: args.time,
     dryRun: args.dryRun,
   });
 
@@ -64,6 +66,7 @@ async function main() {
           date: result.date,
           originalDate: result.originalDate,
           dueAt: result.dueAt,
+          time: args.time,
           title: result.post.title,
           format: result.post.format,
           sections: result.post.sections.length,
@@ -82,7 +85,7 @@ async function main() {
   }
 
   console.log(
-    `Scheduled Day ${result.post.day} long post for ${result.date} at 18:00 IST. Buffer post ID: ${result.bufferPost.id}`
+    `Scheduled Day ${result.post.day} long post for ${result.date} at ${args.time} IST. Buffer post ID: ${result.bufferPost.id}`
   );
 }
 
