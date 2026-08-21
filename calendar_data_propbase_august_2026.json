@@ -1,0 +1,82 @@
+[
+  {
+    "day": 1,
+    "date": "2026-08-23",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Auto-Compounding Turns Rental Income Into Automatic Ownership Growth",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 2,
+    "date": "2026-08-25",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "@propbaseapp Lend Could Turn Property Tokens Into Productive Collateral",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 3,
+    "date": "2026-08-27",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "The Secondary Marketplace Gives Tokenized Property a Liquid Exit",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 4,
+    "date": "2026-08-29",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "One Hundred USDC Opens Access to Premium Bangkok Property",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 5,
+    "date": "2026-08-31",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Seventeen Months of Rental Payments Create a Stronger RWA Track Record",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 6,
+    "date": "2026-09-02",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Twenty-Four-Hour Trading Makes Property Positions More Flexible",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 7,
+    "date": "2026-09-04",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "PROPS Is Being Built Around Platform Utility",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 8,
+    "date": "2026-09-06",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Cross-Border Access Makes Global Property Ownership More Practical",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 9,
+    "date": "2026-09-08",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Professional Hotel Management Keeps Tokenized Property Grounded",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 10,
+    "date": "2026-09-10",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "Tokenized Property Is Becoming a Building Block of the RWA Stack",
+    "status": "ready_for_buffer"
+  }
+]

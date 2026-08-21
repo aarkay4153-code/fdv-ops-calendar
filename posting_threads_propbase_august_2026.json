@@ -1,0 +1,614 @@
+[
+  {
+    "day": 1,
+    "date": "2026-08-23",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Auto-Compounding Turns Rental Income Into Automatic Ownership Growth",
+    "format": "long_x_post",
+    "text": "Rental income is useful, but idle income is where growth quietly slows down.\n\n@propbaseapp Nexus turns USDC rent into more property ownership automatically through Auto-Compounding.\n\nHere is why that small loop could become a big RWA advantage 👇\n\n1. THE FEATURE REMOVING THE LAST MANUAL STEP\n\n▪ Auto-Compounding is live on @propbaseapp Nexus.\n\n▪ Investors can choose weekly, monthly, or quarterly schedules.\n\n▪ Rental income paid in USDC can automatically purchase more tokens from the same property.\n\n▪ The process remains non-custodial, recorded on-chain, and designed to keep ownership growth simple.\n\n2. WHY CONTINUOUS COMPOUNDING CHANGES THE MATH\n\n▪ Traditional property income can sit idle unless the investor manually reinvests it.\n\n▪ Automation turns every eligible rental distribution into a repeatable ownership-growth action.\n\n▪ Over time, income potential and token ownership can expand through one continuous loop.\n\n3. THE INVESTOR FLOW\n\n▪ Set a preferred schedule inside Nexus.\n\n▪ Receive rental distributions and convert them into additional property tokens.\n\n▪ Let the position grow while the underlying property keeps generating income.\n\n▪ Review or reverse the preference without adding a new intermediary.\n\n4. WHAT THIS SIGNALS FOR TOKENIZED REAL ESTATE\n\n▪ Manual claims may start to feel outdated as RWA platforms mature.\n\n▪ Set-and-forget compounding gives tokenized property a more familiar long-term investing experience.\n\n▪ The key difference is that the collateral remains tied to professionally managed physical property.\n\n5. CONCLUSION\n\n▪ Auto-Compounding makes tokenized property feel less like a manual claim process and more like a living ownership position.\n\n▪ The feature connects recurring real-world income with automatic on-chain accumulation.\n\nWhich part of automated ownership growth would matter most to long-term property investors?",
+    "sections": [
+      {
+        "heading": "The Feature Removing the Last Manual Step",
+        "bullets": [
+          "Auto-Compounding is live on @propbaseapp Nexus.",
+          "Investors can choose weekly, monthly, or quarterly schedules.",
+          "Rental income paid in USDC can automatically purchase more tokens from the same property.",
+          "The process remains non-custodial, recorded on-chain, and designed to keep ownership growth simple."
+        ]
+      },
+      {
+        "heading": "Why Continuous Compounding Changes the Math",
+        "bullets": [
+          "Traditional property income can sit idle unless the investor manually reinvests it.",
+          "Automation turns every eligible rental distribution into a repeatable ownership-growth action.",
+          "Over time, income potential and token ownership can expand through one continuous loop."
+        ]
+      },
+      {
+        "heading": "The Investor Flow",
+        "bullets": [
+          "Set a preferred schedule inside Nexus.",
+          "Receive rental distributions and convert them into additional property tokens.",
+          "Let the position grow while the underlying property keeps generating income.",
+          "Review or reverse the preference without adding a new intermediary."
+        ]
+      },
+      {
+        "heading": "What This Signals for Tokenized Real Estate",
+        "bullets": [
+          "Manual claims may start to feel outdated as RWA platforms mature.",
+          "Set-and-forget compounding gives tokenized property a more familiar long-term investing experience.",
+          "The key difference is that the collateral remains tied to professionally managed physical property."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Auto-Compounding makes tokenized property feel less like a manual claim process and more like a living ownership position.",
+          "The feature connects recurring real-world income with automatic on-chain accumulation."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: rental income automatically compounds into additional ownership of the same property.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained deep burgundy and muted gold accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-01-auto-compounding.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-01-auto-compounding.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2026-08-25",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "@propbaseapp Lend Could Turn Property Tokens Into Productive Collateral",
+    "format": "long_x_post",
+    "text": "Selling an asset to unlock cash is the old playbook.\n\n@propbaseapp Lend is being built so property tokens can become collateral while holders keep exposure.\n\nThat changes what tokenized real estate can actually do 👇\n\n1. THE LENDING LAYER UNDER DEVELOPMENT\n\n▪ @propbaseapp Lend is in active development with a target window of early Q4 2026.\n\n▪ Its architecture draws from lending protocols such as Aave and Compound.\n\n▪ The design is being adapted for the property-token ecosystem.\n\n▪ The objective is to unlock liquidity while holders retain exposure to property income and appreciation.\n\n2. WHY LENDING CHANGES THE EQUATION\n\n▪ An investor needing capital today may otherwise have to sell the position.\n\n▪ Selling can mean giving up future rental distributions and possible appreciation.\n\n▪ Lending could allow holders to borrow against property tokens instead.\n\n▪ That brings a familiar real-estate finance concept into an on-chain setting.\n\n3. HOW IT FITS THE EXISTING STACK\n\n▪ Collateral would come from live tokenized properties trading on Nexus.\n\n▪ Risk parameters could reflect rental history, asset quality, and market conditions.\n\n▪ PROPS is expected to play a role in borrowing and lending incentives.\n\n▪ Links with Auto-Compounding and the marketplace could make the stack feel connected.\n\n4. WHAT SUCCESSFUL DELIVERY COULD MEAN\n\n▪ Many RWA platforms treat tokenization as the endpoint.\n\n▪ @propbaseapp is positioning tokenization as the base layer for broader financial products.\n\n▪ Property tokens could become tools for liquidity, rebalancing, and working capital.\n\n5. CONCLUSION\n\n▪ If lending launches cleanly, property tokens can move from passive ownership units into productive collateral.\n\n▪ The holder could gain liquidity without automatically giving up the asset's future income stream.\n\nWhich lending feature would make tokenized property most useful for active portfolio management?",
+    "sections": [
+      {
+        "heading": "The Lending Layer Under Development",
+        "bullets": [
+          "@propbaseapp Lend is in active development with a target window of early Q4 2026.",
+          "Its architecture draws from lending protocols such as Aave and Compound.",
+          "The design is being adapted for the property-token ecosystem.",
+          "The objective is to unlock liquidity while holders retain exposure to property income and appreciation."
+        ]
+      },
+      {
+        "heading": "Why Lending Changes the Equation",
+        "bullets": [
+          "An investor needing capital today may otherwise have to sell the position.",
+          "Selling can mean giving up future rental distributions and possible appreciation.",
+          "Lending could allow holders to borrow against property tokens instead.",
+          "That brings a familiar real-estate finance concept into an on-chain setting."
+        ]
+      },
+      {
+        "heading": "How It Fits the Existing Stack",
+        "bullets": [
+          "Collateral would come from live tokenized properties trading on Nexus.",
+          "Risk parameters could reflect rental history, asset quality, and market conditions.",
+          "PROPS is expected to play a role in borrowing and lending incentives.",
+          "Links with Auto-Compounding and the marketplace could make the stack feel connected."
+        ]
+      },
+      {
+        "heading": "What Successful Delivery Could Mean",
+        "bullets": [
+          "Many RWA platforms treat tokenization as the endpoint.",
+          "@propbaseapp is positioning tokenization as the base layer for broader financial products.",
+          "Property tokens could become tools for liquidity, rebalancing, and working capital."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "If lending launches cleanly, property tokens can move from passive ownership units into productive collateral.",
+          "The holder could gain liquidity without automatically giving up the asset's future income stream."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: property tokens become productive collateral while the holder keeps ownership exposure.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained deep burgundy accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-02-lending-collateral.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-02-lending-collateral.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-08-27",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "The Secondary Marketplace Gives Tokenized Property a Liquid Exit",
+    "format": "long_x_post",
+    "text": "A property token without an exit can still feel like a locked box.\n\n@propbaseapp’s secondary marketplace has already crossed 800,000 dollars in property-token volume.\n\nThat liquidity layer is where the model gets more serious 👇\n\n1. THE ACTIVITY SHOWING MARKET DEMAND\n\n▪ More than 800,000 dollars in property tokens have changed hands on the secondary marketplace.\n\n▪ Trading operates around the clock.\n\n▪ There is no fixed maximum purchase size on the secondary side.\n\n▪ USDC purchases settle on-chain, and rental rights transfer with ownership.\n\n2. WHY SECONDARY LIQUIDITY IS THE UNLOCK\n\n▪ Many tokenization projects stop after the initial raise.\n\n▪ Holders can be left waiting for a distant exit event.\n\n▪ @propbaseapp treats continuous secondary trading as core infrastructure.\n\n▪ That lets investors rebalance, accumulate, or exit without waiting for a property sale.\n\n3. HOW INVESTORS USE THE MARKET\n\n▪ List tokens at a preferred price.\n\n▪ Purchase existing tokens from another holder.\n\n▪ Let open-market activity support price discovery.\n\n▪ Begin receiving the relevant rental stream after acquiring ownership.\n\n4. THE LONG-TERM EFFECT\n\n▪ Exit confidence can influence entry decisions.\n\n▪ Investors may allocate more comfortably when a functioning market already exists.\n\n▪ Live volume and income-producing assets give the model a practical base for deeper liquidity.\n\n5. CONCLUSION\n\n▪ Liquidity turns fractional property from a static holding into a more flexible ownership experience.\n\n▪ The marketplace matters because access is only complete when investors can also change or exit a position.\n\nWhich marketplace feature would have the greatest effect on investor confidence?",
+    "sections": [
+      {
+        "heading": "The Activity Showing Market Demand",
+        "bullets": [
+          "More than 800,000 dollars in property tokens have changed hands on the secondary marketplace.",
+          "Trading operates around the clock.",
+          "There is no fixed maximum purchase size on the secondary side.",
+          "USDC purchases settle on-chain, and rental rights transfer with ownership."
+        ]
+      },
+      {
+        "heading": "Why Secondary Liquidity Is the Unlock",
+        "bullets": [
+          "Many tokenization projects stop after the initial raise.",
+          "Holders can be left waiting for a distant exit event.",
+          "@propbaseapp treats continuous secondary trading as core infrastructure.",
+          "That lets investors rebalance, accumulate, or exit without waiting for a property sale."
+        ]
+      },
+      {
+        "heading": "How Investors Use the Market",
+        "bullets": [
+          "List tokens at a preferred price.",
+          "Purchase existing tokens from another holder.",
+          "Let open-market activity support price discovery.",
+          "Begin receiving the relevant rental stream after acquiring ownership."
+        ]
+      },
+      {
+        "heading": "The Long-Term Effect",
+        "bullets": [
+          "Exit confidence can influence entry decisions.",
+          "Investors may allocate more comfortably when a functioning market already exists.",
+          "Live volume and income-producing assets give the model a practical base for deeper liquidity."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Liquidity turns fractional property from a static holding into a more flexible ownership experience.",
+          "The marketplace matters because access is only complete when investors can also change or exit a position."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: a continuous secondary marketplace creates liquidity and price discovery for fractional property.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained muted gold accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-03-secondary-market.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-03-secondary-market.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2026-08-29",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "One Hundred USDC Opens Access to Premium Bangkok Property",
+    "format": "long_x_post",
+    "text": "Premium real estate usually starts with big checks, paperwork, and local access.\n\n@propbaseapp brings primary property offerings down to 100 USDC while keeping exposure tied to Bangkok assets.\n\nThat opens a very different ownership path 👇\n\n1. THE ENTRY POINT THAT CHANGES ACCESS\n\n▪ Primary offerings on @propbaseapp begin at 100 USDC.\n\n▪ Secondary purchases have no fixed minimum beyond the current token price.\n\n▪ The underlying assets are professionally managed Bangkok properties linked to international hotel brands.\n\n▪ Fractional ownership is recorded on-chain and tied to proportional rental income paid in USDC.\n\n2. WHY THE LOWER MINIMUM MATTERS\n\n▪ Direct property purchases and many private funds require much larger commitments.\n\n▪ A smaller ticket lets investors choose specific income-producing buildings instead of only broad listed vehicles.\n\n▪ Accessibility improves without automatically lowering the quality of the underlying property.\n\n3. THE PARTICIPATION FOOTPRINT\n\n▪ Investors from more than thirty countries are already active on the platform.\n\n▪ Access extends across more than 150 jurisdictions, subject to applicable restrictions.\n\n▪ KYC and compliance form part of standard onboarding.\n\n▪ Positions can be increased or sold through the secondary marketplace.\n\n4. WHAT THIS COULD CHANGE\n\n▪ When minimums fall far enough, real estate starts behaving like a more accessible and transferable asset class.\n\n▪ Recurring distributions and secondary trading make the low entry point more than a marketing claim.\n\n▪ New participants can size exposure without taking on a full direct property purchase.\n\n5. CONCLUSION\n\n▪ A 100 USDC entry point can widen access to premium property while preserving asset-specific exposure.\n\n▪ The practical value comes from combining that access with income, compliance, and a working resale market.\n\nWhat would make low-minimum property ownership most attractive to new investors?",
+    "sections": [
+      {
+        "heading": "The Entry Point That Changes Access",
+        "bullets": [
+          "Primary offerings on @propbaseapp begin at 100 USDC.",
+          "Secondary purchases have no fixed minimum beyond the current token price.",
+          "The underlying assets are professionally managed Bangkok properties linked to international hotel brands.",
+          "Fractional ownership is recorded on-chain and tied to proportional rental income paid in USDC."
+        ]
+      },
+      {
+        "heading": "Why the Lower Minimum Matters",
+        "bullets": [
+          "Direct property purchases and many private funds require much larger commitments.",
+          "A smaller ticket lets investors choose specific income-producing buildings instead of only broad listed vehicles.",
+          "Accessibility improves without automatically lowering the quality of the underlying property."
+        ]
+      },
+      {
+        "heading": "The Participation Footprint",
+        "bullets": [
+          "Investors from more than thirty countries are already active on the platform.",
+          "Access extends across more than 150 jurisdictions, subject to applicable restrictions.",
+          "KYC and compliance form part of standard onboarding.",
+          "Positions can be increased or sold through the secondary marketplace."
+        ]
+      },
+      {
+        "heading": "What This Could Change",
+        "bullets": [
+          "When minimums fall far enough, real estate starts behaving like a more accessible and transferable asset class.",
+          "Recurring distributions and secondary trading make the low entry point more than a marketing claim.",
+          "New participants can size exposure without taking on a full direct property purchase."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "A 100 USDC entry point can widen access to premium property while preserving asset-specific exposure.",
+          "The practical value comes from combining that access with income, compliance, and a working resale market."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: a low primary-offering minimum opens premium Bangkok property to smaller investors.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained deep violet accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-04-low-minimum-access.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-04-low-minimum-access.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2026-08-31",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Seventeen Months of Rental Payments Create a Stronger RWA Track Record",
+    "format": "long_x_post",
+    "text": "RWA projects love launch announcements, but payments tell the real story.\n\nOne @propbaseapp asset has delivered seventeen straight months of rental distributions.\n\nThat track record is worth looking at closely 👇\n\n1. THE PERFORMANCE RECORD BEHIND THE ASSET\n\n▪ Cassia Banyan Tree has completed seventeen consecutive months of rental distributions.\n\n▪ Its reported annualized rental yield is 6.51 percent, paid every twenty-four hours in USDC.\n\n▪ The token price is reported around 17 percent above its original listing price.\n\n▪ The property continues normal commercial operations under professional management in Bangkok.\n\n2. WHY THE OPERATING MARKET MATTERS\n\n▪ Bangkok combines tourism and business demand with an established hospitality sector.\n\n▪ That operating base supports recurring income without relying entirely on speculative expectations.\n\n▪ Investors can observe both distributions and market pricing while the property continues serving guests.\n\n3. HOW THE ON-CHAIN EXPERIENCE DIFFERS\n\n▪ Individual holders do not need to manage the property themselves.\n\n▪ Distributions do not depend on delayed quarterly statements.\n\n▪ Tokens can be offered on the secondary marketplace without a traditional multi-month exit process.\n\n▪ Payout and trading history remains publicly verifiable on-chain.\n\n4. THE STANDARD FOR THE WIDER SECTOR\n\n▪ Multi-month operating data is more useful than a one-day launch announcement.\n\n▪ Recurring income plus transferable ownership gives competing platforms a clearer standard to meet.\n\n▪ Long-term evidence helps separate operating RWAs from projects still built mostly on forecasts.\n\n5. CONCLUSION\n\n▪ Seventeen consecutive months of payments create a stronger credibility signal than a projected yield alone.\n\n▪ The record connects the digital ownership layer to visible, recurring property operations.\n\nWhich metric is most important when judging the durability of a tokenized property?",
+    "sections": [
+      {
+        "heading": "The Performance Record Behind the Asset",
+        "bullets": [
+          "Cassia Banyan Tree has completed seventeen consecutive months of rental distributions.",
+          "Its reported annualized rental yield is 6.51 percent, paid every twenty-four hours in USDC.",
+          "The token price is reported around 17 percent above its original listing price.",
+          "The property continues normal commercial operations under professional management in Bangkok."
+        ]
+      },
+      {
+        "heading": "Why the Operating Market Matters",
+        "bullets": [
+          "Bangkok combines tourism and business demand with an established hospitality sector.",
+          "That operating base supports recurring income without relying entirely on speculative expectations.",
+          "Investors can observe both distributions and market pricing while the property continues serving guests."
+        ]
+      },
+      {
+        "heading": "How the On-Chain Experience Differs",
+        "bullets": [
+          "Individual holders do not need to manage the property themselves.",
+          "Distributions do not depend on delayed quarterly statements.",
+          "Tokens can be offered on the secondary marketplace without a traditional multi-month exit process.",
+          "Payout and trading history remains publicly verifiable on-chain."
+        ]
+      },
+      {
+        "heading": "The Standard for the Wider Sector",
+        "bullets": [
+          "Multi-month operating data is more useful than a one-day launch announcement.",
+          "Recurring income plus transferable ownership gives competing platforms a clearer standard to meet.",
+          "Long-term evidence helps separate operating RWAs from projects still built mostly on forecasts."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Seventeen consecutive months of payments create a stronger credibility signal than a projected yield alone.",
+          "The record connects the digital ownership layer to visible, recurring property operations."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: a seventeen-month rental-payment record demonstrates durable real-world performance.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained burnt orange accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-05-rental-track-record.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-05-rental-track-record.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2026-09-02",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Twenty-Four-Hour Trading Makes Property Positions More Flexible",
+    "format": "long_x_post",
+    "text": "Real estate usually moves at the speed of paperwork.\n\n@propbaseapp property tokens can trade around the clock, giving holders a more flexible way to manage exposure.\n\nThat changes how property positions behave 👇\n\n1. A MARKETPLACE WITHOUT CLOSING HOURS\n\n▪ Property tokens can be bought or sold at any time.\n\n▪ The secondary market uses an order-book model with on-chain settlement.\n\n▪ Rental rights transfer automatically with the relevant tokens.\n\n▪ Price discovery remains continuous and visible without business-day processing for every trade.\n\n2. WHY AVAILABILITY MATTERS\n\n▪ Traditional real-estate exits can take weeks or months.\n\n▪ Continuous trading does not remove market risk, but it reduces time-based friction.\n\n▪ Investors gain more control while remaining connected to a physical, income-producing asset.\n\n3. PORTFOLIO USES ENABLED BY CONTINUOUS TRADING\n\n▪ Rebalance exposure without waiting for a quarterly review.\n\n▪ Raise liquidity when capital is needed elsewhere.\n\n▪ Add to a position when secondary pricing appears attractive.\n\n▪ Manage exposure without repeating a local property-transfer process for every transaction.\n\n4. THE EFFECT ON RISK AND RETURN\n\n▪ Lower exit friction can make investors more comfortable entering a position.\n\n▪ Greater participation can deepen the market and improve price discovery.\n\n▪ Existing secondary volume shows that the feature is already more than a theoretical promise.\n\n5. CONCLUSION\n\n▪ Round-the-clock trading gives property ownership a level of flexibility that traditional transactions rarely offer.\n\n▪ The asset remains physical, but the ownership experience becomes considerably more responsive.\n\nWhich benefit of 24-hour trading would most improve your approach to property allocation?",
+    "sections": [
+      {
+        "heading": "A Marketplace Without Closing Hours",
+        "bullets": [
+          "Property tokens can be bought or sold at any time.",
+          "The secondary market uses an order-book model with on-chain settlement.",
+          "Rental rights transfer automatically with the relevant tokens.",
+          "Price discovery remains continuous and visible without business-day processing for every trade."
+        ]
+      },
+      {
+        "heading": "Why Availability Matters",
+        "bullets": [
+          "Traditional real-estate exits can take weeks or months.",
+          "Continuous trading does not remove market risk, but it reduces time-based friction.",
+          "Investors gain more control while remaining connected to a physical, income-producing asset."
+        ]
+      },
+      {
+        "heading": "Portfolio Uses Enabled by Continuous Trading",
+        "bullets": [
+          "Rebalance exposure without waiting for a quarterly review.",
+          "Raise liquidity when capital is needed elsewhere.",
+          "Add to a position when secondary pricing appears attractive.",
+          "Manage exposure without repeating a local property-transfer process for every transaction."
+        ]
+      },
+      {
+        "heading": "The Effect on Risk and Return",
+        "bullets": [
+          "Lower exit friction can make investors more comfortable entering a position.",
+          "Greater participation can deepen the market and improve price discovery.",
+          "Existing secondary volume shows that the feature is already more than a theoretical promise."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Round-the-clock trading gives property ownership a level of flexibility that traditional transactions rarely offer.",
+          "The asset remains physical, but the ownership experience becomes considerably more responsive."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: continuous trading gives investors more control over property exposure and exit timing.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained deep emerald accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-06-continuous-trading.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-06-continuous-trading.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2026-09-04",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "PROPS Is Being Built Around Platform Utility",
+    "format": "long_x_post",
+    "text": "A token with no real role becomes a narrative machine.\n\n@propbaseapp is tying PROPS to fees, rewards, memberships, staking, and future products.\n\nThat utility design is where the platform gets interesting 👇\n\n1. THE ROLES PROPS ALREADY SERVES\n\n▪ PROPS is connected to fees, rewards, memberships, and staking.\n\n▪ More than 30 percent of circulating supply is reported to be staked.\n\n▪ Auto-Compounding purchases can qualify for the highest fee discounts when PROPS is used.\n\n▪ Future products, including lending, are expected to expand actions that require or reward PROPS.\n\n2. WHY DELIBERATE UTILITY DESIGN MATTERS\n\n▪ A token driven mainly by speculation can create weak incentives.\n\n▪ A token connected to core platform actions can develop demand as real usage expands.\n\n▪ PROPS links token activity more directly with actions property investors already perform.\n\n3. HOW THE CURRENT LOOPS ENCOURAGE PARTICIPATION\n\n▪ Stakers support the ecosystem while earning yield.\n\n▪ Marketplace and compounding users can receive practical fee advantages.\n\n▪ Lending and aggregation products could deepen these connections.\n\n▪ Active and long-term participants are positioned to receive more direct benefits from the system.\n\n4. WHAT THIS SIGNALS TO CAPITAL MARKETS\n\n▪ Product usage gives token utility a measurable economic foundation.\n\n▪ Investors can judge the design through platform activity instead of narrative alone.\n\n▪ Utility becomes more durable when several connected products rely on the same token.\n\n5. CONCLUSION\n\n▪ PROPS has a clearer role when its demand follows actual property-platform activity.\n\n▪ Fees, rewards, staking, and future lending can turn separate features into one connected participation loop.\n\nWhich PROPS utility would have the strongest effect on long-term participation?",
+    "sections": [
+      {
+        "heading": "The Roles PROPS Already Serves",
+        "bullets": [
+          "PROPS is connected to fees, rewards, memberships, and staking.",
+          "More than 30 percent of circulating supply is reported to be staked.",
+          "Auto-Compounding purchases can qualify for the highest fee discounts when PROPS is used.",
+          "Future products, including lending, are expected to expand actions that require or reward PROPS."
+        ]
+      },
+      {
+        "heading": "Why Deliberate Utility Design Matters",
+        "bullets": [
+          "A token driven mainly by speculation can create weak incentives.",
+          "A token connected to core platform actions can develop demand as real usage expands.",
+          "PROPS links token activity more directly with actions property investors already perform."
+        ]
+      },
+      {
+        "heading": "How the Current Loops Encourage Participation",
+        "bullets": [
+          "Stakers support the ecosystem while earning yield.",
+          "Marketplace and compounding users can receive practical fee advantages.",
+          "Lending and aggregation products could deepen these connections.",
+          "Active and long-term participants are positioned to receive more direct benefits from the system."
+        ]
+      },
+      {
+        "heading": "What This Signals to Capital Markets",
+        "bullets": [
+          "Product usage gives token utility a measurable economic foundation.",
+          "Investors can judge the design through platform activity instead of narrative alone.",
+          "Utility becomes more durable when several connected products rely on the same token."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "PROPS has a clearer role when its demand follows actual property-platform activity.",
+          "Fees, rewards, staking, and future lending can turn separate features into one connected participation loop."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: the PROPS token connects fees, rewards, membership, staking, and future financial products.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained burgundy accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-07-props-utility.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-07-props-utility.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2026-09-06",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Cross-Border Access Makes Global Property Ownership More Practical",
+    "format": "long_x_post",
+    "text": "Global property ownership still has too many borders, banks, and slow processes.\n\n@propbaseapp gives supported investors access across more than 150 jurisdictions with USDC income distribution.\n\nThat makes the RWA idea feel practical 👇\n\n1. THE GLOBAL FOOTPRINT ALREADY IN PLACE\n\n▪ The platform is available across more than 150 jurisdictions, subject to applicable rules.\n\n▪ Investors from more than thirty countries are buying, trading, and receiving rental distributions.\n\n▪ KYC and compliance processes are part of standard onboarding.\n\n▪ Rental income is distributed in USDC regardless of the holder's location, where permitted.\n\n2. WHY CROSS-BORDER ACCESS MATTERS\n\n▪ Real estate has traditionally been constrained by geography, local banking, and legal procedures.\n\n▪ Platform-level compliance and on-chain settlement can reduce how often investors recreate the full local process.\n\n▪ International capital can participate in the same underlying assets with a more consistent ownership flow.\n\n3. WHAT IT CHANGES FOR INTERNATIONAL PORTFOLIOS\n\n▪ Investors can gain Bangkok hospitality exposure without opening a Thai bank account for every purchase.\n\n▪ Positions can be increased or reduced through the secondary marketplace from supported locations.\n\n▪ Income arrives in a widely used stablecoin.\n\n▪ Exposure can be sized more precisely than with a traditional direct property purchase.\n\n4. THE BROADER RWA CONTRIBUTION\n\n▪ Global participation is one of blockchain's clearest potential advantages for real-world assets.\n\n▪ Compliance, settlement, ownership records, and income distribution need to work together.\n\n▪ Live investors and recurring distributions turn the theoretical benefit into a practical daily process.\n\n5. CONCLUSION\n\n▪ Cross-border access makes tokenized property useful beyond the asset's home market.\n\n▪ The strongest version combines wider participation with compliance and reliable income delivery.\n\nWhich part of cross-border access would make tokenized property most useful for international investors?",
+    "sections": [
+      {
+        "heading": "The Global Footprint Already in Place",
+        "bullets": [
+          "The platform is available across more than 150 jurisdictions, subject to applicable rules.",
+          "Investors from more than thirty countries are buying, trading, and receiving rental distributions.",
+          "KYC and compliance processes are part of standard onboarding.",
+          "Rental income is distributed in USDC regardless of the holder's location, where permitted."
+        ]
+      },
+      {
+        "heading": "Why Cross-Border Access Matters",
+        "bullets": [
+          "Real estate has traditionally been constrained by geography, local banking, and legal procedures.",
+          "Platform-level compliance and on-chain settlement can reduce how often investors recreate the full local process.",
+          "International capital can participate in the same underlying assets with a more consistent ownership flow."
+        ]
+      },
+      {
+        "heading": "What It Changes for International Portfolios",
+        "bullets": [
+          "Investors can gain Bangkok hospitality exposure without opening a Thai bank account for every purchase.",
+          "Positions can be increased or reduced through the secondary marketplace from supported locations.",
+          "Income arrives in a widely used stablecoin.",
+          "Exposure can be sized more precisely than with a traditional direct property purchase."
+        ]
+      },
+      {
+        "heading": "The Broader RWA Contribution",
+        "bullets": [
+          "Global participation is one of blockchain's clearest potential advantages for real-world assets.",
+          "Compliance, settlement, ownership records, and income distribution need to work together.",
+          "Live investors and recurring distributions turn the theoretical benefit into a practical daily process."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Cross-border access makes tokenized property useful beyond the asset's home market.",
+          "The strongest version combines wider participation with compliance and reliable income delivery."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: compliant cross-border access connects global investors to Bangkok property and USDC income.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained muted gold accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-08-cross-border-access.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-08-cross-border-access.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 9,
+    "date": "2026-09-08",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Professional Hotel Management Keeps Tokenized Property Grounded",
+    "format": "long_x_post",
+    "text": "Tokenization can make ownership transferable, but it cannot rescue a weak asset.\n\n@propbaseapp focuses on properties connected to recognized hotel operators like Wyndham, Ramada, and Banyan Tree.\n\nThat operational base matters more than people think 👇\n\n1. THE OPERATORS BEHIND THE PORTFOLIO\n\n▪ Live assets include properties associated with Wyndham, Ramada, and Banyan Tree brands.\n\n▪ These operators bring established systems for occupancy, maintenance, and guest experience.\n\n▪ Rental income comes from commercial operations rather than projections alone.\n\n▪ Professional management continues after tokenization.\n\n2. WHY OPERATOR QUALITY MATTERS\n\n▪ A digital token cannot repair a poorly managed building.\n\n▪ Experienced hospitality operators give the on-chain representation a stronger operational foundation.\n\n▪ Occupancy, seasonal demand, guest services, and maintenance remain grounded in real operating teams.\n\n3. HOW THE BLOCKCHAIN LAYER FITS\n\n▪ Ownership becomes fractional and transferable.\n\n▪ Rental distribution becomes more automated and transparent.\n\n▪ Secondary trading can operate continuously.\n\n▪ The digital layer adds access and liquidity without replacing the physical commercial engine.\n\n4. THE LESSON FOR FUTURE RWA PLATFORMS\n\n▪ Properties with proven operators and visible demand drivers can provide a more reliable base.\n\n▪ Professional operations and on-chain ownership can work together without confusing their separate roles.\n\n▪ Asset selection remains more important than adding a token to a weak property story.\n\n5. CONCLUSION\n\n▪ Tokenization improves the ownership layer, while professional management protects the operating layer.\n\n▪ The model works best when both sides remain strong and clearly connected.\n\nHow important is professional property management when evaluating tokenized real estate?",
+    "sections": [
+      {
+        "heading": "The Operators Behind the Portfolio",
+        "bullets": [
+          "Live assets include properties associated with Wyndham, Ramada, and Banyan Tree brands.",
+          "These operators bring established systems for occupancy, maintenance, and guest experience.",
+          "Rental income comes from commercial operations rather than projections alone.",
+          "Professional management continues after tokenization."
+        ]
+      },
+      {
+        "heading": "Why Operator Quality Matters",
+        "bullets": [
+          "A digital token cannot repair a poorly managed building.",
+          "Experienced hospitality operators give the on-chain representation a stronger operational foundation.",
+          "Occupancy, seasonal demand, guest services, and maintenance remain grounded in real operating teams."
+        ]
+      },
+      {
+        "heading": "How the Blockchain Layer Fits",
+        "bullets": [
+          "Ownership becomes fractional and transferable.",
+          "Rental distribution becomes more automated and transparent.",
+          "Secondary trading can operate continuously.",
+          "The digital layer adds access and liquidity without replacing the physical commercial engine."
+        ]
+      },
+      {
+        "heading": "The Lesson for Future RWA Platforms",
+        "bullets": [
+          "Properties with proven operators and visible demand drivers can provide a more reliable base.",
+          "Professional operations and on-chain ownership can work together without confusing their separate roles.",
+          "Asset selection remains more important than adding a token to a weak property story."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Tokenization improves the ownership layer, while professional management protects the operating layer.",
+          "The model works best when both sides remain strong and clearly connected."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: professional hotel operations provide the real commercial engine beneath tokenized ownership.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained deep crimson accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-09-hotel-management.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-09-hotel-management.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2026-09-10",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Tokenized Property Is Becoming a Building Block of the RWA Stack",
+    "format": "long_x_post",
+    "text": "RWA is not only about treasuries and private credit.\n\n@propbaseapp shows how live property, rental income, secondary liquidity, and automation can connect.\n\nThat is how tokenized real estate becomes infrastructure 👇\n\n1. WHY REAL ESTATE FITS THE RWA MODEL\n\n▪ Real estate offers tangible collateral, measurable cash flow, and long operating histories.\n\n▪ Fractional ownership can make exposure more accessible.\n\n▪ Continuous trading can improve flexibility.\n\n▪ Automated distributions can keep income moving through the system.\n\n2. HOW LIVE PLATFORMS ADVANCE THE CATEGORY\n\n▪ Operating evidence matters more than tokenization theory.\n\n▪ Rental payments and secondary trades create transaction history the sector can evaluate.\n\n▪ Planned lending can extend that history into a broader capital-efficiency layer.\n\n3. THE CAPITAL-ALLOCATION IMPLICATION\n\n▪ Investors gain another form of income-producing exposure beyond crypto-native yield and traditional funds.\n\n▪ Positions can be sized more precisely.\n\n▪ Income can arrive in stablecoins.\n\n▪ A secondary market can make exit available around the clock.\n\n4. WHY INTEGRATION DEFINES THE NEXT PHASE\n\n▪ A single property token is useful, but connected property products are more powerful.\n\n▪ Compounding, trading, and collateral lending can turn ownership units into financial building blocks.\n\n▪ @propbaseapp's progression follows that integrated direction.\n\n5. CONCLUSION\n\n▪ Tokenized property becomes infrastructure when ownership, income, liquidity, and financial utility work together.\n\n▪ That integrated stack gives real estate a clearer role inside the broader RWA market.\n\nWhich capability will be most important in moving tokenized real estate toward mainstream portfolio use?",
+    "sections": [
+      {
+        "heading": "Why Real Estate Fits the RWA Model",
+        "bullets": [
+          "Real estate offers tangible collateral, measurable cash flow, and long operating histories.",
+          "Fractional ownership can make exposure more accessible.",
+          "Continuous trading can improve flexibility.",
+          "Automated distributions can keep income moving through the system."
+        ]
+      },
+      {
+        "heading": "How Live Platforms Advance the Category",
+        "bullets": [
+          "Operating evidence matters more than tokenization theory.",
+          "Rental payments and secondary trades create transaction history the sector can evaluate.",
+          "Planned lending can extend that history into a broader capital-efficiency layer."
+        ]
+      },
+      {
+        "heading": "The Capital-Allocation Implication",
+        "bullets": [
+          "Investors gain another form of income-producing exposure beyond crypto-native yield and traditional funds.",
+          "Positions can be sized more precisely.",
+          "Income can arrive in stablecoins.",
+          "A secondary market can make exit available around the clock."
+        ]
+      },
+      {
+        "heading": "Why Integration Defines the Next Phase",
+        "bullets": [
+          "A single property token is useful, but connected property products are more powerful.",
+          "Compounding, trading, and collateral lending can turn ownership units into financial building blocks.",
+          "@propbaseapp's progression follows that integrated direction."
+        ]
+      },
+      {
+        "heading": "Conclusion",
+        "bullets": [
+          "Tokenized property becomes infrastructure when ownership, income, liquidity, and financial utility work together.",
+          "That integrated stack gives real estate a clearer role inside the broader RWA market."
+        ]
+      }
+    ],
+    "imagePrompt": "Use case: stylized-concept\nAsset type: 5:2 X editorial banner\nPrimary request: property, rental income, liquidity, automation, and lending connect into a broader RWA stack.\nStyle: premium Japanese black-and-white manga illustration with halftone screentones and restrained antique gold accents; no pixel art.\nBrand treatment: composite the exact supplied Propbase logo at 60% opacity, black on light areas or white on dark areas.\nConstraints: no sky blue, cyan, teal, aqua, or electric blue; no text except the supplied logo; no watermark.",
+    "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase/aug-2026-day-10-rwa-stack.png",
+    "imageLocalPath": "images/propbase/aug-2026-day-10-rwa-stack.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://www.propbase.app/tokenutility",
+      "https://www.propbase.app/tokenomics"
+    ]
+  }
+]
