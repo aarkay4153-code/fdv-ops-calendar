@@ -1,0 +1,470 @@
+[
+  {
+    "day": 1,
+    "date": "2026-09-24",
+    "time": "15:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Two Years of Wyndham Garden Residences on Nexus",
+    "format": "long_x_post",
+    "text": "Two years of rental payments tell a different story than a polished launch page.\n\n@propbaseapp’s Wyndham Garden Residences has now built a live record of income, trading activity, and international ownership.\n\nThe interesting part is what that record says about tokenized property in practice.\n\n1. What the live record shows\n\n▪️ Rental income and price appreciation have both contributed to the asset’s performance.\n\n▪️ Tokens have traded above the original offering price on the Nexus marketplace.\n\n▪️ The property has also recorded thousands of token transactions.\n\n2. Why the history matters\n\n▪️ A property token becomes more credible when rent has actually reached holders.\n\n▪️ The asset has attracted holders from multiple countries, not just one local buyer group.\n\n▪️ Secondary-market activity gives investors a way to enter or reduce exposure.\n\n3. The practical test\n\n▪️ Two years is useful evidence, but it is not the end of the test.\n\n▪️ Future holders will still care about occupancy, payouts, and the ability to exit.\n\n▪️ A live record is stronger than a promise, but it still has to keep working.\n\n4. What holds up\n\n▪️ The real achievement is not simply that the property was tokenized.\n\n▪️ The token has continued behaving like an investable position after launch.\n\nWhich matters most to you here: rental income, price appreciation, or the ability to trade?",
+    "sections": [
+      {
+        "heading": "What the live record shows",
+        "bullets": [
+          "Rental income and price appreciation have both contributed to the asset’s performance.",
+          "Tokens have traded above the original offering price on the Nexus marketplace.",
+          "The property has also recorded thousands of token transactions."
+        ]
+      },
+      {
+        "heading": "Why the history matters",
+        "bullets": [
+          "A property token becomes more credible when rent has actually reached holders.",
+          "The asset has attracted holders from multiple countries, not just one local buyer group.",
+          "Secondary-market activity gives investors a way to enter or reduce exposure."
+        ]
+      },
+      {
+        "heading": "The practical test",
+        "bullets": [
+          "Two years is useful evidence, but it is not the end of the test.",
+          "Future holders will still care about occupancy, payouts, and the ability to exit.",
+          "A live record is stronger than a promise, but it still has to keep working."
+        ]
+      },
+      {
+        "heading": "What holds up",
+        "bullets": [
+          "The real achievement is not simply that the property was tokenized.",
+          "The token has continued behaving like an investable position after launch."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Two Years of Wyndham Garden Residences on Nexus. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-01.png",
+    "imageLocalPath": "images/propbase-batch-next/day-01.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2026-09-27",
+    "time": "15:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "The Nexus Secondary Marketplace",
+    "format": "long_x_post",
+    "text": "Primary sales attract attention. Secondary markets decide whether holders have flexibility.\n\n@propbaseapp lets property tokens trade after the initial offering, giving investors another option besides holding until a distant exit.\n\nThe next question is how much that flexibility changes the ownership experience.\n\n1. How trading works\n\n▪️ After the vesting period, holders can trade property tokens with one another onchain.\n\n▪️ Rental income can continue while the token remains in the wallet.\n\n▪️ Trading is available around the clock rather than being tied to office hours.\n\n2. What the marketplace changes\n\n▪️ Fractional ownership becomes easier to manage when investors can adjust their position.\n\n▪️ A holder does not need to sell an entire property to reduce exposure.\n\n▪️ Price history also becomes visible instead of ending with the original offering.\n\n3. The part that still matters\n\n▪️ Volume alone does not guarantee useful liquidity.\n\n▪️ Spreads, order depth, and future limit-order functionality will shape the experience.\n\n▪️ The marketplace has to remain usable when several holders want to sell at once.\n\n4. The real test\n\n▪️ A property token becomes much more practical when it can be bought, held, and sold without waiting for the whole building to change hands.\n\nWould you value 24-hour trading more for convenience or for having a clearer exit?",
+    "sections": [
+      {
+        "heading": "How trading works",
+        "bullets": [
+          "After the vesting period, holders can trade property tokens with one another onchain.",
+          "Rental income can continue while the token remains in the wallet.",
+          "Trading is available around the clock rather than being tied to office hours."
+        ]
+      },
+      {
+        "heading": "What the marketplace changes",
+        "bullets": [
+          "Fractional ownership becomes easier to manage when investors can adjust their position.",
+          "A holder does not need to sell an entire property to reduce exposure.",
+          "Price history also becomes visible instead of ending with the original offering."
+        ]
+      },
+      {
+        "heading": "The part that still matters",
+        "bullets": [
+          "Volume alone does not guarantee useful liquidity.",
+          "Spreads, order depth, and future limit-order functionality will shape the experience.",
+          "The marketplace has to remain usable when several holders want to sell at once."
+        ]
+      },
+      {
+        "heading": "The real test",
+        "bullets": [
+          "A property token becomes much more practical when it can be bought, held, and sold without waiting for the whole building to change hands."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting The Nexus Secondary Marketplace. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-02.png",
+    "imageLocalPath": "images/propbase-batch-next/day-02.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-09-30",
+    "time": "16:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Bangkok Property, Global Holders",
+    "format": "long_x_post",
+    "text": "The buildings are in Bangkok. The ownership is already much more spread out.\n\n@propbaseapp is showing how a local property market can attract holders from multiple countries through fractional, onchain access.\n\nThe wider question is whether that model can travel beyond its first city.\n\n1. What is already live\n\n▪️ Nexus includes several Bangkok hotels and residences with different operating profiles.\n\n▪️ Buyers can review property information and ownership records before taking a position.\n\n▪️ The marketplace gives smaller investors access to assets that would normally require much more capital.\n\n2. Why the holder mix matters\n\n▪️ A property owned across many countries feels less like a private local deal.\n\n▪️ Fractional tickets let people build exposure gradually rather than committing to an entire building.\n\n▪️ Rental distributions give that ownership a cash-flow component while the token is held.\n\n3. What global access still requires\n\n▪️ Documents, payouts, and exits have to work even when the holder never visits the property.\n\n▪️ New cities will need the same level of visibility as the existing Bangkok listings.\n\n▪️ International participation is useful only when the underlying asset remains understandable.\n\n4. The bigger picture\n\n▪️ The strongest part of the model is not the skyline or the token format.\n\n▪️ It is the possibility of owning a real asset in one country through a marketplace built for people everywhere else.\n\nWhat would make you more comfortable investing in property outside your own country?",
+    "sections": [
+      {
+        "heading": "What is already live",
+        "bullets": [
+          "Nexus includes several Bangkok hotels and residences with different operating profiles.",
+          "Buyers can review property information and ownership records before taking a position.",
+          "The marketplace gives smaller investors access to assets that would normally require much more capital."
+        ]
+      },
+      {
+        "heading": "Why the holder mix matters",
+        "bullets": [
+          "A property owned across many countries feels less like a private local deal.",
+          "Fractional tickets let people build exposure gradually rather than committing to an entire building.",
+          "Rental distributions give that ownership a cash-flow component while the token is held."
+        ]
+      },
+      {
+        "heading": "What global access still requires",
+        "bullets": [
+          "Documents, payouts, and exits have to work even when the holder never visits the property.",
+          "New cities will need the same level of visibility as the existing Bangkok listings.",
+          "International participation is useful only when the underlying asset remains understandable."
+        ]
+      },
+      {
+        "heading": "The bigger picture",
+        "bullets": [
+          "The strongest part of the model is not the skyline or the token format.",
+          "It is the possibility of owning a real asset in one country through a marketplace built for people everywhere else."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Bangkok Property, Global Holders. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-03.png",
+    "imageLocalPath": "images/propbase-batch-next/day-03.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2026-10-03",
+    "time": "16:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Auto Reinvest on Tokenized Property",
+    "format": "long_x_post",
+    "text": "Rental income usually arrives, sits in a wallet, and waits for someone to make the next decision.\n\n@propbaseapp’s Auto Reinvest feature is designed to send that income back into the same property position automatically.\n\nThat changes the habit around yield, so let’s see how the mechanism works.\n\n1. What holders can choose\n\n▪️ Investors can enroll a specific property rather than applying one blanket setting.\n\n▪️ Rental income can be redirected into additional property tokens.\n\n▪️ Schedules can be set around weekly, monthly, or quarterly intervals.\n\n2. Why automation is useful\n\n▪️ Small payouts become more productive when they are continuously redeployed.\n\n▪️ Holders do not need to remember every distribution date.\n\n▪️ The asset can keep building exposure without requiring a manual trade each time.\n\n3. The details that matter\n\n▪️ The feature still depends on liquidity, execution quality, and clear transaction history.\n\n▪️ Eligibility and slippage checks help protect the process from poor execution.\n\n▪️ A simple interface matters because automation is only useful when people understand what is happening.\n\n4. Where this leads\n\n▪️ Auto Reinvest makes rental yield feel less like a final payment and more like an ongoing part of the ownership loop.\n\nWould you prefer weekly compounding, monthly compounding, or complete control over every reinvestment?",
+    "sections": [
+      {
+        "heading": "What holders can choose",
+        "bullets": [
+          "Investors can enroll a specific property rather than applying one blanket setting.",
+          "Rental income can be redirected into additional property tokens.",
+          "Schedules can be set around weekly, monthly, or quarterly intervals."
+        ]
+      },
+      {
+        "heading": "Why automation is useful",
+        "bullets": [
+          "Small payouts become more productive when they are continuously redeployed.",
+          "Holders do not need to remember every distribution date.",
+          "The asset can keep building exposure without requiring a manual trade each time."
+        ]
+      },
+      {
+        "heading": "The details that matter",
+        "bullets": [
+          "The feature still depends on liquidity, execution quality, and clear transaction history.",
+          "Eligibility and slippage checks help protect the process from poor execution.",
+          "A simple interface matters because automation is only useful when people understand what is happening."
+        ]
+      },
+      {
+        "heading": "Where this leads",
+        "bullets": [
+          "Auto Reinvest makes rental yield feel less like a final payment and more like an ongoing part of the ownership loop."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Auto Reinvest on Tokenized Property. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-04.png",
+    "imageLocalPath": "images/propbase-batch-next/day-04.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2026-10-06",
+    "time": "17:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Propbase Lend Against Property Tokens",
+    "format": "long_x_post",
+    "text": "Selling a property token is not the only way to access liquidity.\n\n@propbaseapp is developing a lending product that could allow holders to borrow USDC while keeping the underlying real-estate position.\n\nThe important part is how that changes the usefulness of the token.\n\n1. What the product is designed to do\n\n▪️ Holders could use property tokens as collateral instead of selling them.\n\n▪️ The planned structure uses a single-pool lending model.\n\n▪️ The approach is being shaped around Propbase’s own asset and marketplace environment.\n\n2. Why this matters\n\n▪️ A token that can earn rent and support borrowing has more utility than one that can only be held or sold.\n\n▪️ Investors may be able to access liquidity without giving up their property exposure.\n\n▪️ Additional use cases can create more reasons to interact with the broader ecosystem.\n\n3. What must be handled carefully\n\n▪️ Collateral values, liquidation rules, interest rates, and pool depth will matter.\n\n▪️ Security reviews are essential before people trust the product with real positions.\n\n▪️ The lending market must be practical enough to compete with simply selling on Nexus.\n\n4. The real measure\n\n▪️ The product will succeed if holders can raise stablecoins without losing the income stream attached to their property token.\n\nWhich detail would influence your decision most: rates, collateral requirements, or available liquidity?",
+    "sections": [
+      {
+        "heading": "What the product is designed to do",
+        "bullets": [
+          "Holders could use property tokens as collateral instead of selling them.",
+          "The planned structure uses a single-pool lending model.",
+          "The approach is being shaped around Propbase’s own asset and marketplace environment."
+        ]
+      },
+      {
+        "heading": "Why this matters",
+        "bullets": [
+          "A token that can earn rent and support borrowing has more utility than one that can only be held or sold.",
+          "Investors may be able to access liquidity without giving up their property exposure.",
+          "Additional use cases can create more reasons to interact with the broader ecosystem."
+        ]
+      },
+      {
+        "heading": "What must be handled carefully",
+        "bullets": [
+          "Collateral values, liquidation rules, interest rates, and pool depth will matter.",
+          "Security reviews are essential before people trust the product with real positions.",
+          "The lending market must be practical enough to compete with simply selling on Nexus."
+        ]
+      },
+      {
+        "heading": "The real measure",
+        "bullets": [
+          "The product will succeed if holders can raise stablecoins without losing the income stream attached to their property token."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Propbase Lend Against Property Tokens. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-05.png",
+    "imageLocalPath": "images/propbase-batch-next/day-05.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2026-10-09",
+    "time": "17:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "PROPS Liquidity on Hyperion and Aptos",
+    "format": "long_x_post",
+    "text": "A property platform needs more than buildings. Its own token also needs places where people can use and trade it.\n\n@propbaseapp has expanded PROPS liquidity through Hyperion and the wider Aptos ecosystem.\n\nThat gives the token a broader market footprint, but the quality of that liquidity is what deserves attention.\n\n1. What opened up\n\n▪️ PROPS and USDC are available as a trading pair on Hyperion.\n\n▪️ Propbase added initial liquidity so the market did not begin as an empty listing.\n\n▪️ The pair creates another route for Aptos users to discover PROPS.\n\n2. How it connects to the platform\n\n▪️ Propbase already has its own DEX and liquidity path.\n\n▪️ Users can swap USDC into PROPS, provide liquidity, and stake LP tokens.\n\n▪️ Trading fees and incentive rewards create separate reasons for liquidity providers to participate.\n\n3. Why more venues help\n\n▪️ A platform token should not depend on a single internal trading route.\n\n▪️ Native USDC access removes an extra conversion step for Aptos users.\n\n▪️ More venues can make PROPS easier to find outside the core interface.\n\n4. What to watch next\n\n▪️ A listing is only useful if spreads, trading depth, and real demand develop around it.\n\nWhich matters more for PROPS in the long run: more venues, deeper liquidity, or stronger platform utility?",
+    "sections": [
+      {
+        "heading": "What opened up",
+        "bullets": [
+          "PROPS and USDC are available as a trading pair on Hyperion.",
+          "Propbase added initial liquidity so the market did not begin as an empty listing.",
+          "The pair creates another route for Aptos users to discover PROPS."
+        ]
+      },
+      {
+        "heading": "How it connects to the platform",
+        "bullets": [
+          "Propbase already has its own DEX and liquidity path.",
+          "Users can swap USDC into PROPS, provide liquidity, and stake LP tokens.",
+          "Trading fees and incentive rewards create separate reasons for liquidity providers to participate."
+        ]
+      },
+      {
+        "heading": "Why more venues help",
+        "bullets": [
+          "A platform token should not depend on a single internal trading route.",
+          "Native USDC access removes an extra conversion step for Aptos users.",
+          "More venues can make PROPS easier to find outside the core interface."
+        ]
+      },
+      {
+        "heading": "What to watch next",
+        "bullets": [
+          "A listing is only useful if spreads, trading depth, and real demand develop around it."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting PROPS Liquidity on Hyperion and Aptos. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-06.png",
+    "imageLocalPath": "images/propbase-batch-next/day-06.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2026-10-12",
+    "time": "18:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "RWAweek Finalist for Tokenized Real Estate",
+    "format": "long_x_post",
+    "text": "Awards do not build a marketplace, but they can show who is paying attention.\n\n@propbaseapp was selected as a finalist for Best Tokenized Real Estate Platform by RWAweek.\n\nThe more important question is what sits behind the recognition.\n\n1. What the shortlist represents\n\n▪️ Propbase was evaluated alongside other real-world-asset platforms.\n\n▪️ The project entered the conversation with live property listings and an operating marketplace.\n\n▪️ The nomination gives the platform exposure beyond its existing community.\n\n2. Why the recognition matters\n\n▪️ Many projects describe fractional real estate without showing an active market.\n\n▪️ Propbase can point to tokenized properties, rental distributions, and secondary trading.\n\n▪️ A finalist position creates another way for new users to discover the product.\n\n3. What recognition cannot replace\n\n▪️ An award does not improve rental performance by itself.\n\n▪️ It does not guarantee liquidity, adoption, or future listings.\n\n▪️ The product still has to work after the ceremony and after the attention fades.\n\n4. The part worth watching\n\n▪️ The strongest outcome would not be the trophy alone.\n\n▪️ It would be bringing more serious users into a marketplace they can actually inspect and use.\n\nWhen you assess an RWA platform, do awards matter, or do live products matter more?",
+    "sections": [
+      {
+        "heading": "What the shortlist represents",
+        "bullets": [
+          "Propbase was evaluated alongside other real-world-asset platforms.",
+          "The project entered the conversation with live property listings and an operating marketplace.",
+          "The nomination gives the platform exposure beyond its existing community."
+        ]
+      },
+      {
+        "heading": "Why the recognition matters",
+        "bullets": [
+          "Many projects describe fractional real estate without showing an active market.",
+          "Propbase can point to tokenized properties, rental distributions, and secondary trading.",
+          "A finalist position creates another way for new users to discover the product."
+        ]
+      },
+      {
+        "heading": "What recognition cannot replace",
+        "bullets": [
+          "An award does not improve rental performance by itself.",
+          "It does not guarantee liquidity, adoption, or future listings.",
+          "The product still has to work after the ceremony and after the attention fades."
+        ]
+      },
+      {
+        "heading": "The part worth watching",
+        "bullets": [
+          "The strongest outcome would not be the trophy alone.",
+          "It would be bringing more serious users into a marketplace they can actually inspect and use."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting RWAweek Finalist for Tokenized Real Estate. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-07.png",
+    "imageLocalPath": "images/propbase-batch-next/day-07.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2026-10-15",
+    "time": "18:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Building Through the Quiet Market",
+    "format": "long_x_post",
+    "text": "It is easy to look productive when the market is loud. The harder test comes when attention disappears.\n\n@propbaseapp has continued developing products, listings, and liquidity while the wider market has been much less forgiving.\n\nThat makes the delivery record more interesting than any single chart.\n\n1. What has continued moving\n\n▪️ Auto Reinvest has moved from concept toward live product use.\n\n▪️ Lending development has progressed toward a single-pool design.\n\n▪️ Property listings and secondary-market activity have continued operating in the background.\n\n2. Why quiet-market execution matters\n\n▪️ A platform built only around rising prices is difficult to trust with long-term assets.\n\n▪️ Product delivery during slower conditions shows whether the team can keep working without constant hype.\n\n▪️ Real-estate infrastructure needs continuity more than occasional bursts of attention.\n\n3. What rankings cannot prove\n\n▪️ A short-term performance table can change quickly.\n\n▪️ A strong token move does not automatically confirm property demand.\n\n▪️ The more durable evidence is whether rent, trading, and product development continue together.\n\n4. The longer view\n\n▪️ The useful question is not whether the token had a good month.\n\n▪️ It is whether the platform is becoming more useful than it was before.\n\nWhat gives you more confidence: short-term price strength or steady product delivery?",
+    "sections": [
+      {
+        "heading": "What has continued moving",
+        "bullets": [
+          "Auto Reinvest has moved from concept toward live product use.",
+          "Lending development has progressed toward a single-pool design.",
+          "Property listings and secondary-market activity have continued operating in the background."
+        ]
+      },
+      {
+        "heading": "Why quiet-market execution matters",
+        "bullets": [
+          "A platform built only around rising prices is difficult to trust with long-term assets.",
+          "Product delivery during slower conditions shows whether the team can keep working without constant hype.",
+          "Real-estate infrastructure needs continuity more than occasional bursts of attention."
+        ]
+      },
+      {
+        "heading": "What rankings cannot prove",
+        "bullets": [
+          "A short-term performance table can change quickly.",
+          "A strong token move does not automatically confirm property demand.",
+          "The more durable evidence is whether rent, trading, and product development continue together."
+        ]
+      },
+      {
+        "heading": "The longer view",
+        "bullets": [
+          "The useful question is not whether the token had a good month.",
+          "It is whether the platform is becoming more useful than it was before."
+        ]
+      }
+    ],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Building Through the Quiet Market. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-08.png",
+    "imageLocalPath": "images/propbase-batch-next/day-08.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 9,
+    "date": "2026-10-18",
+    "time": "19:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Ten Lines on Why $PROPS Has a Job",
+    "format": "long_x_post",
+    "text": "Property platforms need more than a token.\n@propbaseapp gives PROPS a role inside the wider ecosystem.\nIt can connect to platform activity.\nIt can support liquidity and participation.\nIt sits beside tokenized real-estate products.\nThat is more useful than a ticker with no clear function.\nThe next test is continued usage.\nUtility has to be earned over time.\nThe product matters more than the slogan.\nWould you rather hold a token with a job or just a story?",
+    "sections": [],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Ten Lines on Why $PROPS Has a Job. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-09.png",
+    "imageLocalPath": "images/propbase-batch-next/day-09.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2026-10-21",
+    "time": "19:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Ten Lines on Real Estate That Finally Moves",
+    "format": "long_x_post",
+    "text": "Real estate has always been valuable.\nIt has rarely been easy to move.\n@propbaseapp is trying to change that with fractional property tokens.\nBuy smaller exposure.\nReceive rental income.\nTrade when your situation changes.\nKeep the asset visible onchain.\nThat is a different ownership experience.\nThe real test is whether liquidity keeps improving.\nCould tokenized property become easier to manage than traditional property?",
+    "sections": [],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Ten Lines on Real Estate That Finally Moves. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-10.png",
+    "imageLocalPath": "images/propbase-batch-next/day-10.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 11,
+    "date": "2026-10-24",
+    "time": "20:00",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Ten Lines on Propbase Building the Full Stack",
+    "format": "long_x_post",
+    "text": "A token is only one part of real-estate infrastructure.\n@propbaseapp is building around the rest of the stack too.\nPrimary property offerings.\nSecondary-market trading.\nRental distributions.\nAuto Reinvest.\nLiquidity for PROPS.\nLending is another layer being developed.\nEach product adds a reason to stay active.\nWhich layer would you use first?",
+    "sections": [],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Ten Lines on Propbase Building the Full Stack. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-11.png",
+    "imageLocalPath": "images/propbase-batch-next/day-11.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  },
+  {
+    "day": 12,
+    "date": "2026-10-27",
+    "time": "20:30",
+    "project": "Propbase",
+    "handle": "@propbaseapp",
+    "title": "Ten Lines on Building Through Weak Markets",
+    "format": "long_x_post",
+    "text": "Building is easier when everyone is watching.\n@propbaseapp kept working through a quieter market.\nNew products kept moving forward.\nProperty listings stayed visible.\nRental income continued reaching holders.\nLiquidity routes kept expanding.\nThe next challenge is turning activity into habit.\nThat takes more than one good announcement.\nIt takes delivery over time.\nWhat matters more to you: hype or consistency?",
+    "sections": [],
+    "imagePrompt": "Portrait charcoal-sketch editorial illustration with subtle 16-bit pixel-art accents, beige paper texture and restrained wine accents, depicting Ten Lines on Building Through Weak Markets. Preserve clear negative space for a small transparent white Propbase logo in a corner. No other text, labels, numbers, UI, watermark, or unrelated logos.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-batch-next/day-12.png",
+    "imageLocalPath": "images/propbase-batch-next/day-12.png",
+    "sourceLinks": [
+      "https://www.propbase.app/",
+      "https://doc.propbase.app/"
+    ]
+  }
+]

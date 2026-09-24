@@ -1,0 +1,98 @@
+[
+  {
+    "day": 1,
+    "date": "2026-09-24",
+    "time": "15:00",
+    "project": "Propbase",
+    "title": "Two Years of Wyndham Garden Residences on Nexus",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 2,
+    "date": "2026-09-27",
+    "time": "15:30",
+    "project": "Propbase",
+    "title": "The Nexus Secondary Marketplace",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 3,
+    "date": "2026-09-30",
+    "time": "16:00",
+    "project": "Propbase",
+    "title": "Bangkok Property, Global Holders",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 4,
+    "date": "2026-10-03",
+    "time": "16:30",
+    "project": "Propbase",
+    "title": "Auto Reinvest on Tokenized Property",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 5,
+    "date": "2026-10-06",
+    "time": "17:00",
+    "project": "Propbase",
+    "title": "Propbase Lend Against Property Tokens",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 6,
+    "date": "2026-10-09",
+    "time": "17:30",
+    "project": "Propbase",
+    "title": "PROPS Liquidity on Hyperion and Aptos",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 7,
+    "date": "2026-10-12",
+    "time": "18:00",
+    "project": "Propbase",
+    "title": "RWAweek Finalist for Tokenized Real Estate",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 8,
+    "date": "2026-10-15",
+    "time": "18:30",
+    "project": "Propbase",
+    "title": "Building Through the Quiet Market",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 9,
+    "date": "2026-10-18",
+    "time": "19:00",
+    "project": "Propbase",
+    "title": "Ten Lines on Why $PROPS Has a Job",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 10,
+    "date": "2026-10-21",
+    "time": "19:30",
+    "project": "Propbase",
+    "title": "Ten Lines on Real Estate That Finally Moves",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 11,
+    "date": "2026-10-24",
+    "time": "20:00",
+    "project": "Propbase",
+    "title": "Ten Lines on Propbase Building the Full Stack",
+    "status": "ready_for_buffer"
+  },
+  {
+    "day": 12,
+    "date": "2026-10-27",
+    "time": "20:30",
+    "project": "Propbase",
+    "title": "Ten Lines on Building Through Weak Markets",
+    "status": "ready_for_buffer"
+  }
+]
