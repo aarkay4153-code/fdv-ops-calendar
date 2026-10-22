@@ -1,0 +1,97 @@
+{
+  "startDate": "2026-10-23",
+  "project": "Dimitra",
+  "cadence": "every alternate day, staggered 15-minute slots, Asia/Kolkata",
+  "posts": [
+    {
+      "day": 1,
+      "date": "2026-10-23",
+      "time": "20:00",
+      "project": "Dimitra",
+      "title": "From Award to Infrastructure: What Dimitra’s Recognition Actually Signals",
+      "imageLocalPath": "images/dimitra-october-2026/day-01-award-to-infrastructure.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-01-award-to-infrastructure.png"
+    },
+    {
+      "day": 2,
+      "date": "2026-10-25",
+      "time": "20:15",
+      "project": "Dimitra",
+      "title": "Connected Farmer Community Edition and the Value of a Farm History",
+      "imageLocalPath": "images/dimitra-october-2026/day-02-community-farm-history.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-02-community-farm-history.png"
+    },
+    {
+      "day": 3,
+      "date": "2026-10-27",
+      "time": "20:30",
+      "project": "Dimitra",
+      "title": "Why Connected Farmer Cooperative Edition Starts With the Network",
+      "imageLocalPath": "images/dimitra-october-2026/day-03-cooperative-network.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-03-cooperative-network.png"
+    },
+    {
+      "day": 4,
+      "date": "2026-10-29",
+      "time": "20:45",
+      "project": "Dimitra",
+      "title": "Dimitra’s Partner Network and the Human Side of AgTech Distribution",
+      "imageLocalPath": "images/dimitra-october-2026/day-04-partner-referral-network.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-04-partner-referral-network.png"
+    },
+    {
+      "day": 5,
+      "date": "2026-10-31",
+      "time": "21:00",
+      "project": "Dimitra",
+      "title": "ID Connect and Why Indonesian Exporters Need Evidence Before Shipment",
+      "imageLocalPath": "images/dimitra-october-2026/day-05-id-connect-eudr.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-05-id-connect-eudr.png"
+    },
+    {
+      "day": 6,
+      "date": "2026-11-02",
+      "time": "21:15",
+      "project": "Dimitra",
+      "title": "What the Mexico Coffee Deployment Says About Dimitra’s Practical Edge",
+      "imageLocalPath": "images/dimitra-october-2026/day-06-mexico-coffee-traceability.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-06-mexico-coffee-traceability.png"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-04",
+      "time": "21:30",
+      "project": "Dimitra",
+      "title": "The Quiet Importance of Comparable Supplier Evidence",
+      "imageLocalPath": "images/dimitra-october-2026/day-07-comparable-supplier-evidence.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-07-comparable-supplier-evidence.png"
+    },
+    {
+      "day": 8,
+      "date": "2026-11-06",
+      "time": "21:45",
+      "project": "Dimitra",
+      "title": "Why Dimitra’s Protocol Matters Beyond the Farm Interface",
+      "imageLocalPath": "images/dimitra-october-2026/day-08-connected-outcomes-stack.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-08-connected-outcomes-stack.png"
+    },
+    {
+      "day": 9,
+      "date": "2026-11-08",
+      "time": "22:00",
+      "project": "Dimitra",
+      "title": "The EUDR Clock",
+      "imageLocalPath": "images/dimitra-october-2026/day-09-eudr-clock.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-09-eudr-clock.png"
+    },
+    {
+      "day": 10,
+      "date": "2026-11-10",
+      "time": "22:15",
+      "project": "Dimitra",
+      "title": "The Data Must Travel",
+      "imageLocalPath": "images/dimitra-october-2026/day-10-data-must-travel.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/dimitra-october-2026/day-10-data-must-travel.png"
+    }
+  ]
+}

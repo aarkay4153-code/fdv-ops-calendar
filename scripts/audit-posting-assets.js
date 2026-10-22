@@ -43,18 +43,18 @@ for (const post of posts) {
     if (intro.trim().startsWith("@")) errors.push(`Day ${post.day}: intro starts with a tag`);
     if (handleLine < 2) errors.push(`Day ${post.day}: tag should be integrated on line 2 or later`);
   }
-  if (!Array.isArray(post.sections) || post.sections.length !== 5) {
-    errors.push(`Day ${post.day}: expected 5 sections`);
+  if (!Array.isArray(post.sections) || post.sections.length !== 4) {
+    errors.push(`Day ${post.day}: expected 4 sections`);
   }
-  if (post.sections && post.sections[4] && post.sections[4].heading !== "Conclusion") {
-    errors.push(`Day ${post.day}: final section is not Conclusion`);
+  if (post.sections && post.sections.some((section) => /^Conclusion$/i.test(section.heading))) {
+    errors.push(`Day ${post.day}: Conclusion heading is not allowed`);
   }
   if (prompt) {
     if (prompt.project === "Charge" || hasRemovedChargeProject(prompt)) {
       errors.push(`Day ${post.day}: Charge image prompt should not be in the active posting set`);
     }
-    if (!/no text/i.test(prompt.prompt)) errors.push(`Day ${post.day}: prompt missing no-text constraint`);
-    if (!/pixel art/i.test(prompt.prompt)) errors.push(`Day ${post.day}: prompt missing pixel-art style`);
+    if (!/no (visible )?words|no text/i.test(prompt.prompt)) errors.push(`Day ${post.day}: prompt missing no-text constraint`);
+    if (!/pixel.?art/i.test(prompt.prompt)) errors.push(`Day ${post.day}: prompt missing pixel-art style`);
     if (!prompt.publicUrl || !prompt.localPath) {
       errors.push(`Day ${post.day}: prompt missing image paths`);
     }
