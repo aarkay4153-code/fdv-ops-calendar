@@ -1,0 +1,226 @@
+[
+  {
+    "day": 1,
+    "date": "2026-11-08",
+    "time": "12:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The System Behind $PROPS Exists Before the Token",
+    "format": "long_x_post",
+    "text": "A token is only as strong as the infrastructure underneath it.\n\nThe System Behind $PROPS Exists Before the Token\n\n▪️ Propbase says properties go through valuation, ownership verification, rental-demand analysis, and property review before listing.\n\n▪️ Each asset is placed inside an LLC with supporting documents and a public blockchain registry.\n\n▪️ Funding happens through a property auction before tokenized shares are distributed.\n\n▪️ Nexus provides a marketplace layer for property discovery and secondary trading, subject to liquidity and eligibility.\n\n▪️ $PROPS is positioned around staking, membership access, fee discounts, and ecosystem rewards.\n\n▪️ The token is therefore one part of a broader operating system.\n\nThe bullish case is that more properties create more platform activity and stronger utility. The bear case is that disconnected layers leave the system mostly narrative. Which part deserves the most scrutiny first?",
+    "imagePrompt": "Statistics-style infographic: layered Propbase infrastructure stack with abstract bars and metric cards for diligence, LLC, registry, marketplace, and utility; dark charcoal, neon-lime, cobalt, white, human researcher, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-01-infrastructure-stack.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-01-infrastructure-stack.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "The infrastructure comes first",
+        "bullets": [
+          "Propbase says properties go through valuation, ownership verification, rental-demand analysis, and property review before listing.",
+          "Each asset is placed inside an LLC with supporting documents and a public blockchain registry.",
+          "Funding happens through a property auction before tokenized shares are distributed.",
+          "Nexus provides a marketplace layer for property discovery and secondary trading, subject to liquidity and eligibility.",
+          "$PROPS is positioned around staking, membership access, fee discounts, and ecosystem rewards.",
+          "The token is therefore one part of a broader operating system."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2026-11-11",
+    "time": "12:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "A Property Token Is Useless Without an Exit Route",
+    "format": "long_x_post",
+    "text": "A property token without an exit route is just a digital waiting room.\n\nA Property Token Is Useless Without an Exit Route\n\n🔹 A token can be issued without creating meaningful market depth.\n\n🔹 Investors still need property information, legal context, transfer rules, and independent counterparties.\n\n🔹 Nexus is described as supporting property-token trading through an orderbook system.\n\n🔹 Nexus is described as supporting property-token trading through an orderbook system.\n\n🔹 Unique properties create valuation friction because every asset has different demand, location, condition, and management variables.\n\n🔹 A property-specific market could make real-estate exposure easier to discover and trade.\n\nTokenization can divide ownership, but it cannot guarantee a buyer at the moment of exit. What evidence would convince you that the route is genuinely liquid?",
+    "imagePrompt": "Statistics-style infographic: tokenized property exit route with orderbook depth, buyer/seller columns, market gaps, and transfer gates; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-02-exit-route-depth.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-02-exit-route-depth.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "Issuance is not liquidity",
+        "bullets": [
+          "A token can be issued without creating meaningful market depth.",
+          "Investors still need property information, legal context, transfer rules, and independent counterparties.",
+          "Nexus is described as supporting property-token trading through an orderbook system.",
+          "Nexus is described as supporting property-token trading through an orderbook system.",
+          "Unique properties create valuation friction because every asset has different demand, location, condition, and management variables.",
+          "A property-specific market could make real-estate exposure easier to discover and trade."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-11-14",
+    "time": "13:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+    "format": "long_x_post",
+    "text": "Attention can arrive faster than utility.\n\nRobinhood Chain Is Pricing Attention. Can $PROPS Price Utility?\n\n◾ Propbase announced a Robinhood Chain contract and access route through Uniswap.\n\n◾ Robinhood describes the network as an Ethereum-compatible Layer 2 built for onchain financial infrastructure and RWAs.\n\n◾ A wider chain audience matters only if users move into staking, membership, marketplace, or property activity.\n\n◾ Propbase connects $PROPS to staking, membership access, fee discounts, and ecosystem rewards.\n\n◾ A new chain can improve discovery among users, developers, and potential liquidity providers.\n\n◾ More wallets do not automatically mean more property demand.\n\nA chain launch is a door, not proof that people will walk through it. What would make Robinhood Chain more than a visibility boost for $PROPS?",
+    "imagePrompt": "Statistics-style infographic: Robinhood Chain attention funnel compared with Propbase utility, showing network, wallets, staking, membership, marketplace, and property activity; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-03-attention-utility.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-03-attention-utility.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "The utility test",
+        "bullets": [
+          "Propbase announced a Robinhood Chain contract and access route through Uniswap.",
+          "Robinhood describes the network as an Ethereum-compatible Layer 2 built for onchain financial infrastructure and RWAs.",
+          "A wider chain audience matters only if users move into staking, membership, marketplace, or property activity.",
+          "Propbase connects $PROPS to staking, membership access, fee discounts, and ecosystem rewards.",
+          "A new chain can improve discovery among users, developers, and potential liquidity providers.",
+          "More wallets do not automatically mean more property demand."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2026-11-17",
+    "time": "13:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The Asset, the Entity, and the Token Are Three Different Things",
+    "format": "long_x_post",
+    "text": "A property token is not the property itself.\n\nThe Asset, the Entity, and the Token Are Three Different Things\n\n🔸 The physical property remains exposed to location, condition, demand, management, and local regulation.\n\n🔸 Propbase says each asset is placed inside an LLC with supporting documentation.\n\n🔸 The token represents exposure according to the platform terms, not automatic direct ownership of a building.\n\n🔸 Property documents can include title deeds, management contracts, purchase contracts, and registration records.\n\n🔸 The token represents exposure according to platform terms and offering structure.\n\n🔸 Good RWA research follows the chain from asset to entity to documents to token.\n\nGood RWA research follows property, entity, documents, and token terms separately. Which layer do crypto investors misunderstand most often?",
+    "imagePrompt": "Statistics-style infographic: three transparent comparison columns for physical asset, LLC entity, and token exposure with document verification nodes; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-04-asset-entity-token.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-04-asset-entity-token.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "The layers stay separate",
+        "bullets": [
+          "The physical property remains exposed to location, condition, demand, management, and local regulation.",
+          "Propbase says each asset is placed inside an LLC with supporting documentation.",
+          "The token represents exposure according to the platform terms, not automatic direct ownership of a building.",
+          "Property documents can include title deeds, management contracts, purchase contracts, and registration records.",
+          "The token represents exposure according to platform terms and offering structure.",
+          "Good RWA research follows the chain from asset to entity to documents to token."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2026-11-20",
+    "time": "14:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+    "format": "long_x_post",
+    "text": "Most RWA projects stop at the token contract.\n\nNexus Is the Product Test Most RWA Tokens Never Face\n\n▪️ A seller starts with an application, valuation, ownership verification, and rental-demand analysis.\n\n▪️ The property moves through a targeted funding auction before the LLC transfer is completed.\n\n▪️ Tokenized shares are distributed after the property and entity steps are completed.\n\n▪️ Investors can review property information, media, and legal documents inside the workflow.\n\n▪️ Tokenized shares are distributed after the property and entity steps are completed.\n\n▪️ The product question is whether the workflow reduces repeated friction for buyers and sellers.\n\nIf Nexus cannot make the workflow repeatable, the tokenization layer is mostly cosmetic. Which step will decide whether it becomes a real product?",
+    "imagePrompt": "Statistics-style infographic: six-step Nexus workflow panels for application, diligence, funding, entity custody, token distribution, and marketplace; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-05-nexus-workflow.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-05-nexus-workflow.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "The workflow matters",
+        "bullets": [
+          "A seller starts with an application, valuation, ownership verification, and rental-demand analysis.",
+          "The property moves through a targeted funding auction before the LLC transfer is completed.",
+          "Tokenized shares are distributed after the property and entity steps are completed.",
+          "Investors can review property information, media, and legal documents inside the workflow.",
+          "Tokenized shares are distributed after the property and entity steps are completed.",
+          "The product question is whether the workflow reduces repeated friction for buyers and sellers."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2026-11-23",
+    "time": "14:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+    "format": "long_x_post",
+    "text": "A new chain can widen access without creating demand.\n\nRobinhood Chain Is a Distribution Bet, Not a Shortcut\n\n🔹 Robinhood Chain is described as permissionless and Ethereum-compatible.\n\n🔹 Propbase says expanding $PROPS can introduce the token to new users, builders, and potential liquidity providers.\n\n🔹 None of that guarantees Robinhood endorsement, market depth, or user retention.\n\n🔹 The bullish case is that EVM compatibility lowers integration friction and opens new distribution channels.\n\n🔹 The bear case is that users discover $PROPS but never move into Nexus, staking, membership, or property activity.\n\n🔹 Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention.\n\nSustained volume, active holders, integrations, and platform usage matter more than launch-day attention. What would count as real distribution success?",
+    "imagePrompt": "Statistics-style infographic: distribution funnel from Robinhood Chain infrastructure through wallets, users, liquidity providers, and real-estate activity; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-06-distribution-funnel.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-06-distribution-funnel.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "Distribution is not adoption",
+        "bullets": [
+          "Robinhood Chain is described as permissionless and Ethereum-compatible.",
+          "Propbase says expanding $PROPS can introduce the token to new users, builders, and potential liquidity providers.",
+          "None of that guarantees Robinhood endorsement, market depth, or user retention.",
+          "The bullish case is that EVM compatibility lowers integration friction and opens new distribution channels.",
+          "The bear case is that users discover $PROPS but never move into Nexus, staking, membership, or property activity.",
+          "Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2026-11-26",
+    "time": "15:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+    "format": "long_x_post",
+    "text": "Real estate tokens do not become liquid because they are digital.\n\nLiquidity Is the Hardest Problem in Tokenized Real Estate\n\n◾ Buildings are slower and more complex to sell than most crypto assets.\n\n◾ Compliance, eligibility, and valuation differences can reduce the number of potential traders.\n\n◾ An orderbook can remain available but shallow if buyers and sellers rarely meet.\n\n◾ Tokenization can divide exposure but cannot erase the property’s time horizon.\n\n◾ Thin markets can make exits slower even when the asset is technically tradable 24/7.\n\n◾ Concentration risk can appear at the wallet, property, or platform level.\n\nAccessibility is not the same thing as liquidity. Which matters more for Propbase: more listings or deeper liquidity in existing ones?",
+    "imagePrompt": "Statistics-style red-team infographic: liquidity-risk comparison showing depth, transfer restrictions, valuation uncertainty, and concentration through empty bars and gated pathways; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-07-liquidity-risk.png",
+    "imageLocalPath": "images/propbase-gap-november-2026/gap-07-liquidity-risk.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://docs.robinhood.com/chain/",
+      "https://x.com/PropbaseApp"
+    ],
+    "sections": [
+      {
+        "heading": "The red-team case",
+        "bullets": [
+          "Buildings are slower and more complex to sell than most crypto assets.",
+          "Compliance, eligibility, and valuation differences can reduce the number of potential traders.",
+          "An orderbook can remain available but shallow if buyers and sellers rarely meet.",
+          "Tokenization can divide exposure but cannot erase the property’s time horizon.",
+          "Thin markets can make exits slower even when the asset is technically tradable 24/7.",
+          "Concentration risk can appear at the wallet, property, or platform level."
+        ]
+      }
+    ]
+  }
+]

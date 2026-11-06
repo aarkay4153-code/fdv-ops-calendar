@@ -1,0 +1,70 @@
+{
+  "startDate": "2026-11-08",
+  "project": "Propbase",
+  "cadence": "free-day gap campaign, staggered 12:00-15:00 IST",
+  "posts": [
+    {
+      "day": 1,
+      "date": "2026-11-08",
+      "time": "12:00",
+      "project": "Propbase",
+      "title": "The System Behind $PROPS Exists Before the Token",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-01-infrastructure-stack.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-01-infrastructure-stack.png"
+    },
+    {
+      "day": 2,
+      "date": "2026-11-11",
+      "time": "12:30",
+      "project": "Propbase",
+      "title": "A Property Token Is Useless Without an Exit Route",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-02-exit-route-depth.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-02-exit-route-depth.png"
+    },
+    {
+      "day": 3,
+      "date": "2026-11-14",
+      "time": "13:00",
+      "project": "Propbase",
+      "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-03-attention-utility.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-03-attention-utility.png"
+    },
+    {
+      "day": 4,
+      "date": "2026-11-17",
+      "time": "13:30",
+      "project": "Propbase",
+      "title": "The Asset, the Entity, and the Token Are Three Different Things",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-04-asset-entity-token.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-04-asset-entity-token.png"
+    },
+    {
+      "day": 5,
+      "date": "2026-11-20",
+      "time": "14:00",
+      "project": "Propbase",
+      "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-05-nexus-workflow.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-05-nexus-workflow.png"
+    },
+    {
+      "day": 6,
+      "date": "2026-11-23",
+      "time": "14:30",
+      "project": "Propbase",
+      "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-06-distribution-funnel.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-06-distribution-funnel.png"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-26",
+      "time": "15:00",
+      "project": "Propbase",
+      "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+      "imageLocalPath": "images/propbase-gap-november-2026/gap-07-liquidity-risk.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-07-liquidity-risk.png"
+    }
+  ]
+}

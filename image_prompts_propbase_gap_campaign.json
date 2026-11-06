@@ -1,0 +1,72 @@
+[
+  {
+    "day": 1,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The System Behind $PROPS Exists Before the Token",
+    "prompt": "Statistics-style infographic: layered Propbase infrastructure stack with abstract bars and metric cards for diligence, LLC, registry, marketplace, and utility; dark charcoal, neon-lime, cobalt, white, human researcher, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-01-infrastructure-stack.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-01-infrastructure-stack.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 2,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "A Property Token Is Useless Without an Exit Route",
+    "prompt": "Statistics-style infographic: tokenized property exit route with orderbook depth, buyer/seller columns, market gaps, and transfer gates; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-02-exit-route-depth.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-02-exit-route-depth.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 3,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+    "prompt": "Statistics-style infographic: Robinhood Chain attention funnel compared with Propbase utility, showing network, wallets, staking, membership, marketplace, and property activity; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-03-attention-utility.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-03-attention-utility.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 4,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The Asset, the Entity, and the Token Are Three Different Things",
+    "prompt": "Statistics-style infographic: three transparent comparison columns for physical asset, LLC entity, and token exposure with document verification nodes; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-04-asset-entity-token.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-04-asset-entity-token.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 5,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+    "prompt": "Statistics-style infographic: six-step Nexus workflow panels for application, diligence, funding, entity custody, token distribution, and marketplace; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-05-nexus-workflow.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-05-nexus-workflow.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 6,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+    "prompt": "Statistics-style infographic: distribution funnel from Robinhood Chain infrastructure through wallets, users, liquidity providers, and real-estate activity; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-06-distribution-funnel.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-06-distribution-funnel.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  },
+  {
+    "day": 7,
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+    "prompt": "Statistics-style red-team infographic: liquidity-risk comparison showing depth, transfer restrictions, valuation uncertainty, and concentration through empty bars and gated pathways; dark charcoal, neon-lime, cobalt, white, 5:2, no generated text. Exact white Propbase logo as separate editable lower-right overlay; leave dark negative space for headline and verified as-of data card. Crisp 16-bit pixel-art editorial style, no watermark or unrelated logos.",
+    "localPath": "images/propbase-gap-november-2026/gap-07-liquidity-risk.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-gap-november-2026/gap-07-liquidity-risk.png",
+    "overlayInstruction": "Add headline and verified as-of data card in tldraw; place exact white Propbase logo lower right."
+  }
+]
