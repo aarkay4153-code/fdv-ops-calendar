@@ -1,0 +1,97 @@
+{
+  "startDate": "2026-11-06",
+  "project": "Propbase",
+  "cadence": "every three calendar days, staggered IST slots",
+  "posts": [
+    {
+      "day": 1,
+      "date": "2026-11-06",
+      "time": "18:15",
+      "project": "Propbase",
+      "title": "The System Behind $PROPS Exists Before the Token",
+      "imageLocalPath": "images/propbase-november-2026/day-01-system-before-token.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-01-system-before-token.png"
+    },
+    {
+      "day": 2,
+      "date": "2026-11-09",
+      "time": "20:45",
+      "project": "Propbase",
+      "title": "A Property Token Is Useless Without an Exit Route",
+      "imageLocalPath": "images/propbase-november-2026/day-02-exit-route.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-02-exit-route.png"
+    },
+    {
+      "day": 3,
+      "date": "2026-11-12",
+      "time": "19:30",
+      "project": "Propbase",
+      "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+      "imageLocalPath": "images/propbase-november-2026/day-03-attention-vs-utility.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-03-attention-vs-utility.png"
+    },
+    {
+      "day": 4,
+      "date": "2026-11-15",
+      "time": "22:15",
+      "project": "Propbase",
+      "title": "The Asset, the Entity, and the Token Are Three Different Things",
+      "imageLocalPath": "images/propbase-november-2026/day-04-asset-entity-token.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-04-asset-entity-token.png"
+    },
+    {
+      "day": 5,
+      "date": "2026-11-18",
+      "time": "18:45",
+      "project": "Propbase",
+      "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+      "imageLocalPath": "images/propbase-november-2026/day-05-nexus-workflow.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-05-nexus-workflow.png"
+    },
+    {
+      "day": 6,
+      "date": "2026-11-21",
+      "time": "21:30",
+      "project": "Propbase",
+      "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+      "imageLocalPath": "images/propbase-november-2026/day-06-distribution-bet.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-06-distribution-bet.png"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-24",
+      "time": "19:00",
+      "project": "Propbase",
+      "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+      "imageLocalPath": "images/propbase-november-2026/day-07-liquidity-risk.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-07-liquidity-risk.png"
+    },
+    {
+      "day": 8,
+      "date": "2026-11-27",
+      "time": "22:45",
+      "project": "Propbase",
+      "title": "Staking Is Not a Substitute for Supply Analysis",
+      "imageLocalPath": "images/propbase-november-2026/day-08-staking-supply.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-08-staking-supply.png"
+    },
+    {
+      "day": 9,
+      "date": "2026-11-30",
+      "time": "20:15",
+      "project": "Propbase",
+      "title": "The $PROPS Mispricing Thesis Has to Earn Itself",
+      "imageLocalPath": "images/propbase-november-2026/day-09-mispricing-thesis.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-09-mispricing-thesis.png"
+    },
+    {
+      "day": 10,
+      "date": "2026-12-03",
+      "time": "21:00",
+      "project": "Propbase",
+      "title": "What Must Be True for the Propbase Thesis to Work",
+      "imageLocalPath": "images/propbase-november-2026/day-10-propbase-scorecard.png",
+      "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-10-propbase-scorecard.png"
+    }
+  ]
+}

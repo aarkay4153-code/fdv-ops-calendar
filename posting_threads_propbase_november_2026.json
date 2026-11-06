@@ -1,0 +1,562 @@
+[
+  {
+    "day": 1,
+    "date": "2026-11-06",
+    "time": "18:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The System Behind $PROPS Exists Before the Token",
+    "format": "long_x_post",
+    "text": "A token can be live before it is useful.\n\n@PropbaseApp has property diligence, LLC structure, a marketplace, and a utility token. The harder question is whether the whole loop actually works in sequence.\n\nLet’s trace the system before judging $PROPS 👇\n\nThe System Behind $PROPS Exists Before the Token\n\n1. The infrastructure comes first\n\n▪️ Propbase says listings go through valuation, ownership verification, rental-demand analysis, and property review.\n\n▪️ The asset and its documentation come before the onchain representation.\n\n2. The entity matters\n\n▪️ Propbase says each asset is placed inside an LLC with supporting documentation.\n\n▪️ That legal layer is different from the wallet balance shown to a token holder.\n\n3. The marketplace completes the loop\n\n▪️ After funding, tokenized shares are distributed and Propbase describes a P2P orderbook marketplace.\n\n▪️ That is the difference between issuing a token and designing a route through the platform.\n\n4. Where $PROPS fits\n\n▪️ Propbase connects $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n▪️ Those functions need to reinforce the property and marketplace loop.\n\n5. What would invalidate the thesis\n\n▪️ Weak disclosures, shallow marketplace activity, or unclear token rights would break the infrastructure story.\n\n▪️ The layers must keep reinforcing one another.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The System Behind $PROPS Exists Before the Token. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-01-system-before-token.png",
+    "imageLocalPath": "images/propbase-november-2026/day-01-system-before-token.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "The infrastructure comes first",
+        "bullets": [
+          "Propbase says listings go through valuation, ownership verification, rental-demand analysis, and property review.",
+          "The asset and its documentation come before the onchain representation."
+        ]
+      },
+      {
+        "heading": "The entity matters",
+        "bullets": [
+          "Propbase says each asset is placed inside an LLC with supporting documentation.",
+          "That legal layer is different from the wallet balance shown to a token holder."
+        ]
+      },
+      {
+        "heading": "The marketplace completes the loop",
+        "bullets": [
+          "After funding, tokenized shares are distributed and Propbase describes a P2P orderbook marketplace.",
+          "That is the difference between issuing a token and designing a route through the platform."
+        ]
+      },
+      {
+        "heading": "Where $PROPS fits",
+        "bullets": [
+          "Propbase connects $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "Those functions need to reinforce the property and marketplace loop."
+        ]
+      },
+      {
+        "heading": "What would invalidate the thesis",
+        "bullets": [
+          "Weak disclosures, shallow marketplace activity, or unclear token rights would break the infrastructure story.",
+          "The layers must keep reinforcing one another."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "date": "2026-11-09",
+    "time": "20:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "A Property Token Is Useless Without an Exit Route",
+    "format": "long_x_post",
+    "text": "Minting a property token is the easy headline.\n\n@PropbaseApp still has to give holders a credible route from ownership records to a buyer, a bid, or a secondary trade in practice today.\n\nHere’s where the exit route becomes the real product test 👇\n\nA Property Token Is Useless Without an Exit Route\n\n1. Issuance is not liquidity\n\n🔹 A token can exist without buyers, bids, orderbook depth, or reliable price discovery.\n\n🔹 The difficult part begins after the token reaches a wallet.\n\n2. Propbase’s stated route\n\n🔹 Propbase describes an initial property auction followed by token distribution and a P2P marketplace.\n\n🔹 The route is designed, but its depth must be demonstrated through activity.\n\n3. Where friction appears\n\n🔹 Secondary buyers need property information, legal context, and enough counterparties to trade.\n\n🔹 Valuation becomes harder when properties are unique and trading is infrequent.\n\n4. The bullish case\n\n🔹 A property-specific marketplace can be clearer than forcing users through unrelated exchanges.\n\n🔹 Transparent documents and repeat participation could improve confidence.\n\n5. The bear case\n\n🔹 Thin demand, transfer restrictions, and unclear valuation can leave the exit route theoretical.\n\n🔹 The thesis fails if holders can buy but cannot find credible counterparties.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for A Property Token Is Useless Without an Exit Route. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-02-exit-route.png",
+    "imageLocalPath": "images/propbase-november-2026/day-02-exit-route.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "Issuance is not liquidity",
+        "bullets": [
+          "A token can exist without buyers, bids, orderbook depth, or reliable price discovery.",
+          "The difficult part begins after the token reaches a wallet."
+        ]
+      },
+      {
+        "heading": "Propbase’s stated route",
+        "bullets": [
+          "Propbase describes an initial property auction followed by token distribution and a P2P marketplace.",
+          "The route is designed, but its depth must be demonstrated through activity."
+        ]
+      },
+      {
+        "heading": "Where friction appears",
+        "bullets": [
+          "Secondary buyers need property information, legal context, and enough counterparties to trade.",
+          "Valuation becomes harder when properties are unique and trading is infrequent."
+        ]
+      },
+      {
+        "heading": "The bullish case",
+        "bullets": [
+          "A property-specific marketplace can be clearer than forcing users through unrelated exchanges.",
+          "Transparent documents and repeat participation could improve confidence."
+        ]
+      },
+      {
+        "heading": "The bear case",
+        "bullets": [
+          "Thin demand, transfer restrictions, and unclear valuation can leave the exit route theoretical.",
+          "The thesis fails if holders can buy but cannot find credible counterparties."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "date": "2026-11-12",
+    "time": "19:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+    "format": "long_x_post",
+    "text": "Attention can arrive faster than utility.\n\n@PropbaseApp now has $PROPS live on Robinhood Chain, but a wider network only matters if the token earns real use beyond the announcement.\n\nLet’s separate distribution from proof before calling it value 👇\n\nRobinhood Chain Is Pricing Attention. Can $PROPS Price Utility?\n\n1. What is confirmed\n\n◾ Propbase announced that $PROPS is live on Robinhood Chain and published a contract and Uniswap route.\n\n◾ That confirms deployment, not guaranteed liquidity or adoption.\n\n2. Why the chain matters\n\n◾ Robinhood Chain describes itself as an Ethereum-compatible Layer 2 built for onchain financial infrastructure.\n\n◾ That creates a relevant environment for RWA builders.\n\n3. Where utility has to show up\n\n◾ Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n◾ The token needs repeat use beyond the launch announcement.\n\n4. The bull case\n\n◾ A new chain can expand discovery among users, developers, and potential liquidity providers.\n\n◾ New access routes may improve discoverability.\n\n5. The falsifiers\n\n◾ If activity remains launch-driven and utility stays disconnected from platform use, the distribution thesis weakens.\n\n◾ Thin liquidity would make the expansion mostly an attention event.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-03-attention-vs-utility.png",
+    "imageLocalPath": "images/propbase-november-2026/day-03-attention-vs-utility.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "What is confirmed",
+        "bullets": [
+          "Propbase announced that $PROPS is live on Robinhood Chain and published a contract and Uniswap route.",
+          "That confirms deployment, not guaranteed liquidity or adoption."
+        ]
+      },
+      {
+        "heading": "Why the chain matters",
+        "bullets": [
+          "Robinhood Chain describes itself as an Ethereum-compatible Layer 2 built for onchain financial infrastructure.",
+          "That creates a relevant environment for RWA builders."
+        ]
+      },
+      {
+        "heading": "Where utility has to show up",
+        "bullets": [
+          "Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "The token needs repeat use beyond the launch announcement."
+        ]
+      },
+      {
+        "heading": "The bull case",
+        "bullets": [
+          "A new chain can expand discovery among users, developers, and potential liquidity providers.",
+          "New access routes may improve discoverability."
+        ]
+      },
+      {
+        "heading": "The falsifiers",
+        "bullets": [
+          "If activity remains launch-driven and utility stays disconnected from platform use, the distribution thesis weakens.",
+          "Thin liquidity would make the expansion mostly an attention event."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "date": "2026-11-15",
+    "time": "22:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The Asset, the Entity, and the Token Are Three Different Things",
+    "format": "long_x_post",
+    "text": "A property token is not the property.\n\n@PropbaseApp separates the asset, the holding entity, the legal documents, and the token exposure. Confusing those layers is how RWA narratives get over-sold.\n\nLet’s map what the holder actually owns 👇\n\nThe Asset, the Entity, and the Token Are Three Different Things\n\n1. The physical asset\n\n🔸 The property remains subject to location, condition, demand, management, and legal status.\n\n🔸 Tokenization does not remove those real-world variables.\n\n2. The holding entity\n\n🔸 Propbase says the property is placed inside an LLC.\n\n🔸 That structure is different from the token balance held in a wallet.\n\n3. The documents\n\n🔸 Propbase references title deeds, LLC registration, management contracts, and purchase contracts.\n\n🔸 These documents help explain the relationship between asset and entity.\n\n4. The token\n\n🔸 The token represents platform-defined exposure to the underlying structure.\n\n🔸 Exact rights depend on applicable terms, jurisdiction, and offering documents.\n\n5. The research test\n\n🔸 Strong RWA analysis follows property, entity, documents, and token terms separately.\n\n🔸 The thesis weakens when those layers are collapsed into one slogan.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The Asset, the Entity, and the Token Are Three Different Things. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-04-asset-entity-token.png",
+    "imageLocalPath": "images/propbase-november-2026/day-04-asset-entity-token.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "The physical asset",
+        "bullets": [
+          "The property remains subject to location, condition, demand, management, and legal status.",
+          "Tokenization does not remove those real-world variables."
+        ]
+      },
+      {
+        "heading": "The holding entity",
+        "bullets": [
+          "Propbase says the property is placed inside an LLC.",
+          "That structure is different from the token balance held in a wallet."
+        ]
+      },
+      {
+        "heading": "The documents",
+        "bullets": [
+          "Propbase references title deeds, LLC registration, management contracts, and purchase contracts.",
+          "These documents help explain the relationship between asset and entity."
+        ]
+      },
+      {
+        "heading": "The token",
+        "bullets": [
+          "The token represents platform-defined exposure to the underlying structure.",
+          "Exact rights depend on applicable terms, jurisdiction, and offering documents."
+        ]
+      },
+      {
+        "heading": "The research test",
+        "bullets": [
+          "Strong RWA analysis follows property, entity, documents, and token terms separately.",
+          "The thesis weakens when those layers are collapsed into one slogan."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "date": "2026-11-18",
+    "time": "18:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+    "format": "long_x_post",
+    "text": "Most RWA demos stop at the mint button.\n\n@PropbaseApp’s Nexus workflow has to survive diligence, funding, documents, distribution, and trading before the token becomes a product in the real world.\n\nLet’s walk through the part that usually gets skipped 👇\n\nNexus Is the Product Test Most RWA Tokens Never Face\n\n1. It starts with an application\n\n▪️ Propbase says sellers apply before a property enters the platform.\n\n▪️ The process includes valuation, ownership verification, and rental-demand analysis.\n\n2. Funding is part of the test\n\n▪️ The property auction has a targeted funding requirement before the LLC transfer is completed.\n\n▪️ That creates a real checkpoint between listing and distribution.\n\n3. Documents are part of the experience\n\n▪️ Propbase says investors can review specifications, media, and legal documents.\n\n▪️ A strong workflow makes diligence visible rather than hiding it behind marketing.\n\n4. Distribution comes later\n\n▪️ Tokenized shares are distributed after the funding process.\n\n▪️ The token follows an asset and entity workflow.\n\n5. The product question\n\n▪️ Nexus has to reduce repeated friction for buyers and sellers.\n\n▪️ If it cannot, the tokenization layer is mostly cosmetic.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Nexus Is the Product Test Most RWA Tokens Never Face. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-05-nexus-workflow.png",
+    "imageLocalPath": "images/propbase-november-2026/day-05-nexus-workflow.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "It starts with an application",
+        "bullets": [
+          "Propbase says sellers apply before a property enters the platform.",
+          "The process includes valuation, ownership verification, and rental-demand analysis."
+        ]
+      },
+      {
+        "heading": "Funding is part of the test",
+        "bullets": [
+          "The property auction has a targeted funding requirement before the LLC transfer is completed.",
+          "That creates a real checkpoint between listing and distribution."
+        ]
+      },
+      {
+        "heading": "Documents are part of the experience",
+        "bullets": [
+          "Propbase says investors can review specifications, media, and legal documents.",
+          "A strong workflow makes diligence visible rather than hiding it behind marketing."
+        ]
+      },
+      {
+        "heading": "Distribution comes later",
+        "bullets": [
+          "Tokenized shares are distributed after the funding process.",
+          "The token follows an asset and entity workflow."
+        ]
+      },
+      {
+        "heading": "The product question",
+        "bullets": [
+          "Nexus has to reduce repeated friction for buyers and sellers.",
+          "If it cannot, the tokenization layer is mostly cosmetic."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "date": "2026-11-21",
+    "time": "21:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+    "format": "long_x_post",
+    "text": "A new chain can widen reach without demand.\n\n@PropbaseApp calls Robinhood Chain a new route for $PROPS access, but adoption still depends on integrations, venues, and users choosing to stay.\n\nLet’s examine the distribution bet without the shortcut story 👇\n\nRobinhood Chain Is a Distribution Bet, Not a Shortcut\n\n1. The technical fit\n\n🔹 Robinhood Chain describes itself as permissionless and Ethereum-compatible.\n\n🔹 That lowers the barrier for projects exploring deployment there.\n\n2. The audience may expand\n\n🔹 Propbase says the move can reach new users, builders, and potential liquidity providers.\n\n🔹 Those are opportunities, not confirmed adoption metrics.\n\n3. A chain is not a shortcut\n\n🔹 Deployment does not guarantee trading depth or endorsement by Robinhood.\n\n🔹 Users still have to choose to participate.\n\n4. The bull case\n\n🔹 EVM compatibility can make integrations easier for wallets, protocols, and analytics tools.\n\n🔹 An RWA-focused chain may provide a more relevant audience.\n\n5. What changes the thesis\n\n🔹 Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention.\n\n🔹 Distribution is complete only when users stay.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is a Distribution Bet, Not a Shortcut. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-06-distribution-bet.png",
+    "imageLocalPath": "images/propbase-november-2026/day-06-distribution-bet.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "The technical fit",
+        "bullets": [
+          "Robinhood Chain describes itself as permissionless and Ethereum-compatible.",
+          "That lowers the barrier for projects exploring deployment there."
+        ]
+      },
+      {
+        "heading": "The audience may expand",
+        "bullets": [
+          "Propbase says the move can reach new users, builders, and potential liquidity providers.",
+          "Those are opportunities, not confirmed adoption metrics."
+        ]
+      },
+      {
+        "heading": "A chain is not a shortcut",
+        "bullets": [
+          "Deployment does not guarantee trading depth or endorsement by Robinhood.",
+          "Users still have to choose to participate."
+        ]
+      },
+      {
+        "heading": "The bull case",
+        "bullets": [
+          "EVM compatibility can make integrations easier for wallets, protocols, and analytics tools.",
+          "An RWA-focused chain may provide a more relevant audience."
+        ]
+      },
+      {
+        "heading": "What changes the thesis",
+        "bullets": [
+          "Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention.",
+          "Distribution is complete only when users stay."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "date": "2026-11-24",
+    "time": "19:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+    "format": "long_x_post",
+    "text": "Real estate tokens do not become liquid because they are digital.\n\n@PropbaseApp still faces thin markets, transfer rules, valuation gaps, and concentration risk after issuance.\n\nHere’s the skeptical case every tokenized-property thesis should survive 👇\n\nLiquidity Is the Hardest Problem in Tokenized Real Estate\n\n1. Property is naturally illiquid\n\n◾ A building cannot be sold as quickly as a major crypto asset.\n\n◾ Tokenization divides exposure but does not erase the property’s time horizon.\n\n2. Secondary depth matters\n\n◾ An orderbook only becomes useful when buyers and sellers actually meet.\n\n◾ A listed market can still be thin.\n\n3. Restrictions matter\n\n◾ Real-world assets may carry jurisdictional, compliance, transfer, or eligibility conditions.\n\n◾ Those rules can reduce the number of potential traders.\n\n4. Concentration is easy to miss\n\n◾ A few wallets or properties can represent a large share of the market.\n\n◾ That can make a system more fragile than the interface suggests.\n\n5. What improves the case\n\n◾ Transparent performance, deeper participation, clearer rules, and repeat marketplace activity would strengthen the thesis.\n\n◾ Without them, liquidity remains aspirational.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Liquidity Is the Hardest Problem in Tokenized Real Estate. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-07-liquidity-risk.png",
+    "imageLocalPath": "images/propbase-november-2026/day-07-liquidity-risk.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "Property is naturally illiquid",
+        "bullets": [
+          "A building cannot be sold as quickly as a major crypto asset.",
+          "Tokenization divides exposure but does not erase the property’s time horizon."
+        ]
+      },
+      {
+        "heading": "Secondary depth matters",
+        "bullets": [
+          "An orderbook only becomes useful when buyers and sellers actually meet.",
+          "A listed market can still be thin."
+        ]
+      },
+      {
+        "heading": "Restrictions matter",
+        "bullets": [
+          "Real-world assets may carry jurisdictional, compliance, transfer, or eligibility conditions.",
+          "Those rules can reduce the number of potential traders."
+        ]
+      },
+      {
+        "heading": "Concentration is easy to miss",
+        "bullets": [
+          "A few wallets or properties can represent a large share of the market.",
+          "That can make a system more fragile than the interface suggests."
+        ]
+      },
+      {
+        "heading": "What improves the case",
+        "bullets": [
+          "Transparent performance, deeper participation, clearer rules, and repeat marketplace activity would strengthen the thesis.",
+          "Without them, liquidity remains aspirational."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 8,
+    "date": "2026-11-27",
+    "time": "22:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Staking Is Not a Substitute for Supply Analysis",
+    "format": "long_x_post",
+    "text": "Staking screenshots can hide a supply problem.\n\n@PropbaseApp reports 165M+ $PROPS staked, but tokenomics work still means checking unlocks, emissions, liquidity, and what staking actually unlocks.\n\nLet’s inspect the parts that matter after the headline 👇\n\nStaking Is Not a Substitute for Supply Analysis\n\n1. The current headline\n\n🔸 Propbase reported more than 165M $PROPS staked and described that as over 31% of circulating supply.\n\n🔸 That indicates participation, but it does not explain every supply dynamic.\n\n2. Circulating supply matters\n\n🔸 Propbase’s tokenomics page reports a dated snapshot of circulating, locked, and untracked supply.\n\n🔸 Those figures must be refreshed before any live scheduling decision.\n\n3. Unlocks change the picture\n\n🔸 The page lists upcoming allocation unlocks and release schedules.\n\n🔸 Unlocks do not guarantee selling, but they do change the analysis.\n\n4. Staking needs utility\n\n🔸 Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n🔸 APY alone is not a substitute for product usage.\n\n5. What to monitor\n\n🔸 Track supply growth, concentration, staking retention, liquidity, and platform activity together.\n\n🔸 The thesis is stronger when staking and usage move in the same direction.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Staking Is Not a Substitute for Supply Analysis. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-08-staking-supply.png",
+    "imageLocalPath": "images/propbase-november-2026/day-08-staking-supply.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "The current headline",
+        "bullets": [
+          "Propbase reported more than 165M $PROPS staked and described that as over 31% of circulating supply.",
+          "That indicates participation, but it does not explain every supply dynamic."
+        ]
+      },
+      {
+        "heading": "Circulating supply matters",
+        "bullets": [
+          "Propbase’s tokenomics page reports a dated snapshot of circulating, locked, and untracked supply.",
+          "Those figures must be refreshed before any live scheduling decision."
+        ]
+      },
+      {
+        "heading": "Unlocks change the picture",
+        "bullets": [
+          "The page lists upcoming allocation unlocks and release schedules.",
+          "Unlocks do not guarantee selling, but they do change the analysis."
+        ]
+      },
+      {
+        "heading": "Staking needs utility",
+        "bullets": [
+          "Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "APY alone is not a substitute for product usage."
+        ]
+      },
+      {
+        "heading": "What to monitor",
+        "bullets": [
+          "Track supply growth, concentration, staking retention, liquidity, and platform activity together.",
+          "The thesis is stronger when staking and usage move in the same direction."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "date": "2026-11-30",
+    "time": "20:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The $PROPS Mispricing Thesis Has to Earn Itself",
+    "format": "long_x_post",
+    "text": "Undervalued is a thesis, not a fact.\n\n@PropbaseApp has real platform claims, a live token expansion, and reported staking activity, but $PROPS still has to convert those signals into durable demand.\n\nHere’s how the bull case can fail in practice 👇\n\nThe $PROPS Mispricing Thesis Has to Earn Itself\n\n1. The bull case\n\n▪️ Propbase has an operating real-estate tokenization platform, property claims, staking, and a new chain expansion.\n\n▪️ Those signals create a plausible research thesis.\n\n2. The demand question\n\n▪️ Users need to move beyond token access into property discovery, staking, membership, or marketplace activity.\n\n▪️ Attention without repeated participation is not durable demand.\n\n3. The value question\n\n▪️ Analysts need to compare supply growth, platform activity, liquidity, property performance, and token utility.\n\n▪️ Current valuation data must be refreshed immediately before scheduling.\n\n4. The bear case\n\n▪️ Listings may not scale, liquidity may remain thin, and staking incentives may not create broader ecosystem usage.\n\n▪️ Those risks can overwhelm the narrative.\n\n5. What invalidates it\n\n▪️ No measurable growth in users, property activity, marketplace depth, or utility consumption would weaken the thesis.\n\n▪️ Clear evidence must replace the undervalued label.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The $PROPS Mispricing Thesis Has to Earn Itself. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-09-mispricing-thesis.png",
+    "imageLocalPath": "images/propbase-november-2026/day-09-mispricing-thesis.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "The bull case",
+        "bullets": [
+          "Propbase has an operating real-estate tokenization platform, property claims, staking, and a new chain expansion.",
+          "Those signals create a plausible research thesis."
+        ]
+      },
+      {
+        "heading": "The demand question",
+        "bullets": [
+          "Users need to move beyond token access into property discovery, staking, membership, or marketplace activity.",
+          "Attention without repeated participation is not durable demand."
+        ]
+      },
+      {
+        "heading": "The value question",
+        "bullets": [
+          "Analysts need to compare supply growth, platform activity, liquidity, property performance, and token utility.",
+          "Current valuation data must be refreshed immediately before scheduling."
+        ]
+      },
+      {
+        "heading": "The bear case",
+        "bullets": [
+          "Listings may not scale, liquidity may remain thin, and staking incentives may not create broader ecosystem usage.",
+          "Those risks can overwhelm the narrative."
+        ]
+      },
+      {
+        "heading": "What invalidates it",
+        "bullets": [
+          "No measurable growth in users, property activity, marketplace depth, or utility consumption would weaken the thesis.",
+          "Clear evidence must replace the undervalued label."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "date": "2026-12-03",
+    "time": "21:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "What Must Be True for the Propbase Thesis to Work",
+    "format": "long_x_post",
+    "text": "The Propbase thesis does not need more slogans.\n\n@PropbaseApp needs adoption, clear disclosures, usable liquidity, property performance, token utility, and execution to keep reinforcing one another.\n\nLet’s build the scorecard that decides what happens next 👇\n\nWhat Must Be True for the Propbase Thesis to Work\n\n1. Adoption must be visible\n\n🔹 Users need to move beyond token access into property, staking, membership, and marketplace functions.\n\n🔹 Repeated behavior matters more than launch announcements.\n\n2. Disclosure must stay strong\n\n🔹 Investors need property details, legal documents, entity information, and clear token terms.\n\n🔹 Transparency is part of the product.\n\n3. Liquidity must be usable\n\n🔹 The platform needs buyers, sellers, depth, and realistic secondary-market routes.\n\n🔹 More chains can widen access but do not guarantee activity.\n\n4. Utility must remain connected\n\n🔹 Staking, discounts, membership, and rewards need to reinforce real platform demand.\n\n🔹 Incentives should support use rather than replace it.\n\n5. Execution decides the story\n\n🔹 Property performance, roadmap delivery, disclosures, and product usage must compound together.\n\n🔹 That is the scorecard for the thesis.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for What Must Be True for the Propbase Thesis to Work. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-10-propbase-scorecard.png",
+    "imageLocalPath": "images/propbase-november-2026/day-10-propbase-scorecard.png",
+    "sourceLinks": [
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
+    ],
+    "sections": [
+      {
+        "heading": "Adoption must be visible",
+        "bullets": [
+          "Users need to move beyond token access into property, staking, membership, and marketplace functions.",
+          "Repeated behavior matters more than launch announcements."
+        ]
+      },
+      {
+        "heading": "Disclosure must stay strong",
+        "bullets": [
+          "Investors need property details, legal documents, entity information, and clear token terms.",
+          "Transparency is part of the product."
+        ]
+      },
+      {
+        "heading": "Liquidity must be usable",
+        "bullets": [
+          "The platform needs buyers, sellers, depth, and realistic secondary-market routes.",
+          "More chains can widen access but do not guarantee activity."
+        ]
+      },
+      {
+        "heading": "Utility must remain connected",
+        "bullets": [
+          "Staking, discounts, membership, and rewards need to reinforce real platform demand.",
+          "Incentives should support use rather than replace it."
+        ]
+      },
+      {
+        "heading": "Execution decides the story",
+        "bullets": [
+          "Property performance, roadmap delivery, disclosures, and product usage must compound together.",
+          "That is the scorecard for the thesis."
+        ]
+      }
+    ]
+  }
+]

@@ -1,82 +1,102 @@
 [
   {
     "day": 1,
-    "project": "Dimitra",
-    "title": "From Award to Infrastructure: What Dimitra’s Recognition Actually Signals",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: From Award to Infrastructure: What Dimitra’s Recognition Actually Signals. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-01-award-to-infrastructure.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-01-award-to-infrastructure.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The System Behind $PROPS Exists Before the Token",
+    "prompt": "5:2 ultrawide premium research-editorial banner for The System Behind $PROPS Exists Before the Token. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-01-system-before-token.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-01-system-before-token.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 2,
-    "project": "Dimitra",
-    "title": "Connected Farmer Community Edition and the Value of a Farm History",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Connected Farmer Community Edition and the Value of a Farm History. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-02-community-farm-history.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-02-community-farm-history.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "A Property Token Is Useless Without an Exit Route",
+    "prompt": "5:2 ultrawide premium research-editorial banner for A Property Token Is Useless Without an Exit Route. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-02-exit-route.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-02-exit-route.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 3,
-    "project": "Dimitra",
-    "title": "Why Connected Farmer Cooperative Edition Starts With the Network",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Why Connected Farmer Cooperative Edition Starts With the Network. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-03-cooperative-network.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-03-cooperative-network.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
+    "prompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-03-attention-vs-utility.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-03-attention-vs-utility.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 4,
-    "project": "Dimitra",
-    "title": "Dimitra’s Partner Network and the Human Side of AgTech Distribution",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Dimitra’s Partner Network and the Human Side of AgTech Distribution. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-04-partner-referral-network.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-04-partner-referral-network.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The Asset, the Entity, and the Token Are Three Different Things",
+    "prompt": "5:2 ultrawide premium research-editorial banner for The Asset, the Entity, and the Token Are Three Different Things. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-04-asset-entity-token.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-04-asset-entity-token.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 5,
-    "project": "Dimitra",
-    "title": "ID Connect and Why Indonesian Exporters Need Evidence Before Shipment",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: ID Connect and Why Indonesian Exporters Need Evidence Before Shipment. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-05-id-connect-eudr.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-05-id-connect-eudr.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
+    "prompt": "5:2 ultrawide premium research-editorial banner for Nexus Is the Product Test Most RWA Tokens Never Face. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-05-nexus-workflow.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-05-nexus-workflow.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 6,
-    "project": "Dimitra",
-    "title": "What the Mexico Coffee Deployment Says About Dimitra’s Practical Edge",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: What the Mexico Coffee Deployment Says About Dimitra’s Practical Edge. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-06-mexico-coffee-traceability.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-06-mexico-coffee-traceability.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
+    "prompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is a Distribution Bet, Not a Shortcut. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-06-distribution-bet.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-06-distribution-bet.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 7,
-    "project": "Dimitra",
-    "title": "The Quiet Importance of Comparable Supplier Evidence",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The Quiet Importance of Comparable Supplier Evidence. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-07-comparable-supplier-evidence.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-07-comparable-supplier-evidence.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
+    "prompt": "5:2 ultrawide premium research-editorial banner for Liquidity Is the Hardest Problem in Tokenized Real Estate. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-07-liquidity-risk.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-07-liquidity-risk.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 8,
-    "project": "Dimitra",
-    "title": "Why Dimitra’s Protocol Matters Beyond the Farm Interface",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Why Dimitra’s Protocol Matters Beyond the Farm Interface. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-08-connected-outcomes-stack.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-08-connected-outcomes-stack.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Staking Is Not a Substitute for Supply Analysis",
+    "prompt": "5:2 ultrawide premium research-editorial banner for Staking Is Not a Substitute for Supply Analysis. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-08-staking-supply.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-08-staking-supply.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 9,
-    "project": "Dimitra",
-    "title": "The EUDR Clock",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The EUDR Clock. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-09-eudr-clock.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-09-eudr-clock.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The $PROPS Mispricing Thesis Has to Earn Itself",
+    "prompt": "5:2 ultrawide premium research-editorial banner for The $PROPS Mispricing Thesis Has to Earn Itself. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-09-mispricing-thesis.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-09-mispricing-thesis.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   },
   {
     "day": 10,
-    "project": "Dimitra",
-    "title": "The Data Must Travel",
-    "prompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The Data Must Travel. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "localPath": "images/dimitra-october-2026/day-10-data-must-travel.png",
-    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-10-data-must-travel.png"
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "What Must Be True for the Propbase Thesis to Work",
+    "prompt": "5:2 ultrawide premium research-editorial banner for What Must Be True for the Propbase Thesis to Work. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "localPath": "images/propbase-november-2026/day-10-propbase-scorecard.png",
+    "publicUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-10-propbase-scorecard.png",
+    "overlayInstruction": "Place headline in the left dark negative space. Add the exact supplied white Propbase logo at lower right in tldraw."
   }
 ]

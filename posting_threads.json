@@ -1,470 +1,560 @@
 [
   {
     "day": 1,
-    "date": "2026-10-23",
-    "time": "20:00",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "From Award to Infrastructure: What Dimitra’s Recognition Actually Signals",
+    "date": "2026-11-06",
+    "time": "18:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The System Behind $PROPS Exists Before the Token",
     "format": "long_x_post",
-    "text": "Awards get attention for a day.\n\nThe harder question is whether @dimitratech is becoming infrastructure farmers, cooperatives, and buyers keep using after the applause fades.\n\nLet’s see what the recognition is really pointing toward in practice for farmers 👇\n\nFrom Award to Infrastructure: What Dimitra’s Recognition Actually Signals\n\n1. Recognition is evidence of use\n\n▪️ The award points to a shared digital layer, not a single feature.\n\n▪️ Dimitra has connected mapping, traceability, due diligence, and agricultural intelligence across real deployments.\n\n2. Why the footprint matters\n\n▪️ Farmers, cooperatives, exporters, governments, and finance partners can work from a common record.\n\n▪️ That reduces repeated data collection and gives smallholders a clearer route into formal markets.\n\n3. What is already live\n\n▪️ The platform is active across more than thirty countries and increasingly supports reporting and compliance workflows.\n\n▪️ Recognition matters because it follows deployment, not only a polished demo.\n\n4. What has to hold\n\n▪️ The trophy fades if field records stop getting updated.\n\n▪️ The durable test is whether trusted farm-level proof still helps people sell, comply, and plan.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: From Award to Infrastructure: What Dimitra’s Recognition Actually Signals. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-01-award-to-infrastructure.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-01-award-to-infrastructure.png",
+    "text": "A token can be live before it is useful.\n\n@PropbaseApp has property diligence, LLC structure, a marketplace, and a utility token. The harder question is whether the whole loop actually works in sequence.\n\nLet’s trace the system before judging $PROPS 👇\n\nThe System Behind $PROPS Exists Before the Token\n\n1. The infrastructure comes first\n\n▪️ Propbase says listings go through valuation, ownership verification, rental-demand analysis, and property review.\n\n▪️ The asset and its documentation come before the onchain representation.\n\n2. The entity matters\n\n▪️ Propbase says each asset is placed inside an LLC with supporting documentation.\n\n▪️ That legal layer is different from the wallet balance shown to a token holder.\n\n3. The marketplace completes the loop\n\n▪️ After funding, tokenized shares are distributed and Propbase describes a P2P orderbook marketplace.\n\n▪️ That is the difference between issuing a token and designing a route through the platform.\n\n4. Where $PROPS fits\n\n▪️ Propbase connects $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n▪️ Those functions need to reinforce the property and marketplace loop.\n\n5. What would invalidate the thesis\n\n▪️ Weak disclosures, shallow marketplace activity, or unclear token rights would break the infrastructure story.\n\n▪️ The layers must keep reinforcing one another.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The System Behind $PROPS Exists Before the Token. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-01-system-before-token.png",
+    "imageLocalPath": "images/propbase-november-2026/day-01-system-before-token.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "Recognition is evidence of use",
+        "heading": "The infrastructure comes first",
         "bullets": [
-          "The award points to a shared digital layer, not a single feature.",
-          "Dimitra has connected mapping, traceability, due diligence, and agricultural intelligence across real deployments."
+          "Propbase says listings go through valuation, ownership verification, rental-demand analysis, and property review.",
+          "The asset and its documentation come before the onchain representation."
         ]
       },
       {
-        "heading": "Why the footprint matters",
+        "heading": "The entity matters",
         "bullets": [
-          "Farmers, cooperatives, exporters, governments, and finance partners can work from a common record.",
-          "That reduces repeated data collection and gives smallholders a clearer route into formal markets."
+          "Propbase says each asset is placed inside an LLC with supporting documentation.",
+          "That legal layer is different from the wallet balance shown to a token holder."
         ]
       },
       {
-        "heading": "What is already live",
+        "heading": "The marketplace completes the loop",
         "bullets": [
-          "The platform is active across more than thirty countries and increasingly supports reporting and compliance workflows.",
-          "Recognition matters because it follows deployment, not only a polished demo."
+          "After funding, tokenized shares are distributed and Propbase describes a P2P orderbook marketplace.",
+          "That is the difference between issuing a token and designing a route through the platform."
         ]
       },
       {
-        "heading": "What has to hold",
+        "heading": "Where $PROPS fits",
         "bullets": [
-          "The trophy fades if field records stop getting updated.",
-          "The durable test is whether trusted farm-level proof still helps people sell, comply, and plan."
+          "Propbase connects $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "Those functions need to reinforce the property and marketplace loop."
+        ]
+      },
+      {
+        "heading": "What would invalidate the thesis",
+        "bullets": [
+          "Weak disclosures, shallow marketplace activity, or unclear token rights would break the infrastructure story.",
+          "The layers must keep reinforcing one another."
         ]
       }
     ]
   },
   {
     "day": 2,
-    "date": "2026-10-25",
-    "time": "20:15",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "Connected Farmer Community Edition and the Value of a Farm History",
+    "date": "2026-11-09",
+    "time": "20:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "A Property Token Is Useless Without an Exit Route",
     "format": "long_x_post",
-    "text": "Most farm software remembers the last task, not the whole season.\n\n@dimitratech’s Community Edition gives individual growers a way to build a farm history that can keep getting more useful season after season.\n\nHere’s why that changes the starting line 👇\n\nConnected Farmer Community Edition and the Value of a Farm History\n\n1. A record that compounds\n\n▪️ Community Edition gives an individual grower a starting point for registering land, mapping fields, and logging activity.\n\n▪️ That history becomes more valuable when it remains available next season.\n\n2. Why continuity changes the conversation\n\n▪️ Buyers and cooperatives want evidence that survives beyond a single form or shipment.\n\n▪️ A living record shows what changed, what worked, and how production moved over time.\n\n3. The wider platform\n\n▪️ The individual layer connects to agronomy, monitoring, and traceability rather than forcing farmers into separate tools.\n\n▪️ That makes the first step easier to keep using.\n\n4. The practical test\n\n▪️ A digital history has to help the farmer prove production without becoming another reporting burden.\n\n▪️ Its value is measured by decisions and opportunities it unlocks.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Connected Farmer Community Edition and the Value of a Farm History. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-02-community-farm-history.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-02-community-farm-history.png",
+    "text": "Minting a property token is the easy headline.\n\n@PropbaseApp still has to give holders a credible route from ownership records to a buyer, a bid, or a secondary trade in practice today.\n\nHere’s where the exit route becomes the real product test 👇\n\nA Property Token Is Useless Without an Exit Route\n\n1. Issuance is not liquidity\n\n🔹 A token can exist without buyers, bids, orderbook depth, or reliable price discovery.\n\n🔹 The difficult part begins after the token reaches a wallet.\n\n2. Propbase’s stated route\n\n🔹 Propbase describes an initial property auction followed by token distribution and a P2P marketplace.\n\n🔹 The route is designed, but its depth must be demonstrated through activity.\n\n3. Where friction appears\n\n🔹 Secondary buyers need property information, legal context, and enough counterparties to trade.\n\n🔹 Valuation becomes harder when properties are unique and trading is infrequent.\n\n4. The bullish case\n\n🔹 A property-specific marketplace can be clearer than forcing users through unrelated exchanges.\n\n🔹 Transparent documents and repeat participation could improve confidence.\n\n5. The bear case\n\n🔹 Thin demand, transfer restrictions, and unclear valuation can leave the exit route theoretical.\n\n🔹 The thesis fails if holders can buy but cannot find credible counterparties.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for A Property Token Is Useless Without an Exit Route. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-02-exit-route.png",
+    "imageLocalPath": "images/propbase-november-2026/day-02-exit-route.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "A record that compounds",
+        "heading": "Issuance is not liquidity",
         "bullets": [
-          "Community Edition gives an individual grower a starting point for registering land, mapping fields, and logging activity.",
-          "That history becomes more valuable when it remains available next season."
+          "A token can exist without buyers, bids, orderbook depth, or reliable price discovery.",
+          "The difficult part begins after the token reaches a wallet."
         ]
       },
       {
-        "heading": "Why continuity changes the conversation",
+        "heading": "Propbase’s stated route",
         "bullets": [
-          "Buyers and cooperatives want evidence that survives beyond a single form or shipment.",
-          "A living record shows what changed, what worked, and how production moved over time."
+          "Propbase describes an initial property auction followed by token distribution and a P2P marketplace.",
+          "The route is designed, but its depth must be demonstrated through activity."
         ]
       },
       {
-        "heading": "The wider platform",
+        "heading": "Where friction appears",
         "bullets": [
-          "The individual layer connects to agronomy, monitoring, and traceability rather than forcing farmers into separate tools.",
-          "That makes the first step easier to keep using."
+          "Secondary buyers need property information, legal context, and enough counterparties to trade.",
+          "Valuation becomes harder when properties are unique and trading is infrequent."
         ]
       },
       {
-        "heading": "The practical test",
+        "heading": "The bullish case",
         "bullets": [
-          "A digital history has to help the farmer prove production without becoming another reporting burden.",
-          "Its value is measured by decisions and opportunities it unlocks."
+          "A property-specific marketplace can be clearer than forcing users through unrelated exchanges.",
+          "Transparent documents and repeat participation could improve confidence."
+        ]
+      },
+      {
+        "heading": "The bear case",
+        "bullets": [
+          "Thin demand, transfer restrictions, and unclear valuation can leave the exit route theoretical.",
+          "The thesis fails if holders can buy but cannot find credible counterparties."
         ]
       }
     ]
   },
   {
     "day": 3,
-    "date": "2026-10-27",
-    "time": "20:30",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "Why Connected Farmer Cooperative Edition Starts With the Network",
+    "date": "2026-11-12",
+    "time": "19:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?",
     "format": "long_x_post",
-    "text": "A cooperative already knows who the farmers are.\n\nThe missing layer is turning that trust into records, traceability, and market-ready evidence with @dimitratech.\n\nLet’s look at the network effect hiding inside the model without starting from zero again 👇\n\nWhy Connected Farmer Cooperative Edition Starts With the Network\n\n1. Trust is already there\n\n▪️ Cooperatives begin with relationships, local knowledge, and shared responsibility.\n\n▪️ The missing layer is making that trust legible to markets and institutions.\n\n2. A shared record changes scale\n\n▪️ Field maps, crop activity, and compliance evidence can be organized across many growers.\n\n▪️ That gives buyers a clearer view without asking each farmer to solve the same problem alone.\n\n3. Why the network effect matters\n\n▪️ One connected cooperative record is more useful than dozens of isolated files.\n\n▪️ It supports traceability, planning, and finance conversations at the same time.\n\n4. Where it gets tested\n\n▪️ The model has to work during harvest pressure, weak connectivity, and changing requirements.\n\n▪️ That is where infrastructure earns credibility.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Why Connected Farmer Cooperative Edition Starts With the Network. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-03-cooperative-network.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-03-cooperative-network.png",
+    "text": "Attention can arrive faster than utility.\n\n@PropbaseApp now has $PROPS live on Robinhood Chain, but a wider network only matters if the token earns real use beyond the announcement.\n\nLet’s separate distribution from proof before calling it value 👇\n\nRobinhood Chain Is Pricing Attention. Can $PROPS Price Utility?\n\n1. What is confirmed\n\n◾ Propbase announced that $PROPS is live on Robinhood Chain and published a contract and Uniswap route.\n\n◾ That confirms deployment, not guaranteed liquidity or adoption.\n\n2. Why the chain matters\n\n◾ Robinhood Chain describes itself as an Ethereum-compatible Layer 2 built for onchain financial infrastructure.\n\n◾ That creates a relevant environment for RWA builders.\n\n3. Where utility has to show up\n\n◾ Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n◾ The token needs repeat use beyond the launch announcement.\n\n4. The bull case\n\n◾ A new chain can expand discovery among users, developers, and potential liquidity providers.\n\n◾ New access routes may improve discoverability.\n\n5. The falsifiers\n\n◾ If activity remains launch-driven and utility stays disconnected from platform use, the distribution thesis weakens.\n\n◾ Thin liquidity would make the expansion mostly an attention event.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is Pricing Attention. Can $PROPS Price Utility?. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-03-attention-vs-utility.png",
+    "imageLocalPath": "images/propbase-november-2026/day-03-attention-vs-utility.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "Trust is already there",
+        "heading": "What is confirmed",
         "bullets": [
-          "Cooperatives begin with relationships, local knowledge, and shared responsibility.",
-          "The missing layer is making that trust legible to markets and institutions."
+          "Propbase announced that $PROPS is live on Robinhood Chain and published a contract and Uniswap route.",
+          "That confirms deployment, not guaranteed liquidity or adoption."
         ]
       },
       {
-        "heading": "A shared record changes scale",
+        "heading": "Why the chain matters",
         "bullets": [
-          "Field maps, crop activity, and compliance evidence can be organized across many growers.",
-          "That gives buyers a clearer view without asking each farmer to solve the same problem alone."
+          "Robinhood Chain describes itself as an Ethereum-compatible Layer 2 built for onchain financial infrastructure.",
+          "That creates a relevant environment for RWA builders."
         ]
       },
       {
-        "heading": "Why the network effect matters",
+        "heading": "Where utility has to show up",
         "bullets": [
-          "One connected cooperative record is more useful than dozens of isolated files.",
-          "It supports traceability, planning, and finance conversations at the same time."
+          "Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "The token needs repeat use beyond the launch announcement."
         ]
       },
       {
-        "heading": "Where it gets tested",
+        "heading": "The bull case",
         "bullets": [
-          "The model has to work during harvest pressure, weak connectivity, and changing requirements.",
-          "That is where infrastructure earns credibility."
+          "A new chain can expand discovery among users, developers, and potential liquidity providers.",
+          "New access routes may improve discoverability."
+        ]
+      },
+      {
+        "heading": "The falsifiers",
+        "bullets": [
+          "If activity remains launch-driven and utility stays disconnected from platform use, the distribution thesis weakens.",
+          "Thin liquidity would make the expansion mostly an attention event."
         ]
       }
     ]
   },
   {
     "day": 4,
-    "date": "2026-10-29",
-    "time": "20:45",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "Dimitra’s Partner Network and the Human Side of AgTech Distribution",
+    "date": "2026-11-15",
+    "time": "22:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The Asset, the Entity, and the Token Are Three Different Things",
     "format": "long_x_post",
-    "text": "The fastest way to reach a farmer may still be through someone they already trust.\n\n@dimitratech’s Partner Network turns local relationships into a route for software, support, and adoption.\n\nLet’s see why distribution may matter as much as technology today 👇\n\nDimitra’s Partner Network and the Human Side of AgTech Distribution\n\n1. Distribution is a human problem\n\n▪️ Technology is adopted faster when it arrives through someone the community already trusts.\n\n▪️ Dimitra’s partner network makes local knowledge part of the route to adoption.\n\n2. What partners add\n\n▪️ Local advisors can explain the workflow, support onboarding, and connect software to real agricultural practice.\n\n▪️ That is more useful than simply handing a farmer another login.\n\n3. A broader reach\n\n▪️ Partners turn one platform into many regional entry points for farmers, cooperatives, and buyers.\n\n▪️ The network can carry context that a central team cannot reproduce everywhere.\n\n4. The measure of success\n\n▪️ A referral only matters if it becomes repeated use and better evidence.\n\n▪️ Distribution and product quality have to reinforce each other.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Dimitra’s Partner Network and the Human Side of AgTech Distribution. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-04-partner-referral-network.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-04-partner-referral-network.png",
+    "text": "A property token is not the property.\n\n@PropbaseApp separates the asset, the holding entity, the legal documents, and the token exposure. Confusing those layers is how RWA narratives get over-sold.\n\nLet’s map what the holder actually owns 👇\n\nThe Asset, the Entity, and the Token Are Three Different Things\n\n1. The physical asset\n\n🔸 The property remains subject to location, condition, demand, management, and legal status.\n\n🔸 Tokenization does not remove those real-world variables.\n\n2. The holding entity\n\n🔸 Propbase says the property is placed inside an LLC.\n\n🔸 That structure is different from the token balance held in a wallet.\n\n3. The documents\n\n🔸 Propbase references title deeds, LLC registration, management contracts, and purchase contracts.\n\n🔸 These documents help explain the relationship between asset and entity.\n\n4. The token\n\n🔸 The token represents platform-defined exposure to the underlying structure.\n\n🔸 Exact rights depend on applicable terms, jurisdiction, and offering documents.\n\n5. The research test\n\n🔸 Strong RWA analysis follows property, entity, documents, and token terms separately.\n\n🔸 The thesis weakens when those layers are collapsed into one slogan.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The Asset, the Entity, and the Token Are Three Different Things. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-04-asset-entity-token.png",
+    "imageLocalPath": "images/propbase-november-2026/day-04-asset-entity-token.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "Distribution is a human problem",
+        "heading": "The physical asset",
         "bullets": [
-          "Technology is adopted faster when it arrives through someone the community already trusts.",
-          "Dimitra’s partner network makes local knowledge part of the route to adoption."
+          "The property remains subject to location, condition, demand, management, and legal status.",
+          "Tokenization does not remove those real-world variables."
         ]
       },
       {
-        "heading": "What partners add",
+        "heading": "The holding entity",
         "bullets": [
-          "Local advisors can explain the workflow, support onboarding, and connect software to real agricultural practice.",
-          "That is more useful than simply handing a farmer another login."
+          "Propbase says the property is placed inside an LLC.",
+          "That structure is different from the token balance held in a wallet."
         ]
       },
       {
-        "heading": "A broader reach",
+        "heading": "The documents",
         "bullets": [
-          "Partners turn one platform into many regional entry points for farmers, cooperatives, and buyers.",
-          "The network can carry context that a central team cannot reproduce everywhere."
+          "Propbase references title deeds, LLC registration, management contracts, and purchase contracts.",
+          "These documents help explain the relationship between asset and entity."
         ]
       },
       {
-        "heading": "The measure of success",
+        "heading": "The token",
         "bullets": [
-          "A referral only matters if it becomes repeated use and better evidence.",
-          "Distribution and product quality have to reinforce each other."
+          "The token represents platform-defined exposure to the underlying structure.",
+          "Exact rights depend on applicable terms, jurisdiction, and offering documents."
+        ]
+      },
+      {
+        "heading": "The research test",
+        "bullets": [
+          "Strong RWA analysis follows property, entity, documents, and token terms separately.",
+          "The thesis weakens when those layers are collapsed into one slogan."
         ]
       }
     ]
   },
   {
     "day": 5,
-    "date": "2026-10-31",
-    "time": "21:00",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "ID Connect and Why Indonesian Exporters Need Evidence Before Shipment",
+    "date": "2026-11-18",
+    "time": "18:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Nexus Is the Product Test Most RWA Tokens Never Face",
     "format": "long_x_post",
-    "text": "EUDR compliance is not won at the port.\n\nIt is built months earlier through farm maps, geolocation, due diligence, and records that can survive scrutiny with @dimitratech.\n\nHere’s what ID Connect makes visible before the shipment leaves the country in time 👇\n\nID Connect and Why Indonesian Exporters Need Evidence Before Shipment\n\n1. Evidence starts before export\n\n▪️ EUDR readiness is built through mapped plots, geolocation, due diligence, and records that can be checked later.\n\n▪️ ID Connect puts those ingredients into a workflow for Indonesian supply chains.\n\n2. Why the port is too late\n\n▪️ A shipment cannot repair missing farm evidence at the last minute.\n\n▪️ The useful work happens upstream, while production and land information are still accessible.\n\n3. What a national layer changes\n\n▪️ A shared program can make registration and verification more consistent across many participants.\n\n▪️ That reduces the gap between a smallholder’s reality and a buyer’s compliance requirement.\n\n4. The real test\n\n▪️ Evidence must be complete enough for scrutiny and practical enough for exporters to maintain.\n\n▪️ That is where a platform becomes part of trade infrastructure.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: ID Connect and Why Indonesian Exporters Need Evidence Before Shipment. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-05-id-connect-eudr.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-05-id-connect-eudr.png",
+    "text": "Most RWA demos stop at the mint button.\n\n@PropbaseApp’s Nexus workflow has to survive diligence, funding, documents, distribution, and trading before the token becomes a product in the real world.\n\nLet’s walk through the part that usually gets skipped 👇\n\nNexus Is the Product Test Most RWA Tokens Never Face\n\n1. It starts with an application\n\n▪️ Propbase says sellers apply before a property enters the platform.\n\n▪️ The process includes valuation, ownership verification, and rental-demand analysis.\n\n2. Funding is part of the test\n\n▪️ The property auction has a targeted funding requirement before the LLC transfer is completed.\n\n▪️ That creates a real checkpoint between listing and distribution.\n\n3. Documents are part of the experience\n\n▪️ Propbase says investors can review specifications, media, and legal documents.\n\n▪️ A strong workflow makes diligence visible rather than hiding it behind marketing.\n\n4. Distribution comes later\n\n▪️ Tokenized shares are distributed after the funding process.\n\n▪️ The token follows an asset and entity workflow.\n\n5. The product question\n\n▪️ Nexus has to reduce repeated friction for buyers and sellers.\n\n▪️ If it cannot, the tokenization layer is mostly cosmetic.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Nexus Is the Product Test Most RWA Tokens Never Face. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-05-nexus-workflow.png",
+    "imageLocalPath": "images/propbase-november-2026/day-05-nexus-workflow.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "Evidence starts before export",
+        "heading": "It starts with an application",
         "bullets": [
-          "EUDR readiness is built through mapped plots, geolocation, due diligence, and records that can be checked later.",
-          "ID Connect puts those ingredients into a workflow for Indonesian supply chains."
+          "Propbase says sellers apply before a property enters the platform.",
+          "The process includes valuation, ownership verification, and rental-demand analysis."
         ]
       },
       {
-        "heading": "Why the port is too late",
+        "heading": "Funding is part of the test",
         "bullets": [
-          "A shipment cannot repair missing farm evidence at the last minute.",
-          "The useful work happens upstream, while production and land information are still accessible."
+          "The property auction has a targeted funding requirement before the LLC transfer is completed.",
+          "That creates a real checkpoint between listing and distribution."
         ]
       },
       {
-        "heading": "What a national layer changes",
+        "heading": "Documents are part of the experience",
         "bullets": [
-          "A shared program can make registration and verification more consistent across many participants.",
-          "That reduces the gap between a smallholder’s reality and a buyer’s compliance requirement."
+          "Propbase says investors can review specifications, media, and legal documents.",
+          "A strong workflow makes diligence visible rather than hiding it behind marketing."
         ]
       },
       {
-        "heading": "The real test",
+        "heading": "Distribution comes later",
         "bullets": [
-          "Evidence must be complete enough for scrutiny and practical enough for exporters to maintain.",
-          "That is where a platform becomes part of trade infrastructure."
+          "Tokenized shares are distributed after the funding process.",
+          "The token follows an asset and entity workflow."
+        ]
+      },
+      {
+        "heading": "The product question",
+        "bullets": [
+          "Nexus has to reduce repeated friction for buyers and sellers.",
+          "If it cannot, the tokenization layer is mostly cosmetic."
         ]
       }
     ]
   },
   {
     "day": 6,
-    "date": "2026-11-02",
-    "time": "21:15",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "What the Mexico Coffee Deployment Says About Dimitra’s Practical Edge",
+    "date": "2026-11-21",
+    "time": "21:30",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Robinhood Chain Is a Distribution Bet, Not a Shortcut",
     "format": "long_x_post",
-    "text": "“Real-world adoption” sounds vague until a system has to trace 156 tonnes of coffee.\n\nAt Cafetales Hamburgo, @dimitratech connects about 100 smallholders to a full traceability workflow.\n\nLet’s follow the evidence chain from plot to buyer in the real world 👇\n\nWhat the Mexico Coffee Deployment Says About Dimitra’s Practical Edge\n\n1. The numbers make it concrete\n\n▪️ Tracing 156 tonnes of coffee from about 100 smallholders turns adoption into an operational test.\n\n▪️ The system has to connect plots, growers, harvest activity, and buyer-facing proof.\n\n2. A chain rather than a dashboard\n\n▪️ The value sits in the handoffs from field to cooperative to exporter.\n\n▪️ Each handoff is stronger when the underlying record stays consistent.\n\n3. Why this deployment matters\n\n▪️ It shows how traceability can support real supply-chain decisions rather than exist as a static report.\n\n▪️ That is a more demanding standard than simply digitizing a form.\n\n4. The practical edge\n\n▪️ The best agricultural technology disappears into the workflow while making the evidence clearer.\n\n▪️ That is the edge a live deployment can prove.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: What the Mexico Coffee Deployment Says About Dimitra’s Practical Edge. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-06-mexico-coffee-traceability.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-06-mexico-coffee-traceability.png",
+    "text": "A new chain can widen reach without demand.\n\n@PropbaseApp calls Robinhood Chain a new route for $PROPS access, but adoption still depends on integrations, venues, and users choosing to stay.\n\nLet’s examine the distribution bet without the shortcut story 👇\n\nRobinhood Chain Is a Distribution Bet, Not a Shortcut\n\n1. The technical fit\n\n🔹 Robinhood Chain describes itself as permissionless and Ethereum-compatible.\n\n🔹 That lowers the barrier for projects exploring deployment there.\n\n2. The audience may expand\n\n🔹 Propbase says the move can reach new users, builders, and potential liquidity providers.\n\n🔹 Those are opportunities, not confirmed adoption metrics.\n\n3. A chain is not a shortcut\n\n🔹 Deployment does not guarantee trading depth or endorsement by Robinhood.\n\n🔹 Users still have to choose to participate.\n\n4. The bull case\n\n🔹 EVM compatibility can make integrations easier for wallets, protocols, and analytics tools.\n\n🔹 An RWA-focused chain may provide a more relevant audience.\n\n5. What changes the thesis\n\n🔹 Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention.\n\n🔹 Distribution is complete only when users stay.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Robinhood Chain Is a Distribution Bet, Not a Shortcut. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-06-distribution-bet.png",
+    "imageLocalPath": "images/propbase-november-2026/day-06-distribution-bet.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "The numbers make it concrete",
+        "heading": "The technical fit",
         "bullets": [
-          "Tracing 156 tonnes of coffee from about 100 smallholders turns adoption into an operational test.",
-          "The system has to connect plots, growers, harvest activity, and buyer-facing proof."
+          "Robinhood Chain describes itself as permissionless and Ethereum-compatible.",
+          "That lowers the barrier for projects exploring deployment there."
         ]
       },
       {
-        "heading": "A chain rather than a dashboard",
+        "heading": "The audience may expand",
         "bullets": [
-          "The value sits in the handoffs from field to cooperative to exporter.",
-          "Each handoff is stronger when the underlying record stays consistent."
+          "Propbase says the move can reach new users, builders, and potential liquidity providers.",
+          "Those are opportunities, not confirmed adoption metrics."
         ]
       },
       {
-        "heading": "Why this deployment matters",
+        "heading": "A chain is not a shortcut",
         "bullets": [
-          "It shows how traceability can support real supply-chain decisions rather than exist as a static report.",
-          "That is a more demanding standard than simply digitizing a form."
+          "Deployment does not guarantee trading depth or endorsement by Robinhood.",
+          "Users still have to choose to participate."
         ]
       },
       {
-        "heading": "The practical edge",
+        "heading": "The bull case",
         "bullets": [
-          "The best agricultural technology disappears into the workflow while making the evidence clearer.",
-          "That is the edge a live deployment can prove."
+          "EVM compatibility can make integrations easier for wallets, protocols, and analytics tools.",
+          "An RWA-focused chain may provide a more relevant audience."
+        ]
+      },
+      {
+        "heading": "What changes the thesis",
+        "bullets": [
+          "Sustained volume, active holders, integrations, and platform usage matter more than launch-day attention.",
+          "Distribution is complete only when users stay."
         ]
       }
     ]
   },
   {
     "day": 7,
-    "date": "2026-11-04",
-    "time": "21:30",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "The Quiet Importance of Comparable Supplier Evidence",
+    "date": "2026-11-24",
+    "time": "19:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Liquidity Is the Hardest Problem in Tokenized Real Estate",
     "format": "long_x_post",
-    "text": "A folder full of certificates can still hide a data problem.\n\n@dimitratech is tackling the harder task: turning mixed supplier documents into evidence teams can actually compare.\n\nLet’s see why formatting is not the real issue before the next audit arrives 👇\n\nThe Quiet Importance of Comparable Supplier Evidence\n\n1. The format is not the problem\n\n▪️ Supplier documents can be complete in isolation and still impossible to compare.\n\n▪️ Different templates, missing fields, and inconsistent evidence slow every review.\n\n2. A common evidence layer\n\n▪️ The hard work is turning mixed files into records that teams can assess on the same terms.\n\n▪️ That makes gaps visible before they become audit surprises.\n\n3. Why buyers care\n\n▪️ Comparable evidence helps procurement teams separate real risk from paperwork noise.\n\n▪️ It also gives suppliers a clearer path to correct what is missing.\n\n4. What good infrastructure does\n\n▪️ The system should make the messy part easier without pretending the underlying work is simple.\n\n▪️ Clarity is the outcome, not decoration.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The Quiet Importance of Comparable Supplier Evidence. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-07-comparable-supplier-evidence.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-07-comparable-supplier-evidence.png",
+    "text": "Real estate tokens do not become liquid because they are digital.\n\n@PropbaseApp still faces thin markets, transfer rules, valuation gaps, and concentration risk after issuance.\n\nHere’s the skeptical case every tokenized-property thesis should survive 👇\n\nLiquidity Is the Hardest Problem in Tokenized Real Estate\n\n1. Property is naturally illiquid\n\n◾ A building cannot be sold as quickly as a major crypto asset.\n\n◾ Tokenization divides exposure but does not erase the property’s time horizon.\n\n2. Secondary depth matters\n\n◾ An orderbook only becomes useful when buyers and sellers actually meet.\n\n◾ A listed market can still be thin.\n\n3. Restrictions matter\n\n◾ Real-world assets may carry jurisdictional, compliance, transfer, or eligibility conditions.\n\n◾ Those rules can reduce the number of potential traders.\n\n4. Concentration is easy to miss\n\n◾ A few wallets or properties can represent a large share of the market.\n\n◾ That can make a system more fragile than the interface suggests.\n\n5. What improves the case\n\n◾ Transparent performance, deeper participation, clearer rules, and repeat marketplace activity would strengthen the thesis.\n\n◾ Without them, liquidity remains aspirational.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Liquidity Is the Hardest Problem in Tokenized Real Estate. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-07-liquidity-risk.png",
+    "imageLocalPath": "images/propbase-november-2026/day-07-liquidity-risk.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "The format is not the problem",
+        "heading": "Property is naturally illiquid",
         "bullets": [
-          "Supplier documents can be complete in isolation and still impossible to compare.",
-          "Different templates, missing fields, and inconsistent evidence slow every review."
+          "A building cannot be sold as quickly as a major crypto asset.",
+          "Tokenization divides exposure but does not erase the property’s time horizon."
         ]
       },
       {
-        "heading": "A common evidence layer",
+        "heading": "Secondary depth matters",
         "bullets": [
-          "The hard work is turning mixed files into records that teams can assess on the same terms.",
-          "That makes gaps visible before they become audit surprises."
+          "An orderbook only becomes useful when buyers and sellers actually meet.",
+          "A listed market can still be thin."
         ]
       },
       {
-        "heading": "Why buyers care",
+        "heading": "Restrictions matter",
         "bullets": [
-          "Comparable evidence helps procurement teams separate real risk from paperwork noise.",
-          "It also gives suppliers a clearer path to correct what is missing."
+          "Real-world assets may carry jurisdictional, compliance, transfer, or eligibility conditions.",
+          "Those rules can reduce the number of potential traders."
         ]
       },
       {
-        "heading": "What good infrastructure does",
+        "heading": "Concentration is easy to miss",
         "bullets": [
-          "The system should make the messy part easier without pretending the underlying work is simple.",
-          "Clarity is the outcome, not decoration."
+          "A few wallets or properties can represent a large share of the market.",
+          "That can make a system more fragile than the interface suggests."
+        ]
+      },
+      {
+        "heading": "What improves the case",
+        "bullets": [
+          "Transparent performance, deeper participation, clearer rules, and repeat marketplace activity would strengthen the thesis.",
+          "Without them, liquidity remains aspirational."
         ]
       }
     ]
   },
   {
     "day": 8,
-    "date": "2026-11-06",
-    "time": "21:45",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "Why Dimitra’s Protocol Matters Beyond the Farm Interface",
+    "date": "2026-11-27",
+    "time": "22:45",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "Staking Is Not a Substitute for Supply Analysis",
     "format": "long_x_post",
-    "text": "Farmers do not need blockchain theater.\n\nThey need AI, satellite, traceability, and payments to work together without making field workflows harder with @dimitratech.\n\nHere’s where the protocol layer earns its place with less friction for everyone involved 👇\n\nWhy Dimitra’s Protocol Matters Beyond the Farm Interface\n\n1. The interface is only the front door\n\n▪️ Farmers need workflows that connect AI, satellite observations, traceability, and payments.\n\n▪️ A protocol matters when those pieces can share a trusted record.\n\n2. A stack built around outcomes\n\n▪️ Data collection, verification, and usage can support decisions across the value chain.\n\n▪️ The goal is fewer disconnected tools and fewer repeated explanations.\n\n3. Why this matters beyond farms\n\n▪️ Exporters, governments, lenders, and buyers all need evidence that travels with the product.\n\n▪️ The protocol gives that evidence a place to remain coherent.\n\n4. The real measure\n\n▪️ Technology earns its place when it reduces friction in a field workflow.\n\n▪️ If the stack helps people act, it is doing more than adding another dashboard.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: Why Dimitra’s Protocol Matters Beyond the Farm Interface. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-08-connected-outcomes-stack.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-08-connected-outcomes-stack.png",
+    "text": "Staking screenshots can hide a supply problem.\n\n@PropbaseApp reports 165M+ $PROPS staked, but tokenomics work still means checking unlocks, emissions, liquidity, and what staking actually unlocks.\n\nLet’s inspect the parts that matter after the headline 👇\n\nStaking Is Not a Substitute for Supply Analysis\n\n1. The current headline\n\n🔸 Propbase reported more than 165M $PROPS staked and described that as over 31% of circulating supply.\n\n🔸 That indicates participation, but it does not explain every supply dynamic.\n\n2. Circulating supply matters\n\n🔸 Propbase’s tokenomics page reports a dated snapshot of circulating, locked, and untracked supply.\n\n🔸 Those figures must be refreshed before any live scheduling decision.\n\n3. Unlocks change the picture\n\n🔸 The page lists upcoming allocation unlocks and release schedules.\n\n🔸 Unlocks do not guarantee selling, but they do change the analysis.\n\n4. Staking needs utility\n\n🔸 Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.\n\n🔸 APY alone is not a substitute for product usage.\n\n5. What to monitor\n\n🔸 Track supply growth, concentration, staking retention, liquidity, and platform activity together.\n\n🔸 The thesis is stronger when staking and usage move in the same direction.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for Staking Is Not a Substitute for Supply Analysis. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-08-staking-supply.png",
+    "imageLocalPath": "images/propbase-november-2026/day-08-staking-supply.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "The interface is only the front door",
+        "heading": "The current headline",
         "bullets": [
-          "Farmers need workflows that connect AI, satellite observations, traceability, and payments.",
-          "A protocol matters when those pieces can share a trusted record."
+          "Propbase reported more than 165M $PROPS staked and described that as over 31% of circulating supply.",
+          "That indicates participation, but it does not explain every supply dynamic."
         ]
       },
       {
-        "heading": "A stack built around outcomes",
+        "heading": "Circulating supply matters",
         "bullets": [
-          "Data collection, verification, and usage can support decisions across the value chain.",
-          "The goal is fewer disconnected tools and fewer repeated explanations."
+          "Propbase’s tokenomics page reports a dated snapshot of circulating, locked, and untracked supply.",
+          "Those figures must be refreshed before any live scheduling decision."
         ]
       },
       {
-        "heading": "Why this matters beyond farms",
+        "heading": "Unlocks change the picture",
         "bullets": [
-          "Exporters, governments, lenders, and buyers all need evidence that travels with the product.",
-          "The protocol gives that evidence a place to remain coherent."
+          "The page lists upcoming allocation unlocks and release schedules.",
+          "Unlocks do not guarantee selling, but they do change the analysis."
         ]
       },
       {
-        "heading": "The real measure",
+        "heading": "Staking needs utility",
         "bullets": [
-          "Technology earns its place when it reduces friction in a field workflow.",
-          "If the stack helps people act, it is doing more than adding another dashboard."
+          "Propbase links $PROPS to staking, membership, fee discounts, and ecosystem rewards.",
+          "APY alone is not a substitute for product usage."
+        ]
+      },
+      {
+        "heading": "What to monitor",
+        "bullets": [
+          "Track supply growth, concentration, staking retention, liquidity, and platform activity together.",
+          "The thesis is stronger when staking and usage move in the same direction."
         ]
       }
     ]
   },
   {
     "day": 9,
-    "date": "2026-11-08",
-    "time": "22:00",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "The EUDR Clock",
+    "date": "2026-11-30",
+    "time": "20:15",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "The $PROPS Mispricing Thesis Has to Earn Itself",
     "format": "long_x_post",
-    "text": "The EUDR clock is not a countdown to start collecting data.\n\nIt is a countdown to prove what should already be in the system, and @dimitratech is showing why farm-level evidence comes first.\n\nHere is the short version before the next export deadline arrives 👇\n\nThe EUDR Clock\n\n1. The clock is a readiness test\n\n▪️ EUDR deadlines do not create the need for data; they expose whether the data exists.\n\n▪️ Farm-level evidence has to be collected before a shipment is waiting.\n\n2. What the countdown reveals\n\n▪️ Maps, geolocation, supplier records, and due diligence are connected tasks, not last-minute attachments.\n\n▪️ The earlier they are organized, the fewer surprises arrive at the border.\n\n3. Why Dimitra’s angle matters\n\n▪️ A workflow that starts at the farm can make compliance more repeatable across a supply chain.\n\n▪️ That is more useful than a compliance promise made after the fact.\n\n4. The short version\n\n▪️ Prepare the evidence while the work is happening.\n\n▪️ That is how the deadline becomes a process instead of a panic.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The EUDR Clock. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-09-eudr-clock.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-09-eudr-clock.png",
+    "text": "Undervalued is a thesis, not a fact.\n\n@PropbaseApp has real platform claims, a live token expansion, and reported staking activity, but $PROPS still has to convert those signals into durable demand.\n\nHere’s how the bull case can fail in practice 👇\n\nThe $PROPS Mispricing Thesis Has to Earn Itself\n\n1. The bull case\n\n▪️ Propbase has an operating real-estate tokenization platform, property claims, staking, and a new chain expansion.\n\n▪️ Those signals create a plausible research thesis.\n\n2. The demand question\n\n▪️ Users need to move beyond token access into property discovery, staking, membership, or marketplace activity.\n\n▪️ Attention without repeated participation is not durable demand.\n\n3. The value question\n\n▪️ Analysts need to compare supply growth, platform activity, liquidity, property performance, and token utility.\n\n▪️ Current valuation data must be refreshed immediately before scheduling.\n\n4. The bear case\n\n▪️ Listings may not scale, liquidity may remain thin, and staking incentives may not create broader ecosystem usage.\n\n▪️ Those risks can overwhelm the narrative.\n\n5. What invalidates it\n\n▪️ No measurable growth in users, property activity, marketplace depth, or utility consumption would weaken the thesis.\n\n▪️ Clear evidence must replace the undervalued label.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for The $PROPS Mispricing Thesis Has to Earn Itself. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-09-mispricing-thesis.png",
+    "imageLocalPath": "images/propbase-november-2026/day-09-mispricing-thesis.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "The clock is a readiness test",
+        "heading": "The bull case",
         "bullets": [
-          "EUDR deadlines do not create the need for data; they expose whether the data exists.",
-          "Farm-level evidence has to be collected before a shipment is waiting."
+          "Propbase has an operating real-estate tokenization platform, property claims, staking, and a new chain expansion.",
+          "Those signals create a plausible research thesis."
         ]
       },
       {
-        "heading": "What the countdown reveals",
+        "heading": "The demand question",
         "bullets": [
-          "Maps, geolocation, supplier records, and due diligence are connected tasks, not last-minute attachments.",
-          "The earlier they are organized, the fewer surprises arrive at the border."
+          "Users need to move beyond token access into property discovery, staking, membership, or marketplace activity.",
+          "Attention without repeated participation is not durable demand."
         ]
       },
       {
-        "heading": "Why Dimitra’s angle matters",
+        "heading": "The value question",
         "bullets": [
-          "A workflow that starts at the farm can make compliance more repeatable across a supply chain.",
-          "That is more useful than a compliance promise made after the fact."
+          "Analysts need to compare supply growth, platform activity, liquidity, property performance, and token utility.",
+          "Current valuation data must be refreshed immediately before scheduling."
         ]
       },
       {
-        "heading": "The short version",
+        "heading": "The bear case",
         "bullets": [
-          "Prepare the evidence while the work is happening.",
-          "That is how the deadline becomes a process instead of a panic."
+          "Listings may not scale, liquidity may remain thin, and staking incentives may not create broader ecosystem usage.",
+          "Those risks can overwhelm the narrative."
+        ]
+      },
+      {
+        "heading": "What invalidates it",
+        "bullets": [
+          "No measurable growth in users, property activity, marketplace depth, or utility consumption would weaken the thesis.",
+          "Clear evidence must replace the undervalued label."
         ]
       }
     ]
   },
   {
     "day": 10,
-    "date": "2026-11-10",
-    "time": "22:15",
-    "project": "Dimitra",
-    "handle": "@dimitratech",
-    "title": "The Data Must Travel",
+    "date": "2026-12-03",
+    "time": "21:00",
+    "project": "Propbase",
+    "handle": "@PropbaseApp",
+    "title": "What Must Be True for the Propbase Thesis to Work",
     "format": "long_x_post",
-    "text": "A farm record is not valuable because it exists.\n\nIt matters when farmers, cooperatives, buyers, regulators, and lenders can use the same evidence with @dimitratech.\n\nThat is the part worth watching, so let’s trace where the data travels in practice today 👇\n\nThe Data Must Travel\n\n1. A record is only useful when it moves\n\n▪️ Farm data has to travel from the field to cooperatives, buyers, regulators, and lenders without losing its meaning.\n\n▪️ That is what turns a record into infrastructure.\n\n2. One proof, many decisions\n\n▪️ The same evidence can support traceability, compliance, market access, and financing.\n\n▪️ Each new use becomes easier when the base record remains consistent.\n\n3. Why portability matters\n\n▪️ Closed files force every participant to start over.\n\n▪️ A shared evidence layer lets different actors work from the same source.\n\n4. Where this leads\n\n▪️ The value is not in storing more data; it is in making trustworthy data usable across the system.\n\n▪️ That is the part worth watching as Dimitra’s network grows.",
-    "imagePrompt": "Crayon and colored-pencil editorial agricultural illustration with emerald Matrix-inspired binary data rain and restrained 16-bit pixel-art accents, specific to: The Data Must Travel. Warm textured paper, human field scene, small green Dimitra logo integrated, no text, no visible words, no labels, no numbers, no UI, no watermark, and no unrelated logos.",
-    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/dimitra-october-2026/day-10-data-must-travel.png",
-    "imageLocalPath": "images/dimitra-october-2026/day-10-data-must-travel.png",
+    "text": "The Propbase thesis does not need more slogans.\n\n@PropbaseApp needs adoption, clear disclosures, usable liquidity, property performance, token utility, and execution to keep reinforcing one another.\n\nLet’s build the scorecard that decides what happens next 👇\n\nWhat Must Be True for the Propbase Thesis to Work\n\n1. Adoption must be visible\n\n🔹 Users need to move beyond token access into property, staking, membership, and marketplace functions.\n\n🔹 Repeated behavior matters more than launch announcements.\n\n2. Disclosure must stay strong\n\n🔹 Investors need property details, legal documents, entity information, and clear token terms.\n\n🔹 Transparency is part of the product.\n\n3. Liquidity must be usable\n\n🔹 The platform needs buyers, sellers, depth, and realistic secondary-market routes.\n\n🔹 More chains can widen access but do not guarantee activity.\n\n4. Utility must remain connected\n\n🔹 Staking, discounts, membership, and rewards need to reinforce real platform demand.\n\n🔹 Incentives should support use rather than replace it.\n\n5. Execution decides the story\n\n🔹 Property performance, roadmap delivery, disclosures, and product usage must compound together.\n\n🔹 That is the scorecard for the thesis.\n\nWhich part of this thesis would you investigate next?",
+    "imagePrompt": "5:2 ultrawide premium research-editorial banner for What Must Be True for the Propbase Thesis to Work. Deep charcoal-black archive atmosphere, cobalt-blue shadows, restrained neon-lime highlights, crisp 16-bit pixel-art and large-pixel detailing, human-led scene, dark negative space on the left for headline, exact supplied white Propbase logo to be added as a separate lower-right tldraw overlay, no text, no generated letters, no numbers, no tickers, no price data, no UI, no captions, no logos, and no watermark.",
+    "imageUrl": "https://raw.githubusercontent.com/aarkay4153-code/fdv-ops-calendar/main/images/propbase-november-2026/day-10-propbase-scorecard.png",
+    "imageLocalPath": "images/propbase-november-2026/day-10-propbase-scorecard.png",
     "sourceLinks": [
-      "https://dimitra.io/",
-      "https://x.com/dimitratech"
+      "https://www.propbase.app/howitworks",
+      "https://www.propbase.app/tokenomics",
+      "https://www.propbase.app/roadmap",
+      "https://docs.robinhood.com/chain/"
     ],
     "sections": [
       {
-        "heading": "A record is only useful when it moves",
+        "heading": "Adoption must be visible",
         "bullets": [
-          "Farm data has to travel from the field to cooperatives, buyers, regulators, and lenders without losing its meaning.",
-          "That is what turns a record into infrastructure."
+          "Users need to move beyond token access into property, staking, membership, and marketplace functions.",
+          "Repeated behavior matters more than launch announcements."
         ]
       },
       {
-        "heading": "One proof, many decisions",
+        "heading": "Disclosure must stay strong",
         "bullets": [
-          "The same evidence can support traceability, compliance, market access, and financing.",
-          "Each new use becomes easier when the base record remains consistent."
+          "Investors need property details, legal documents, entity information, and clear token terms.",
+          "Transparency is part of the product."
         ]
       },
       {
-        "heading": "Why portability matters",
+        "heading": "Liquidity must be usable",
         "bullets": [
-          "Closed files force every participant to start over.",
-          "A shared evidence layer lets different actors work from the same source."
+          "The platform needs buyers, sellers, depth, and realistic secondary-market routes.",
+          "More chains can widen access but do not guarantee activity."
         ]
       },
       {
-        "heading": "Where this leads",
+        "heading": "Utility must remain connected",
         "bullets": [
-          "The value is not in storing more data; it is in making trustworthy data usable across the system.",
-          "That is the part worth watching as Dimitra’s network grows."
+          "Staking, discounts, membership, and rewards need to reinforce real platform demand.",
+          "Incentives should support use rather than replace it."
+        ]
+      },
+      {
+        "heading": "Execution decides the story",
+        "bullets": [
+          "Property performance, roadmap delivery, disclosures, and product usage must compound together.",
+          "That is the scorecard for the thesis."
         ]
       }
     ]

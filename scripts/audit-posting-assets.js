@@ -43,8 +43,8 @@ for (const post of posts) {
     if (intro.trim().startsWith("@")) errors.push(`Day ${post.day}: intro starts with a tag`);
     if (handleLine < 2) errors.push(`Day ${post.day}: tag should be integrated on line 2 or later`);
   }
-  if (!Array.isArray(post.sections) || post.sections.length !== 4) {
-    errors.push(`Day ${post.day}: expected 4 sections`);
+  if (!Array.isArray(post.sections) || ![4, 5].includes(post.sections.length)) {
+    errors.push(`Day ${post.day}: expected 4 or 5 sections`);
   }
   if (post.sections && post.sections.some((section) => /^Conclusion$/i.test(section.heading))) {
     errors.push(`Day ${post.day}: Conclusion heading is not allowed`);
