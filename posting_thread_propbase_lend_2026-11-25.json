@@ -1,0 +1,93 @@
+{
+  "project": "Propbase Lend",
+  "handle": "@PropbaseApp",
+  "internalTitle": "Propbase Lend Explained — Connected X Thread",
+  "format": "connected_x_thread",
+  "scheduleDate": "2026-11-25",
+  "scheduleTimeIst": "18:00",
+  "timezone": "Asia/Kolkata",
+  "threadItems": [
+    {
+      "position": 0,
+      "text": "Property tokens can generate rent, but what happens when the owner needs cash without giving up the asset?\n\n@PropbaseApp Lend is designed to turn staked property tokens into USDC borrowing power while the rental position stays intact.\n\nThe full mechanism 👇",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/00-borrow-without-selling.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/00-borrow-without-selling.png",
+      "altText": "Classic 16-bit pixel infographic showing a property owner unlocking USDC liquidity without selling a rental property token."
+    },
+    {
+      "position": 1,
+      "text": "1/10\n\nPropbase Lend creates a two-sided market inside one shared pool.\n\nProperty-token holders can pledge eligible assets and borrow USDC. USDC holders supply the liquidity and earn interest from borrowers.\n\nOne side unlocks capital. The other puts stablecoins to work.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/01-one-pool-two-sides.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/01-one-pool-two-sides.png",
+      "altText": "Classic 16-bit infographic showing property-token borrowers and USDC suppliers connected through one shared lending pool."
+    },
+    {
+      "position": 2,
+      "text": "2/10\n\nThe borrower does not sell the property position.\n\nEligible property tokens are staked, pledged as collateral and used to access USDC from a shared pool.\n\nThe owner keeps the property exposure instead of ending it merely to release capital on-chain.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/02-stake-pledge-borrow.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/02-stake-pledge-borrow.png",
+      "altText": "Classic 16-bit infographic illustrating the stake, pledge and borrow process for an eligible property token."
+    },
+    {
+      "position": 3,
+      "text": "3/10\n\nThe collateral is designed to remain productive.\n\nPledged property tokens continue generating rental yield while the loan stays open. Borrowing does not automatically switch off the income-producing side of the asset.\n\nThat changes the cost equation.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/03-collateral-keeps-earning.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/03-collateral-keeps-earning.png",
+      "altText": "Classic 16-bit infographic showing pledged property collateral continuing to produce rental income during a loan."
+    },
+    {
+      "position": 4,
+      "text": "4/10\n\nMost crypto lending relies on price-triggered liquidation.\n\nPropbase Lend is designed without an engine that automatically sells pledged property tokens when market prices fluctuate.\n\nThat removes one familiar trigger, but borrowing still carries risk.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/04-different-liquidation-model.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/04-different-liquidation-model.png",
+      "altText": "Classic 16-bit comparison infographic contrasting price-triggered crypto liquidation with Propbase Lend's stated design."
+    },
+    {
+      "position": 5,
+      "text": "5/10\n\nYour borrowing limit is whichever of four constraints is tightest:\n\n▪ Property-level LTV\n▪ Membership allowance\n▪ Property exposure limit\n▪ Available pool liquidity\n\nThe interface shows the binding constraint instead of hiding it inside one number.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/05-borrowing-constraints.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/05-borrowing-constraints.png",
+      "altText": "Classic 16-bit infographic presenting four separate constraints that determine the maximum borrowing limit."
+    },
+    {
+      "position": 6,
+      "text": "6/10\n\nBorrowing rates respond to pool utilisation and rise through predefined tiers as demand consumes liquidity.\n\nOnce a loan opens, its rate is locked rather than changing continuously.\n\nBorrowing more or repaying can update the applicable position rate.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/06-utilisation-rate.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/06-utilisation-rate.png",
+      "altText": "Classic 16-bit infographic showing borrowing-rate tiers rising as shared-pool utilisation increases."
+    },
+    {
+      "position": 7,
+      "text": "7/10\n\nThere is no fixed loan term or forced repayment schedule.\n\nBorrowers can repay everything, reduce principal, or pay only accrued interest while keeping the loan open.\n\nPayments cover interest first, and collateral is released proportionally as principal falls.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/07-repayment-options.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/07-repayment-options.png",
+      "altText": "Classic 16-bit decision-tree infographic showing full, partial and interest-only loan repayment paths."
+    },
+    {
+      "position": 8,
+      "text": "8/10\n\nUSDC suppliers fund the shared lending pool and earn interest paid by borrowers.\n\nDeposits have no fixed lock-up. The interface separates principal from earnings and shows gross rates, net rates after protocol fees, claimable interest and lifetime earnings.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/08-lender-earnings.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/08-lender-earnings.png",
+      "altText": "Classic 16-bit infographic showing USDC supplied to a shared pool and borrower interest flowing back to suppliers."
+    },
+    {
+      "position": 9,
+      "text": "9/10\n\nFlexible deposits do not guarantee that every USDC is immediately withdrawable.\n\nThe interface separates cash available now from liquidity already deployed in loans. Deployed funds keep earning until repayments return liquidity to the shared pool.",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/09-available-vs-deployed.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/09-available-vs-deployed.png",
+      "altText": "Classic 16-bit infographic separating USDC available for withdrawal from USDC deployed across active property-backed loans."
+    },
+    {
+      "position": 10,
+      "text": "10/10\n\nBorrowing, lending, collateral, debt, interest, pool share and projections come together inside My Positions.\n\nEligible activity can also earn PROPS rewards.\n\nPropbase Lend is scheduled for 26 November at 7:30 PM IST. Which side would you use first?",
+      "imageLocalPath": "images/propbase-lend-thread-2026-11-25/10-my-positions.png",
+      "imageUrl": "https://aarkay4153-code.github.io/fdv-ops-calendar/images/propbase-lend-thread-2026-11-25/10-my-positions.png",
+      "altText": "Classic 16-bit dashboard infographic bringing collateral, debt, earnings, pool share and rewards into one My Positions view."
+    }
+  ],
+  "sourceLinks": [
+    "https://x.com/PropbaseApp/status/2124178941124719038",
+    "https://x.com/Propbase_Kev/status/2123470795603423725",
+    "https://propbase.com/roadmap"
+  ]
+}

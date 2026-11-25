@@ -588,6 +588,63 @@ function buildCreatePostInput({ post, channelId, dueAt }) {
   return input;
 }
 
+function buildCreateXThreadInput({ threadItems, channelId, dueAt }) {
+  if (!Array.isArray(threadItems) || threadItems.length < 2) {
+    throw new Error("An X thread requires at least two thread items.");
+  }
+
+  const normalizedItems = threadItems.map((item, index) => {
+    const text = normalizeText(item.text);
+    if (!text) throw new Error(`Thread item ${index} has no text.`);
+    if (text.length > 280) {
+      throw new Error(`Thread item ${index} exceeds 280 characters.`);
+    }
+    if (!item.imageUrl) {
+      throw new Error(`Thread item ${index} has no public image URL.`);
+    }
+    return {
+      text,
+      assets: [{ image: { url: item.imageUrl } }],
+    };
+  });
+
+  return {
+    text: normalizedItems[0].text,
+    channelId,
+    schedulingType: "automatic",
+    mode: "customScheduled",
+    dueAt,
+    metadata: {
+      twitter: {
+        thread: normalizedItems,
+      },
+    },
+  };
+}
+
+async function scheduleBufferXThread({
+  thread,
+  dryRun = false,
+  apiKey = process.env.BUFFER_API_KEY,
+  channelId = process.env.BUFFER_CHANNEL_ID,
+  fetchImpl = globalThis.fetch,
+}) {
+  const dueAt = istDateTimeToUtcIso(thread.scheduleDate, thread.scheduleTimeIst);
+  const input = buildCreateXThreadInput({
+    threadItems: thread.threadItems,
+    channelId: channelId || "BUFFER_CHANNEL_ID_REQUIRED_FOR_LIVE_RUN",
+    dueAt,
+  });
+
+  if (dryRun) return { status: "dry-run", dueAt, thread, input };
+  if (!channelId) {
+    throw new Error("BUFFER_CHANNEL_ID is required unless --dry-run is used.");
+  }
+
+  const bufferPost = await createBufferPost({ apiKey, input, fetchImpl });
+  return { status: "scheduled", dueAt, thread, bufferPost };
+}
+
 async function createBufferPost({
   apiKey,
   input,
@@ -798,6 +855,7 @@ module.exports = {
   X_LONG_POST_LIMIT,
   addDaysYmd,
   buildCreatePostInput,
+  buildCreateXThreadInput,
   buildPostingThreads,
   createBufferPost,
   defaultTargetDate,
@@ -812,6 +870,7 @@ module.exports = {
   parseArgs,
   readJson,
   scheduleBufferThread,
+  scheduleBufferXThread,
   splitBodySections,
   validatePostingThread,
   validatePostingThreads,

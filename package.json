@@ -12,6 +12,8 @@
     "buffer:channels": "node scripts/list-buffer-channels.js",
     "schedule:dry-run": "node scripts/schedule-buffer-thread.js --dry-run",
     "schedule:live": "node scripts/schedule-buffer-thread.js",
+    "schedule:x-thread:dry-run": "node scripts/schedule-buffer-x-thread.js --dry-run --file posting_thread_propbase_lend_2026-11-25.json",
+    "schedule:x-thread:live": "node scripts/schedule-buffer-x-thread.js --file posting_thread_propbase_lend_2026-11-25.json",
     "test": "node --test scripts/posting-thread-core.test.js",
     "generate:dashboard": "node scripts/generate-active-dashboard.js"
   }

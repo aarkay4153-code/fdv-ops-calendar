@@ -1,0 +1,17 @@
+{
+  "project": "Propbase Lend",
+  "designSystem": "Portrait editorial infographics in a classic physical 16-bit pixel-art style. Dark charcoal/navy background, neon-lime pathways, cobalt-blue USDC elements, warm gold yield accents, crisp white type, exact Propbase logo placed visibly in a contrasting lower corner. Each panel must explain one mechanism visually and remain distinct from the others.",
+  "prompts": [
+    { "position": 0, "headline": "BORROW WITHOUT SELLING?", "concept": "A property token remains visibly held while a parallel pathway unlocks USDC; rental coins continue flowing from the property. Hero overview, not a generic crypto scene." },
+    { "position": 1, "headline": "ONE POOL • TWO SIDES", "concept": "Two-sided market: property-token borrowers on one side, USDC suppliers on the other, connected through a single shared pool with directional arrows." },
+    { "position": 2, "headline": "STAKE • PLEDGE • BORROW", "concept": "Three-stage process infographic: stake the eligible property token, pledge it as collateral, receive USDC while property ownership exposure remains visible." },
+    { "position": 3, "headline": "COLLATERAL KEEPS EARNING", "concept": "A locked property token still produces a clearly separate stream of rental-yield coins while a loan position remains open." },
+    { "position": 4, "headline": "A DIFFERENT LIQUIDATION MODEL", "concept": "Split comparison: conventional crypto collateral approaching an automated sell trigger versus pledged property tokens without an automatic price-triggered sale engine; communicate difference without implying no risk." },
+    { "position": 5, "headline": "FOUR LIMITS • ONE ANSWER", "concept": "Four constraint gauges—property LTV, membership allowance, exposure limit, pool liquidity—converge on the tightest binding borrowing limit." },
+    { "position": 6, "headline": "UTILISATION SETS THE RATE", "concept": "Pool utilisation rises through stepped tiers; the active tier locks with a padlock when the loan opens, while more borrowing or repayment can shift the position." },
+    { "position": 7, "headline": "REPAY ON YOUR TERMS", "concept": "A branching decision tree with full repayment, partial principal reduction and interest-only payment; collateral tiles unlock proportionally as principal falls." },
+    { "position": 8, "headline": "SUPPLY USDC • EARN INTEREST", "concept": "Several human suppliers add USDC to one pool; capital routes to property-backed loans; gold interest flows back through a transparent earnings mechanism." },
+    { "position": 9, "headline": "AVAILABLE NOW VS DEPLOYED", "concept": "A transparent reservoir separates liquid USDC available for immediate withdrawal from capital deployed into active loans, with repayments returning liquidity." },
+    { "position": 10, "headline": "MY POSITIONS • ONE VIEW", "concept": "A unified pixel dashboard links property collateral, debt, interest, earnings, pool share and PROPS rewards around one central portfolio terminal." }
+  ]
+}

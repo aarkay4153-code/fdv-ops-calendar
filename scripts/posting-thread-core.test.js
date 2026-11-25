@@ -3,6 +3,7 @@ const assert = require("node:assert/strict");
 
 const {
   buildCreatePostInput,
+  buildCreateXThreadInput,
   buildPostingThreads,
   createBufferPost,
   defaultTargetDate,
@@ -93,6 +94,26 @@ test("buildCreatePostInput creates a single long-post Buffer payload", () => {
   assert.equal(input.dueAt, "2026-06-24T12:30:00.000Z");
   assert.equal(input.text, post.text);
   assert.equal(input.metadata, undefined);
+});
+
+test("buildCreateXThreadInput creates a connected X thread with an image per item", () => {
+  const threadItems = [
+    { text: "Root post", imageUrl: "https://example.com/root.png" },
+    { text: "1/1\n\nReply post", imageUrl: "https://example.com/reply.png" },
+  ];
+  const input = buildCreateXThreadInput({
+    threadItems,
+    channelId: "x-channel-123",
+    dueAt: "2026-11-25T12:30:00.000Z",
+  });
+
+  assert.equal(input.text, "Root post");
+  assert.equal(input.metadata.twitter.thread.length, 2);
+  assert.equal(input.metadata.twitter.thread[1].text, "1/1\n\nReply post");
+  assert.equal(
+    input.metadata.twitter.thread[1].assets[0].image.url,
+    "https://example.com/reply.png"
+  );
 });
 
 test("scheduleBufferThread dry-run returns the selected long post and payload", async () => {
